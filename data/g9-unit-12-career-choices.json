@@ -1,14 +1,16 @@
 {
   "unitId": "g9-unit-12-career-choices",
   "title": "Grade 9 - Unit 12: Career Choices",
-  "grammarTopics": ["Adverbial Clauses of Concession, Result, and Reason"],
+  "grammarTopics": [
+    "Adverbial Clauses"
+  ],
   "theory": {
-    "brief": "M«nh ¡ tr°ng tÎ: (1) Nh∞„ng bŸ: Although/Though + S + V, S + V (cÛ d•u ph©y nøu m«nh ¡ phÂ Èng tr∞€c). (2) Køt qu£: S + V + so + adj/adv + that + S + V ho∑c such + (a/an) + (adj) + N + that + S + V. (3) L˝ do: Because/Since/As + S + V (cÛ d•u ph©y nøu Èng tr∞€c).",
+    "brief": "M·ªánh ƒë·ªÅ tr·∫°ng t·ª´: (1) Nh∆∞·ª£ng b·ªô: Although/Though + S + V, S + V (c√≥ d·∫•u ph·∫©y n·∫øu m·ªánh ƒë·ªÅ ph·ª• ƒë·ª©ng tr∆∞·ªõc). (2) K·∫øt qu·∫£: S + V + so + adj/adv + that + S + V ho·∫∑c such + (a/an) + (adj) + N + that + S + V. (3) L√Ω do: Because/Since/As + S + V.",
     "examples": [
-      "Although it was difficult, he passed the exam. (M∑c d˘ khÛ, anh •y „ qua kÛ thi.)",
-      "The job was so hard that she quit. (CÙng vi«c khÛ øn n◊i cÙ •y ngh….)",
-      "Because he studied hard, he succeeded. (VÏ anh •y hÕc chm, anh •y th‡nh cÙng.)",
-      "Since you're not interested, I won't explain. (VÏ b°n khÙng quan t‚m, tÙi sΩ khÙng gi£i thÌch.)"
+      "Although it was difficult, he passed the exam. (M·∫∑c d√π kh√≥, anh ·∫•y ƒë√£ qua k·ª≥ thi.)",
+      "The job was so hard that she quit. (C√¥ng vi·ªác kh√≥ ƒë·∫øn n·ªói c√¥ ·∫•y b·ªè cu·ªôc.)",
+      "Because he studied hard, he succeeded. (V√¨ anh ·∫•y h·ªçc chƒÉm, anh ·∫•y th√†nh c√¥ng.)",
+      "Since you're not interested, I won't explain. (V√¨ b·∫°n kh√¥ng quan t√¢m, t√¥i s·∫Ω kh√¥ng gi·∫£i th√≠ch.)"
     ]
   },
   "exercises": [
@@ -16,300 +18,560 @@
       "id": 1,
       "type": "multiple-choice",
       "question": "__________ footballers are well-paid, they have short careers.",
-      "options": ["Because", "Although", "So", "That"],
+      "options": [
+        "Because",
+        "Although",
+        "So",
+        "That"
+      ],
       "correctIndex": 1,
-      "explanation": "M«nh ¡ nh∞„ng bŸ: Although",
-      "hints": ["Nh∞„ng bŸ í Although/Though"],
+      "explanation": "M·ªánh ƒë·ªÅ nh‚Üí‚Üíng b‚Üí: Although",
+      "hints": [
+        "Nh∆∞·ª£ng b·ªô ‚Üí Although/Though"
+      ],
       "points": 10
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "She applied for the job __________ she had no experience.",
-      "options": ["because", "although", "so", "since"],
+      "options": [
+        "because",
+        "although",
+        "so",
+        "since"
+      ],
       "correctIndex": 1,
-      "explanation": "Nh∞„ng bŸ: although/though",
-      "hints": ["M∑c d˘ í although"],
+      "explanation": "Nh∆∞·ª£ng b·ªô: although/though",
+      "hints": [
+        "M·∫∑c d√π ‚Üí although"
+      ],
       "points": 10
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "The factory was __________ far that he couldn't go there.",
-      "options": ["very", "so", "such", "too"],
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
       "correctIndex": 1,
-      "explanation": "so + adj + that: qu·...øn n◊i",
-      "hints": ["so + adj + that"],
+      "explanation": "so + adj + that: qu√°...ƒë·∫øn n·ªói",
+      "hints": [
+        "so + adj + that"
+      ],
       "points": 10
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "Katie was __________ a lazy worker that nobody hired her.",
-      "options": ["so", "such", "very", "too"],
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "such + a/an + adj + N + that",
-      "hints": ["such + a/an + N + that"],
+      "hints": [
+        "such + a/an + N + that"
+      ],
       "points": 10
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "__________ she was ill, she didn't attend the job fair.",
-      "options": ["Although", "Because", "So", "Such"],
+      "options": [
+        "Although",
+        "Because",
+        "So",
+        "Such"
+      ],
       "correctIndex": 1,
-      "explanation": "L˝ do: Because",
-      "hints": ["L˝ do í Because/Since/As"],
+      "explanation": "L√Ω do: Because",
+      "hints": [
+        "L√Ω do ‚Üí Because/Since/As"
+      ],
       "points": 10
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "__________ Henry is excellent at maths, he will become a mathematician.",
-      "options": ["Although", "Because", "Since", "So"],
+      "options": [
+        "Although",
+        "Because",
+        "Since",
+        "So"
+      ],
       "correctIndex": 2,
-      "explanation": "L˝ do: Since",
-      "hints": ["Since = Because"],
+      "explanation": "L√Ω do: Since",
+      "hints": [
+        "Since = Because"
+      ],
       "points": 10
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "Your voice is __________ soft that I can't hear you.",
-      "options": ["very", "so", "such", "too"],
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "so + adj + that",
-      "hints": ["so + adj + that"],
+      "hints": [
+        "so + adj + that"
+      ],
       "points": 10
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "He is __________ a handsome man that many think he's an actor.",
-      "options": ["so", "such", "very", "too"],
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "such + a/an + adj + N + that",
-      "hints": ["such + a/an + N + that"],
+      "hints": [
+        "such + a/an + N + that"
+      ],
       "points": 10
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "__________ she had a degree, she couldn't find a job.",
-      "options": ["Because", "Although", "Since", "As"],
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "As"
+      ],
       "correctIndex": 1,
-      "explanation": "Nh∞„ng bŸ: Although",
-      "hints": ["M∑c d˘ í Although"],
+      "explanation": "Nh∆∞·ª£ng b·ªô: Although",
+      "hints": [
+        "M·∫∑c d√π ‚Üí Although"
+      ],
       "points": 10
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "I couldn't go __________ there was a traffic jam.",
-      "options": ["although", "so", "because", "such"],
+      "options": [
+        "although",
+        "so",
+        "because",
+        "such"
+      ],
       "correctIndex": 2,
-      "explanation": "L˝ do: because",
-      "hints": ["VÏ í because"],
+      "explanation": "L√Ω do: because",
+      "hints": [
+        "V√¨ ‚Üí because"
+      ],
       "points": 10
     },
     {
       "id": 11,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Although", "my", "sister", "is", "a", "designer", ",", "she", "struggles"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Although",
+        "my",
+        "sister",
+        "is",
+        "a",
+        "designer",
+        ",",
+        "she",
+        "struggles"
+      ],
       "correctSentence": "Although my sister is a designer, she struggles.",
       "explanation": "Although + S + V, S + V",
-      "hints": ["Although..., S + V"],
+      "hints": [
+        "Although..., S + V"
+      ],
       "points": 10
     },
     {
       "id": 12,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["I", "want", "to", "be", "a", "pilot", "because", "I", "love", "flying"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "I",
+        "want",
+        "to",
+        "be",
+        "a",
+        "pilot",
+        "because",
+        "I",
+        "love",
+        "flying"
+      ],
       "correctSentence": "I want to be a pilot because I love flying.",
       "explanation": "S + V + because + S + V",
-      "hints": ["S + V + because..."],
+      "hints": [
+        "S + V + because..."
+      ],
       "points": 10
     },
     {
       "id": 13,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["My", "father", "has", "such", "a", "hard", "job", "that", "he", "works", "overtime"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "My",
+        "father",
+        "has",
+        "such",
+        "a",
+        "hard",
+        "job",
+        "that",
+        "he",
+        "works",
+        "overtime"
+      ],
       "correctSentence": "My father has such a hard job that he works overtime.",
       "explanation": "such + a + adj + N + that",
-      "hints": ["such + a + N + that"],
+      "hints": [
+        "such + a + N + that"
+      ],
       "points": 10
     },
     {
       "id": 14,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Since", "courses", "are", "short", ",", "students", "can", "work", "sooner"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Since",
+        "courses",
+        "are",
+        "short",
+        ",",
+        "students",
+        "can",
+        "work",
+        "sooner"
+      ],
       "correctSentence": "Since courses are short, students can work sooner.",
       "explanation": "Since + S + V, S + V",
-      "hints": ["Since..., S + V"],
+      "hints": [
+        "Since..., S + V"
+      ],
       "points": 10
     },
     {
       "id": 15,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "worker", "felt", "so", "bored", "that", "she", "quit"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "worker",
+        "felt",
+        "so",
+        "bored",
+        "that",
+        "she",
+        "quit"
+      ],
       "correctSentence": "The worker felt so bored that she quit.",
       "explanation": "so + adj + that",
-      "hints": ["so + adj + that"],
+      "hints": [
+        "so + adj + that"
+      ],
       "points": 10
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "She still applied __________ she had no chance.",
-      "options": ["because", "though", "so", "since"],
+      "options": [
+        "because",
+        "though",
+        "so",
+        "since"
+      ],
       "correctIndex": 1,
-      "explanation": "Nh∞„ng bŸ: though",
-      "hints": ["though = although"],
+      "explanation": "Nh∆∞·ª£ng b·ªô: though",
+      "hints": [
+        "though = although"
+      ],
       "points": 10
     },
     {
       "id": 17,
       "type": "multiple-choice",
       "question": "__________ she went early, she couldn't buy tickets.",
-      "options": ["Because", "Although", "Since", "As"],
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "As"
+      ],
       "correctIndex": 1,
-      "explanation": "Nh∞„ng bŸ: Although",
-      "hints": ["M∑c d˘ í Although"],
+      "explanation": "Nh∆∞·ª£ng b·ªô: Although",
+      "hints": [
+        "M·∫∑c d√π ‚Üí Although"
+      ],
       "points": 10
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "They are __________ creative designers that everyone admires them.",
-      "options": ["so", "such", "very", "too"],
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
       "correctIndex": 1,
-      "explanation": "such + adj + N (s— nhi¡u) + that",
-      "hints": ["such + N + that"],
+      "explanation": "such + adj + N (s‚Üí nhi‚Üíu) + that",
+      "hints": [
+        "such + N + that"
+      ],
       "points": 10
     },
     {
       "id": 19,
       "type": "multiple-choice",
       "question": "She was __________ a skilful florist that her shop attracted customers.",
-      "options": ["so", "such", "very", "too"],
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "such + a/an + adj + N + that",
-      "hints": ["such + a + N + that"],
+      "hints": [
+        "such + a + N + that"
+      ],
       "points": 10
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "__________ there was a power cut, Sally couldn't use the computer.",
-      "options": ["Although", "So", "Since", "Such"],
+      "options": [
+        "Although",
+        "So",
+        "Since",
+        "Such"
+      ],
       "correctIndex": 2,
-      "explanation": "L˝ do: Since",
-      "hints": ["Since = Because"],
+      "explanation": "L√Ω do: Since",
+      "hints": [
+        "Since = Because"
+      ],
       "points": 10
     },
     {
       "id": 21,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Though", "Mike", "felt", "tired", ",", "he", "finished", "homework"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Though",
+        "Mike",
+        "felt",
+        "tired",
+        ",",
+        "he",
+        "finished",
+        "homework"
+      ],
       "correctSentence": "Though Mike felt tired, he finished homework.",
       "explanation": "Though + S + V, S + V",
-      "hints": ["Though..., S + V"],
+      "hints": [
+        "Though..., S + V"
+      ],
       "points": 10
     },
     {
       "id": 22,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Mai", "practiced", "a", "lot", "because", "she", "wanted", "high", "scores"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Mai",
+        "practiced",
+        "a",
+        "lot",
+        "because",
+        "she",
+        "wanted",
+        "high",
+        "scores"
+      ],
       "correctSentence": "Mai practiced a lot because she wanted high scores.",
       "explanation": "S + V + because + S + V",
-      "hints": ["...because S + V"],
+      "hints": [
+        "...because S + V"
+      ],
       "points": 10
     },
     {
       "id": 23,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "test", "was", "so", "difficult", "that", "nobody", "passed"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "test",
+        "was",
+        "so",
+        "difficult",
+        "that",
+        "nobody",
+        "passed"
+      ],
       "correctSentence": "The test was so difficult that nobody passed.",
       "explanation": "so + adj + that",
-      "hints": ["so + adj + that"],
+      "hints": [
+        "so + adj + that"
+      ],
       "points": 10
     },
     {
       "id": 24,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["As", "she", "was", "experienced", ",", "she", "got", "the", "job"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "As",
+        "she",
+        "was",
+        "experienced",
+        ",",
+        "she",
+        "got",
+        "the",
+        "job"
+      ],
       "correctSentence": "As she was experienced, she got the job.",
       "explanation": "As + S + V, S + V",
-      "hints": ["As..., S + V"],
+      "hints": [
+        "As..., S + V"
+      ],
       "points": 10
     },
     {
       "id": 25,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Although", "she", "has", "a", "degree", ",", "she", "works", "part-time"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Although",
+        "she",
+        "has",
+        "a",
+        "degree",
+        ",",
+        "she",
+        "works",
+        "part-time"
+      ],
       "correctSentence": "Although she has a degree, she works part-time.",
       "explanation": "Although + S + V, S + V",
-      "hints": ["Although..., S + V"],
+      "hints": [
+        "Although..., S + V"
+      ],
       "points": 10
     },
     {
       "id": 26,
       "type": "multiple-choice",
       "question": "I'm __________ bad at navigation that I can't be a taxi driver.",
-      "options": ["very", "so", "such", "too"],
+      "options": [
+        "very",
+        "so",
+        "such",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "so + adj + that",
-      "hints": ["so + adj + that"],
+      "hints": [
+        "so + adj + that"
+      ],
       "points": 10
     },
     {
       "id": 27,
       "type": "multiple-choice",
       "question": "__________ Ms Nga is away, we'll postpone the meeting.",
-      "options": ["Although", "Because", "Since", "So"],
+      "options": [
+        "Although",
+        "Because",
+        "Since",
+        "So"
+      ],
       "correctIndex": 2,
-      "explanation": "L˝ do: Since",
-      "hints": ["Since = Because"],
+      "explanation": "L√Ω do: Since",
+      "hints": [
+        "Since = Because"
+      ],
       "points": 10
     },
     {
       "id": 28,
       "type": "multiple-choice",
       "question": "She does repetitive tasks, __________ she still likes her job.",
-      "options": ["because", "although", "so", "since"],
+      "options": [
+        "because",
+        "although",
+        "so",
+        "since"
+      ],
       "correctIndex": 1,
-      "explanation": "Nh∞„ng bŸ: although",
-      "hints": ["M∑c d˘ í although"],
+      "explanation": "Nh∆∞·ª£ng b·ªô: although",
+      "hints": [
+        "M·∫∑c d√π ‚Üí although"
+      ],
       "points": 10
     },
     {
       "id": 29,
       "type": "multiple-choice",
       "question": "It was __________ a difficult problem that nobody solved it.",
-      "options": ["so", "such", "very", "too"],
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
       "correctIndex": 1,
       "explanation": "such + a/an + adj + N + that",
-      "hints": ["such + a + N + that"],
+      "hints": [
+        "such + a + N + that"
+      ],
       "points": 10
     },
     {
       "id": 30,
       "type": "multiple-choice",
       "question": "I couldn't buy the book __________ I forgot money.",
-      "options": ["although", "so", "because", "such"],
+      "options": [
+        "although",
+        "so",
+        "because",
+        "such"
+      ],
       "correctIndex": 2,
-      "explanation": "L˝ do: because",
-      "hints": ["VÏ í because"],
+      "explanation": "L√Ω do: because",
+      "hints": [
+        "V√¨ ‚Üí because"
+      ],
       "points": 10
     }
   ]

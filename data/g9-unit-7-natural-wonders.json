@@ -1,14 +1,16 @@
 {
   "unitId": "g9-unit-7-natural-wonders",
   "title": "Grade 9 - Unit 7: Natural Wonders of the World",
-  "grammarTopics": ["Reported Questions (Yes/No)"],
+  "grammarTopics": [
+    "Reported Questions (Yes/No)"
+  ],
   "theory": {
-    "brief": "C‚u hœi gi·n tiøp Yes/No questions: Khi t∞›ng thu≠t c‚u hœi Yes/No, ta d˘ng c•u tr˙c S + asked + (O) + if/whether + S + V (l˘i thÏ). KhÙng £o ngÔ trong m«nh ¡ sau if/whether. D•u ch•m hœi (?) chuy√n th‡nh d•u ch•m (.)",
+    "brief": "C√¢u h·ªèi gi√°n ti·∫øp Yes/No: Khi t∆∞·ªùng thu·∫≠t c√¢u h·ªèi Yes/No, ta d√πng c·∫•u tr√∫c S + asked + (O) + if/whether + S + V (l√πi th√¨). Kh√¥ng ƒë·∫£o ng·ªØ trong m·ªánh ƒë·ªÅ sau if/whether. D·∫•u ch·∫•m h·ªèi (?) chuy·ªÉn th√†nh d·∫•u ch·∫•m (.).",
     "examples": [
-      "She asked me if I knew about Ha Long Bay. (CÙ •y hœi tÙi cÛ biøt v¡ VÀnh H° Long khÙng.)",
-      "He asked whether I enjoyed virtual tours. (Anh •y hœi tÙi cÛ thÌch tour £o khÙng.)",
-      "They asked if we wanted to visit natural wonders. (HÕ hœi ch˙ng tÙi cÛ mu—n thm kÛ quan thiÍn nhiÍn khÙng.)",
-      "I asked her whether she could join the trip. (TÙi hœi cÙ •y cÛ th√ tham gia chuyøn i khÙng.)"
+      "She asked me if I knew about Ha Long Bay. (C√¥ ·∫•y h·ªèi t√¥i c√≥ bi·∫øt v·ªÅ V·ªãnh H·∫° Long kh√¥ng.)",
+      "He asked whether I enjoyed virtual tours. (Anh ·∫•y h·ªèi t√¥i c√≥ th√≠ch tour ·∫£o kh√¥ng.)",
+      "They asked if we wanted to visit natural wonders. (H·ªç h·ªèi ch√∫ng t√¥i c√≥ mu·ªën thƒÉm k·ª≥ quan thi√™n nhi√™n kh√¥ng.)",
+      "I asked her whether she could join the trip. (T√¥i h·ªèi c√¥ ·∫•y c√≥ th·ªÉ tham gia chuy·∫øn ƒëi kh√¥ng.)"
     ]
   },
   "exercises": [
@@ -16,300 +18,559 @@
       "id": 1,
       "type": "multiple-choice",
       "question": "She asked me __________ about the Grand Canyon.",
-      "options": ["if I know", "if I knew", "do I know", "did I know"],
+      "options": [
+        "if I know",
+        "if I knew",
+        "do I know",
+        "did I know"
+      ],
       "correctIndex": 1,
-      "explanation": "C‚u hœi gi·n tiøp d˘ng if + S + V (l˘i thÏ)",
-      "hints": ["if + S + V", "L˘i thÏ: know í knew"],
+      "explanation": "C√¢u h·ªèi gi√°n ti·∫øp d√πng if + S + V (l‚Üíi th‚Üí)",
+      "hints": [
+        "if + S + V",
+        "L√πi th√¨: know ‚Üí knew"
+      ],
       "points": 10
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "He asked __________ I had ever visited Mount Everest.",
-      "options": ["if", "what", "where", "how"],
+      "options": [
+        "if",
+        "what",
+        "where",
+        "how"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes/No questions d˘ng 'if' ho∑c 'whether'",
-      "hints": ["Yes/No question í if/whether"],
+      "explanation": "Yes/No questions d√πng 'if' ho‚Üíc 'whether'",
+      "hints": [
+        "Yes/No question ‚Üí if/whether"
+      ],
       "points": 10
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "They asked me whether I __________ in natural wonders.",
-      "options": ["am interested", "was interested", "interested", "interest"],
+      "options": [
+        "am interested",
+        "was interested",
+        "interested",
+        "interest"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ: am í was",
-      "hints": ["L˘i thÏ trong c‚u gi·n tiøp"],
+      "explanation": "L√πi th√¨: am ‚Üí was",
+      "hints": [
+        "L√πi th√¨ trong c√¢u gi√°n ti·∫øp"
+      ],
       "points": 10
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "Nam asked if I __________ virtual tours.",
-      "options": ["enjoy", "enjoyed", "will enjoy", "am enjoying"],
+      "options": [
+        "enjoy",
+        "enjoyed",
+        "will enjoy",
+        "am enjoying"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ hi«n t°i °n th‡nh qu· khÈ °n",
-      "hints": ["enjoy í enjoyed"],
+      "explanation": "L√πi th√¨ hi‚Üín t·ª´i ‚Üín th√†nh qu√° kh·ª© ‚Üín",
+      "hints": [
+        "enjoy ‚Üí enjoyed"
+      ],
       "points": 10
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "She asked me __________ I could manage the project deadline.",
-      "options": ["if", "what", "who", "when"],
+      "options": [
+        "if",
+        "what",
+        "who",
+        "when"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes/No question d˘ng 'if'",
-      "hints": ["Can you...? í if I could"],
+      "explanation": "Yes/No question d√πng 'if'",
+      "hints": [
+        "Can you...? ‚Üí if I could"
+      ],
       "points": 10
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "David asked __________ we had visited the Dead Sea.",
-      "options": ["whether", "where", "what", "which"],
+      "options": [
+        "whether",
+        "where",
+        "what",
+        "which"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes/No question d˘ng 'whether'",
-      "hints": ["Have you...? í whether + S + had"],
+      "explanation": "Yes/No question d√πng 'whether'",
+      "hints": [
+        "Have you...? ‚Üí whether + S + had"
+      ],
       "points": 10
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "Mi asked if Nam __________ having virtual tours.",
-      "options": ["enjoy", "enjoyed", "enjoys", "will enjoy"],
+      "options": [
+        "enjoy",
+        "enjoyed",
+        "enjoys",
+        "will enjoy"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ hi«n t°i tiøp di≈n: enjoys í enjoyed",
-      "hints": ["L˘i thÏ"],
+      "explanation": "L√πi th√¨ hi‚Üín t·ª´i ti‚Üíp di‚Üín: enjoys ‚Üí enjoyed",
+      "hints": [
+        "L√πi th√¨"
+      ],
       "points": 10
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "The teacher asked whether we __________ to explore natural sites.",
-      "options": ["want", "wanted", "wants", "will want"],
+      "options": [
+        "want",
+        "wanted",
+        "wants",
+        "will want"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ: want í wanted",
-      "hints": ["want í wanted"],
+      "explanation": "L√πi th√¨: want ‚Üí wanted",
+      "hints": [
+        "want ‚Üí wanted"
+      ],
       "points": 10
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "He asked me if I __________ the Trang An Complex.",
-      "options": ["have visited", "had visited", "visit", "visited"],
+      "options": [
+        "have visited",
+        "had visited",
+        "visit",
+        "visited"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ Present Perfect í Past Perfect",
-      "hints": ["have visited í had visited"],
+      "explanation": "L√πi th√¨ Present Perfect ‚Üí Past Perfect",
+      "hints": [
+        "have visited ‚Üí had visited"
+      ],
       "points": 10
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "She asked __________ I would visit Ha Long Bay that summer.",
-      "options": ["if", "what", "where", "how"],
+      "options": [
+        "if",
+        "what",
+        "where",
+        "how"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes/No question d˘ng 'if'",
-      "hints": ["Will you...? í if + would"],
+      "explanation": "Yes/No question d√πng 'if'",
+      "hints": [
+        "Will you...? ‚Üí if + would"
+      ],
       "points": 10
     },
     {
       "id": 11,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["She", "asked", "me", "if", "I", "knew", "about", "the", "Shillin", "Stone", "Forest"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "She",
+        "asked",
+        "me",
+        "if",
+        "I",
+        "knew",
+        "about",
+        "the",
+        "Shillin",
+        "Stone",
+        "Forest"
+      ],
       "correctSentence": "She asked me if I knew about the Shillin Stone Forest.",
-      "explanation": "if + S + V (l˘i thÏ)",
-      "hints": ["asked + if + S + V"],
+      "explanation": "if + S + V (l‚Üíi th‚Üí)",
+      "hints": [
+        "asked + if + S + V"
+      ],
       "points": 10
     },
     {
       "id": 12,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["He", "asked", "whether", "I", "was", "interested", "in", "landscapes"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "He",
+        "asked",
+        "whether",
+        "I",
+        "was",
+        "interested",
+        "in",
+        "landscapes"
+      ],
       "correctSentence": "He asked whether I was interested in landscapes.",
       "explanation": "whether + S + V",
-      "hints": ["whether + S + was"],
+      "hints": [
+        "whether + S + was"
+      ],
       "points": 10
     },
     {
       "id": 13,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["They", "asked", "if", "we", "wanted", "to", "explore", "the", "cave"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "They",
+        "asked",
+        "if",
+        "we",
+        "wanted",
+        "to",
+        "explore",
+        "the",
+        "cave"
+      ],
       "correctSentence": "They asked if we wanted to explore the cave.",
       "explanation": "if + S + wanted + to-V",
-      "hints": ["if + S + wanted"],
+      "hints": [
+        "if + S + wanted"
+      ],
       "points": 10
     },
     {
       "id": 14,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["I", "asked", "Linh", "if", "she", "could", "meet", "the", "deadline"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "I",
+        "asked",
+        "Linh",
+        "if",
+        "she",
+        "could",
+        "meet",
+        "the",
+        "deadline"
+      ],
       "correctSentence": "I asked Linh if she could meet the deadline.",
       "explanation": "if + S + could + V",
-      "hints": ["Can you? í if + could"],
+      "hints": [
+        "Can you? ‚Üí if + could"
+      ],
       "points": 10
     },
     {
       "id": 15,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Nam", "asked", "whether", "I", "had", "seen", "Mount", "Fuji"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Nam",
+        "asked",
+        "whether",
+        "I",
+        "had",
+        "seen",
+        "Mount",
+        "Fuji"
+      ],
       "correctSentence": "Nam asked whether I had seen Mount Fuji.",
       "explanation": "whether + S + had + V3",
-      "hints": ["Have you? í whether + had"],
+      "hints": [
+        "Have you? ‚Üí whether + had"
+      ],
       "points": 10
     },
     {
       "id": 16,
       "type": "multiple-choice",
-      "question": "Direct: 'Do you like natural wonders?' í Reported: He asked me __________.",
-      "options": ["if I like natural wonders", "if I liked natural wonders", "do I like natural wonders", "did I like natural wonders"],
+      "question": "Direct: 'Do you like natural wonders?' ‚Üí Reported: He asked me __________.",
+      "options": [
+        "if I like natural wonders",
+        "if I liked natural wonders",
+        "do I like natural wonders",
+        "did I like natural wonders"
+      ],
       "correctIndex": 1,
-      "explanation": "L˘i thÏ v‡ d˘ng if",
-      "hints": ["Do you...? í if + S + liked"],
+      "explanation": "L√πi th√¨ v‚Üí d√πng if",
+      "hints": [
+        "Do you...? ‚Üí if + S + liked"
+      ],
       "points": 10
     },
     {
       "id": 17,
       "type": "multiple-choice",
-      "question": "Direct: 'Have you explored the forest?' í Reported: She asked __________.",
-      "options": ["if I explore the forest", "if I explored the forest", "if I have explored the forest", "if I had explored the forest"],
+      "question": "Direct: 'Have you explored the forest?' ‚Üí Reported: She asked __________.",
+      "options": [
+        "if I explore the forest",
+        "if I explored the forest",
+        "if I have explored the forest",
+        "if I had explored the forest"
+      ],
       "correctIndex": 3,
-      "explanation": "Present Perfect í Past Perfect",
-      "hints": ["have explored í had explored"],
+      "explanation": "Present Perfect ‚Üí Past Perfect",
+      "hints": [
+        "have explored ‚Üí had explored"
+      ],
       "points": 10
     },
     {
       "id": 18,
       "type": "multiple-choice",
-      "question": "Direct: 'Can you climb the mountain?' í Reported: He asked me __________.",
-      "options": ["if I can climb", "if I could climb", "can I climb", "could I climb"],
+      "question": "Direct: 'Can you climb the mountain?' ‚Üí Reported: He asked me __________.",
+      "options": [
+        "if I can climb",
+        "if I could climb",
+        "can I climb",
+        "could I climb"
+      ],
       "correctIndex": 1,
-      "explanation": "can í could trong c‚u gi·n tiøp",
-      "hints": ["can í could"],
+      "explanation": "can ‚Üí could trong c√¢u gi√°n ti·∫øp",
+      "hints": [
+        "can ‚Üí could"
+      ],
       "points": 10
     },
     {
       "id": 19,
       "type": "multiple-choice",
-      "question": "Direct: 'Will you visit the waterfall?' í Reported: She asked __________.",
-      "options": ["if I will visit", "if I would visit", "will I visit", "would I visit"],
+      "question": "Direct: 'Will you visit the waterfall?' ‚Üí Reported: She asked __________.",
+      "options": [
+        "if I will visit",
+        "if I would visit",
+        "will I visit",
+        "would I visit"
+      ],
       "correctIndex": 1,
-      "explanation": "will í would trong c‚u gi·n tiøp",
-      "hints": ["will í would"],
+      "explanation": "will ‚Üí would trong c√¢u gi√°n ti·∫øp",
+      "hints": [
+        "will ‚Üí would"
+      ],
       "points": 10
     },
     {
       "id": 20,
       "type": "multiple-choice",
-      "question": "Direct: 'Are you crazy about natural wonders?' í Reported: Tom asked __________.",
-      "options": ["if I am crazy", "if I was crazy", "am I crazy", "was I crazy"],
+      "question": "Direct: 'Are you crazy about natural wonders?' ‚Üí Reported: Tom asked __________.",
+      "options": [
+        "if I am crazy",
+        "if I was crazy",
+        "am I crazy",
+        "was I crazy"
+      ],
       "correctIndex": 1,
-      "explanation": "am í was trong c‚u gi·n tiøp",
-      "hints": ["am í was"],
+      "explanation": "am ‚Üí was trong c√¢u gi√°n ti·∫øp",
+      "hints": [
+        "am ‚Üí was"
+      ],
       "points": 10
     },
     {
       "id": 21,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["She", "asked", "if", "I", "enjoyed", "virtual", "tours"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "She",
+        "asked",
+        "if",
+        "I",
+        "enjoyed",
+        "virtual",
+        "tours"
+      ],
       "correctSentence": "She asked if I enjoyed virtual tours.",
       "explanation": "if + S + enjoyed",
-      "hints": ["Do you enjoy? í if + enjoyed"],
+      "hints": [
+        "Do you enjoy? ‚Üí if + enjoyed"
+      ],
       "points": 10
     },
     {
       "id": 22,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["He", "asked", "whether", "we", "wanted", "to", "preserve", "the", "site"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "He",
+        "asked",
+        "whether",
+        "we",
+        "wanted",
+        "to",
+        "preserve",
+        "the",
+        "site"
+      ],
       "correctSentence": "He asked whether we wanted to preserve the site.",
       "explanation": "whether + S + wanted + to-V",
-      "hints": ["Do you want? í whether + wanted"],
+      "hints": [
+        "Do you want? ‚Üí whether + wanted"
+      ],
       "points": 10
     },
     {
       "id": 23,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["They", "asked", "if", "she", "was", "living", "near", "the", "mountain"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "They",
+        "asked",
+        "if",
+        "she",
+        "was",
+        "living",
+        "near",
+        "the",
+        "mountain"
+      ],
       "correctSentence": "They asked if she was living near the mountain.",
       "explanation": "if + S + was + V-ing",
-      "hints": ["Is she living? í if + was living"],
+      "hints": [
+        "Is she living? ‚Üí if + was living"
+      ],
       "points": 10
     },
     {
       "id": 24,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["I", "asked", "whether", "he", "had", "been", "to", "the", "Grand", "Canyon"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "I",
+        "asked",
+        "whether",
+        "he",
+        "had",
+        "been",
+        "to",
+        "the",
+        "Grand",
+        "Canyon"
+      ],
       "correctSentence": "I asked whether he had been to the Grand Canyon.",
       "explanation": "whether + S + had been",
-      "hints": ["Have you been? í whether + had been"],
+      "hints": [
+        "Have you been? ‚Üí whether + had been"
+      ],
       "points": 10
     },
     {
       "id": 25,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["She", "asked", "if", "they", "would", "support", "the", "project"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "She",
+        "asked",
+        "if",
+        "they",
+        "would",
+        "support",
+        "the",
+        "project"
+      ],
       "correctSentence": "She asked if they would support the project.",
       "explanation": "if + S + would + V",
-      "hints": ["Will you? í if + would"],
+      "hints": [
+        "Will you? ‚Üí if + would"
+      ],
       "points": 10
     },
     {
       "id": 26,
       "type": "multiple-choice",
       "question": "Mi asked Nam __________ he wanted to see the coral reef.",
-      "options": ["if", "what", "where", "when"],
+      "options": [
+        "if",
+        "what",
+        "where",
+        "when"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes/No question í if",
-      "hints": ["Yes/No í if/whether"],
+      "explanation": "Yes/No question ‚Üí if",
+      "hints": [
+        "Yes/No ‚Üí if/whether"
+      ],
       "points": 10
     },
     {
       "id": 27,
       "type": "multiple-choice",
       "question": "The guide asked __________ we were ready to explore.",
-      "options": ["if", "what", "which", "who"],
+      "options": [
+        "if",
+        "what",
+        "which",
+        "who"
+      ],
       "correctIndex": 0,
-      "explanation": "Are you...? í if + were",
-      "hints": ["Yes/No question"],
+      "explanation": "Are you...? ‚Üí if + were",
+      "hints": [
+        "Yes/No question"
+      ],
       "points": 10
     },
     {
       "id": 28,
       "type": "multiple-choice",
       "question": "She asked whether I __________ admire the landscape.",
-      "options": ["can", "could", "may", "might"],
+      "options": [
+        "can",
+        "could",
+        "may",
+        "might"
+      ],
       "correctIndex": 1,
-      "explanation": "can í could",
-      "hints": ["L˘i thÏ: can í could"],
+      "explanation": "can ‚Üí could",
+      "hints": [
+        "L√πi th√¨: can ‚Üí could"
+      ],
       "points": 10
     },
     {
       "id": 29,
       "type": "multiple-choice",
       "question": "He asked if we __________ to contribute to environmental protection.",
-      "options": ["want", "wanted", "wants", "will want"],
+      "options": [
+        "want",
+        "wanted",
+        "wants",
+        "will want"
+      ],
       "correctIndex": 1,
-      "explanation": "want í wanted",
-      "hints": ["L˘i thÏ"],
+      "explanation": "want ‚Üí wanted",
+      "hints": [
+        "L√πi th√¨"
+      ],
       "points": 10
     },
     {
       "id": 30,
       "type": "multiple-choice",
       "question": "They asked __________ the site was located near the city.",
-      "options": ["if", "where", "what", "which"],
+      "options": [
+        "if",
+        "where",
+        "what",
+        "which"
+      ],
       "correctIndex": 0,
-      "explanation": "Is it...? í if",
-      "hints": ["Yes/No question í if"],
+      "explanation": "Is it...? ‚Üí if",
+      "hints": [
+        "Yes/No question ‚Üí if"
+      ],
       "points": 10
     }
   ]

@@ -1,14 +1,16 @@
 {
   "unitId": "g9-unit-9-world-englishes",
   "title": "Grade 9 - Unit 9: World Englishes",
-  "grammarTopics": ["Defining Relative Clauses"],
+  "grammarTopics": [
+    "Defining Relative Clauses"
+  ],
   "theory": {
-    "brief": "M«nh ¡ quan h« x·c Ành (Defining Relative Clauses) d˘ng √ x·c Ành danh tÎ Èng tr∞€c. KhÙng cÛ d•u ph©y. CÛ th√ d˘ng 'that' thay who/which. CÛ th√ l∞„c bœ who/which/that khi nÛ l‡ t‚n ngÔ (sau nÛ l‡ chÁ ngÔ + Ÿng tÎ).",
+    "brief": "M·ªánh ƒë·ªÅ quan h·ªá x√°c ƒë·ªãnh (Defining Relative Clauses): d√πng ƒë·ªÉ x√°c ƒë·ªãnh danh t·ª´ ƒë·ª©ng tr∆∞·ªõc. Kh√¥ng c√≥ d·∫•u ph·∫©y. C√≥ th·ªÉ d√πng \"that\" thay who/which. C√≥ th·ªÉ l∆∞·ª£c b·ªè who/which/that khi n√≥ l√† t√¢n ng·ªØ (sau n√≥ l√† ch·ªß ng·ªØ + ƒë·ªông t·ª´).",
     "examples": [
-      "The book which I bought is interesting. (Cu—n s·ch tÙi mua r•t hay.)",
-      "The girl who sits next to me is friendly. (CÙ g·i ng”i c°nh tÙi r•t th‚n thi«n.)",
-      "The cake (that) my mom made is delicious. (B·nh mπ tÙi l‡m r•t ngon.)",
-      "The student whose grades are high can compete. (HÕc sinh cÛ i√m cao cÛ th√ thi.)"
+      "The book which I bought is interesting. (Cu·ªën s√°ch t√¥i mua r·∫•t hay.)",
+      "The girl who sits next to me is friendly. (C√¥ g√°i ng·ªìi c·∫°nh t√¥i r·∫•t th√¢n thi·ªán.)",
+      "The cake (that) my mom made is delicious. (B√°nh m·∫π t√¥i l√†m r·∫•t ngon.)",
+      "The student whose grades are high can compete. (H·ªçc sinh c√≥ ƒëi·ªÉm cao c√≥ th·ªÉ thi.)"
     ]
   },
   "exercises": [
@@ -16,300 +18,547 @@
       "id": 1,
       "type": "multiple-choice",
       "question": "The language __________ people speak in Singapore is English.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Language' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Language = v≠t í which"],
+      "explanation": "'Language' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Language = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "People __________ first language is not English use it for work.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
-      "explanation": "Whose + first language (sﬂ hÔu)",
-      "hints": ["whose + N"],
+      "explanation": "Whose + first language (s·ªü h·ªØu)",
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "The dictionary __________ I bought yesterday is very helpful.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Dictionary' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Dictionary = v≠t í which"],
+      "explanation": "'Dictionary' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Dictionary = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "The teacher __________ helped me learn English lives in Paris.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Teacher' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Teacher = ng∞›i í who"],
+      "explanation": "'Teacher' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Teacher = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "Students __________ practice daily improve quickly.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Students' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Students = ng∞›i í who"],
+      "explanation": "'Students' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Students = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "The book __________ pages are torn needs replacing.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
-      "explanation": "Whose + pages (sﬂ hÔu)",
-      "hints": ["whose + N"],
+      "explanation": "Whose + pages (s·ªü h·ªØu)",
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "The company __________ employees speak multiple languages is expanding.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + employees",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "The app __________ helps people learn English is free.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'App' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["App = v≠t í which"],
+      "explanation": "'App' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "App = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "The translator __________ works with our team is skilled.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 0,
-      "explanation": "'Translator' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Translator = ng∞›i í who"],
+      "explanation": "'Translator' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Translator = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "The vocabulary __________ we learned yesterday is difficult.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Vocabulary' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Vocabulary = v≠t í which"],
+      "explanation": "'Vocabulary' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Vocabulary = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 11,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "student", "who", "won", "first", "prize", "studied", "hard"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "student",
+        "who",
+        "won",
+        "first",
+        "prize",
+        "studied",
+        "hard"
+      ],
       "correctSentence": "The student who won first prize studied hard.",
       "explanation": "who thay cho 'student'",
-      "hints": ["N (ng∞›i) + who + V"],
+      "hints": [
+        "N (ng∆∞·ªùi) + who + V"
+      ],
       "points": 10
     },
     {
       "id": 12,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "exercises", "which", "are", "in", "this", "book", "are", "hard"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "exercises",
+        "which",
+        "are",
+        "in",
+        "this",
+        "book",
+        "are",
+        "hard"
+      ],
       "correctSentence": "The exercises which are in this book are hard.",
       "explanation": "which thay cho 'exercises'",
-      "hints": ["N + which + V"],
+      "hints": [
+        "N + which + V"
+      ],
       "points": 10
     },
     {
       "id": 13,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Students", "whose", "grades", "are", "high", "can", "compete"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Students",
+        "whose",
+        "grades",
+        "are",
+        "high",
+        "can",
+        "compete"
+      ],
       "correctSentence": "Students whose grades are high can compete.",
       "explanation": "whose + grades",
-      "hints": ["N + whose + N + V"],
+      "hints": [
+        "N + whose + N + V"
+      ],
       "points": 10
     },
     {
       "id": 14,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "teacher", "who", "I", "admire", "speaks", "three", "languages"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "teacher",
+        "who",
+        "I",
+        "admire",
+        "speaks",
+        "three",
+        "languages"
+      ],
       "correctSentence": "The teacher who I admire speaks three languages.",
-      "explanation": "who cÛ th√ giÔ l°i ho∑c bœ",
-      "hints": ["N + who + S + V"],
+      "explanation": "who c√≥ th‚Üí gi‚Üí l‚Üíi ho‚Üíc b‚Üí",
+      "hints": [
+        "N + who + S + V"
+      ],
       "points": 10
     },
     {
       "id": 15,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "countries", "which", "use", "English", "are", "many"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "countries",
+        "which",
+        "use",
+        "English",
+        "are",
+        "many"
+      ],
       "correctSentence": "The countries which use English are many.",
       "explanation": "which thay cho 'countries'",
-      "hints": ["N + which + V"],
+      "hints": [
+        "N + which + V"
+      ],
       "points": 10
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "The website __________ helps with pronunciation is useful.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Website' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Website = v≠t í which"],
+      "explanation": "'Website' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Website = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 17,
       "type": "multiple-choice",
       "question": "The professor __________ research focuses on linguistics gave a lecture.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + research",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "The tourists __________ visited our center were from Spain.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 0,
-      "explanation": "'Tourists' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Tourists = ng∞›i í who"],
+      "explanation": "'Tourists' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Tourists = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 19,
       "type": "multiple-choice",
       "question": "The language school __________ I studied at is recommended.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'School' l‡ v≠t/Àa i√m nÍn d˘ng 'which'",
-      "hints": ["School = v≠t í which"],
+      "explanation": "'School' l√† v·∫≠t/ƒë·ªãa ƒëi·ªÉm n√™n d√πng 'which'",
+      "hints": [
+        "School = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "The examiner __________ graded my test was thorough.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Examiner' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Examiner = ng∞›i í who"],
+      "explanation": "'Examiner' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Examiner = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 21,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "accent", "which", "she", "has", "is", "British"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "accent",
+        "which",
+        "she",
+        "has",
+        "is",
+        "British"
+      ],
       "correctSentence": "The accent which she has is British.",
       "explanation": "which thay cho 'accent'",
-      "hints": ["N + which + S + V"],
+      "hints": [
+        "N + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 22,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "man", "who", "translated", "this", "novel", "is", "fluent"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "man",
+        "who",
+        "translated",
+        "this",
+        "novel",
+        "is",
+        "fluent"
+      ],
       "correctSentence": "The man who translated this novel is fluent.",
       "explanation": "who thay cho 'man'",
-      "hints": ["N + who + V"],
+      "hints": [
+        "N + who + V"
+      ],
       "points": 10
     },
     {
       "id": 23,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "course", "which", "I", "took", "was", "intensive"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "course",
+        "which",
+        "I",
+        "took",
+        "was",
+        "intensive"
+      ],
       "correctSentence": "The course which I took was intensive.",
       "explanation": "which thay cho 'course'",
-      "hints": ["N + which + S + V"],
+      "hints": [
+        "N + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 24,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["People", "who", "like", "languages", "join", "our", "reading", "club"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "People",
+        "who",
+        "like",
+        "languages",
+        "join",
+        "our",
+        "reading",
+        "club"
+      ],
       "correctSentence": "People who like languages join our reading club.",
       "explanation": "who thay cho 'people'",
-      "hints": ["N + who + V"],
+      "hints": [
+        "N + who + V"
+      ],
       "points": 10
     },
     {
       "id": 25,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "test", "which", "we", "took", "yesterday", "was", "difficult"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "test",
+        "which",
+        "we",
+        "took",
+        "yesterday",
+        "was",
+        "difficult"
+      ],
       "correctSentence": "The test which we took yesterday was difficult.",
       "explanation": "which thay cho 'test'",
-      "hints": ["N + which + S + V"],
+      "hints": [
+        "N + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 26,
       "type": "multiple-choice",
       "question": "The city __________ we first met has changed.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 3,
-      "explanation": "N°i ch—n d˘ng 'where'",
-      "hints": ["City (n°i ch—n) í where"],
+      "explanation": "N‚Üíi ch‚Üín d√πng 'where'",
+      "hints": [
+        "City (n‚Üíi ch‚Üín) ‚Üí where"
+      ],
       "points": 10
     },
     {
       "id": 27,
       "type": "multiple-choice",
       "question": "The partner __________ native language is French helps me.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + native language",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 28,
       "type": "multiple-choice",
       "question": "The restaurant __________ serves international cuisine is popular.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Restaurant' l‡ v≠t/Àa i√m nÍn d˘ng 'which'",
-      "hints": ["Restaurant = v≠t í which"],
+      "explanation": "'Restaurant' l√† v·∫≠t/ƒë·ªãa ƒëi·ªÉm n√™n d√πng 'which'",
+      "hints": [
+        "Restaurant = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 29,
       "type": "multiple-choice",
       "question": "The student __________ presentation was about languages did well.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + presentation",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 30,
       "type": "multiple-choice",
       "question": "The translator __________ dictionary was lost bought a new one.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + dictionary",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     }
   ]

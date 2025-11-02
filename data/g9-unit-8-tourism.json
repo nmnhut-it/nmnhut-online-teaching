@@ -1,14 +1,16 @@
 {
   "unitId": "g9-unit-8-tourism",
   "title": "Grade 9 - Unit 8: Tourism",
-  "grammarTopics": ["Relative Pronouns (which, who, whose)"],
+  "grammarTopics": [
+    "Relative Pronouns (which, who, whose)"
+  ],
   "theory": {
-    "brief": "°i tÎ quan h« (Relative Pronouns) d˘ng √ n—i hai c‚u v‡ thay thø cho danh tÎ. Which (v≠t), Who (ng∞›i), Whose (sﬂ hÔu). C•u tr˙c: N + which/who/whose + V/S + V. Whose + danh tÎ (khÙng cÛ 'the').",
+    "brief": "ƒê·∫°i t·ª´ quan h·ªá (Relative Pronouns): d√πng ƒë·ªÉ n·ªëi hai c√¢u v√† thay th·∫ø cho danh t·ª´. Which (v·∫≠t), Who (ng∆∞·ªùi), Whose (s·ªü h·ªØu). C·∫•u tr√∫c: N + which/who/whose + V/S + V. Whose + danh t·ª´ (kh√¥ng c√≥ \"the\").",
     "examples": [
-      "The hotel which we stayed in was amazing. (Kh·ch s°n m‡ ch˙ng tÙi ﬂ r•t tuy«t.)",
-      "The guide who helped us was very friendly. (H∞€ng d´n viÍn ng∞›i „ gi˙p ch˙ng tÙi r•t th‚n thi«n.)",
-      "The tourist whose passport was missing reported to the police. (Du kh·ch bÀ m•t hŸ chiøu „ b·o c·o v€i c£nh s·t.)",
-      "Bali is a place which is famous for its beaches. (Bali l‡ n°i n’i tiøng v¡ b„i bi√n.)"
+      "The hotel which we stayed in was amazing. (Kh√°ch s·∫°n m√† ch√∫ng t√¥i ·ªü r·∫•t tuy·ªát.)",
+      "The guide who helped us was very friendly. (H∆∞·ªõng d·∫´n vi√™n ng∆∞·ªùi ƒë√≥ gi√∫p ch√∫ng t√¥i r·∫•t th√¢n thi·ªán.)",
+      "The tourist whose passport was missing reported to the police. (Du kh√°ch b·ªã m·∫•t h·ªô chi·∫øu ƒë√≥ b√°o c√°o v·ªõi c·∫£nh s√°t.)",
+      "Bali is a place which is famous for its beaches. (Bali l√† n∆°i n·ªïi ti·∫øng v√¨ b√£i bi·ªÉn.)"
     ]
   },
   "exercises": [
@@ -16,300 +18,550 @@
       "id": 1,
       "type": "multiple-choice",
       "question": "The hotel __________ we stayed in was very comfortable.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Hotel' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Hotel = v≠t í which"],
+      "explanation": "'Hotel' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Hotel = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "The guide __________ showed us around was very knowledgeable.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Guide' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Guide = ng∞›i í who"],
+      "explanation": "'Guide' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Guide = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "The tourist __________ passport was lost went to the embassy.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
-      "explanation": "Whose + danh tÎ (passport)",
-      "hints": ["whose + N", "Sﬂ hÔu"],
+      "explanation": "Whose + danh t·ª´ (passport)",
+      "hints": [
+        "whose + N",
+        "S·ªü h·ªØu"
+      ],
       "points": 10
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "Bali is a destination __________ attracts many tourists.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Destination' l‡ v≠t/Àa i√m nÍn d˘ng 'which'",
-      "hints": ["Destination = v≠t í which"],
+      "explanation": "'Destination' l√† v·∫≠t/ƒë·ªãa ƒëi·ªÉm n√™n d√πng 'which'",
+      "hints": [
+        "Destination = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "The travel agent __________ helped us book the tickets was efficient.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 0,
-      "explanation": "'Agent' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Agent = ng∞›i í who"],
+      "explanation": "'Agent' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Agent = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "The app __________ we used for booking was very convenient.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'App' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["App = v≠t í which"],
+      "explanation": "'App' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "App = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "The holidaymakers __________ we met were from Australia.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Holidaymakers' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Holidaymakers = ng∞›i í who"],
+      "explanation": "'Holidaymakers' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Holidaymakers = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "Da Nang is a city __________ beaches are beautiful.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
-      "explanation": "Whose + beaches (sﬂ hÔu)",
-      "hints": ["whose + N", "Beaches cÁa city"],
+      "explanation": "Whose + beaches (s·ªü h·ªØu)",
+      "hints": [
+        "whose + N",
+        "Beaches c·ªßa city"
+      ],
       "points": 10
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "The food __________ we tried was delicious.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Food' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Food = v≠t í which"],
+      "explanation": "'Food' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Food = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "The photographer __________ camera was stolen reported it.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
-      "explanation": "Whose + camera (sﬂ hÔu)",
-      "hints": ["whose + N", "Camera cÁa ng∞›i"],
+      "explanation": "Whose + camera (s·ªü h·ªØu)",
+      "hints": [
+        "whose + N",
+        "Camera c·ªßa ng∆∞·ªùi"
+      ],
       "points": 10
     },
     {
       "id": 11,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "temple", "which", "we", "visited", "was", "ancient"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "temple",
+        "which",
+        "we",
+        "visited",
+        "was",
+        "ancient"
+      ],
       "correctSentence": "The temple which we visited was ancient.",
       "explanation": "which thay cho 'temple'",
-      "hints": ["N + which + S + V"],
+      "hints": [
+        "N + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 12,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "pilot", "who", "flew", "the", "plane", "was", "experienced"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "pilot",
+        "who",
+        "flew",
+        "the",
+        "plane",
+        "was",
+        "experienced"
+      ],
       "correctSentence": "The pilot who flew the plane was experienced.",
       "explanation": "who thay cho 'pilot'",
-      "hints": ["N (ng∞›i) + who + V"],
+      "hints": [
+        "N (ng∆∞·ªùi) + who + V"
+      ],
       "points": 10
     },
     {
       "id": 13,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "country", "whose", "culture", "is", "unique", "is", "India"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "country",
+        "whose",
+        "culture",
+        "is",
+        "unique",
+        "is",
+        "India"
+      ],
       "correctSentence": "The country whose culture is unique is India.",
-      "explanation": "whose + culture (sﬂ hÔu)",
-      "hints": ["N + whose + N"],
+      "explanation": "whose + culture (s·ªü h·ªØu)",
+      "hints": [
+        "N + whose + N"
+      ],
       "points": 10
     },
     {
       "id": 14,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "accommodation", "which", "we", "rented", "was", "cheap"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "accommodation",
+        "which",
+        "we",
+        "rented",
+        "was",
+        "cheap"
+      ],
       "correctSentence": "The accommodation which we rented was cheap.",
       "explanation": "which thay cho 'accommodation'",
-      "hints": ["N (v≠t) + which + S + V"],
+      "hints": [
+        "N (v·∫≠t) + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 15,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "tourists", "who", "visited", "Ha", "Long", "Bay", "loved", "it"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "tourists",
+        "who",
+        "visited",
+        "Ha",
+        "Long",
+        "Bay",
+        "loved",
+        "it"
+      ],
       "correctSentence": "The tourists who visited Ha Long Bay loved it.",
       "explanation": "who thay cho 'tourists'",
-      "hints": ["N (ng∞›i) + who + V"],
+      "hints": [
+        "N (ng∆∞·ªùi) + who + V"
+      ],
       "points": 10
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "Sa Pa is a place __________ terraced fields are stunning.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + terraced fields",
-      "hints": ["whose + N", "Fields cÁa place"],
+      "hints": [
+        "whose + N",
+        "Fields c·ªßa place"
+      ],
       "points": 10
     },
     {
       "id": 17,
       "type": "multiple-choice",
       "question": "The visa __________ allows you to enter is important.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Visa' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Visa = v≠t í which"],
+      "explanation": "'Visa' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Visa = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "The traveler __________ luggage was heavy struggled.",
-      "options": ["who", "which", "whose", "that"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "that"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + luggage",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 19,
       "type": "multiple-choice",
       "question": "The museum __________ we visited had many artifacts.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 1,
-      "explanation": "'Museum' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Museum = v≠t í which"],
+      "explanation": "'Museum' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Museum = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "The tour guide __________ explained the history was excellent.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 0,
-      "explanation": "'Tour guide' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Tour guide = ng∞›i í who"],
+      "explanation": "'Tour guide' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Tour guide = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 21,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "airline", "which", "offers", "cheap", "tickets", "is", "popular"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "airline",
+        "which",
+        "offers",
+        "cheap",
+        "tickets",
+        "is",
+        "popular"
+      ],
       "correctSentence": "The airline which offers cheap tickets is popular.",
       "explanation": "which thay cho 'airline'",
-      "hints": ["N + which + V"],
+      "hints": [
+        "N + which + V"
+      ],
       "points": 10
     },
     {
       "id": 22,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "receptionist", "who", "helped", "us", "was", "kind"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "receptionist",
+        "who",
+        "helped",
+        "us",
+        "was",
+        "kind"
+      ],
       "correctSentence": "The receptionist who helped us was kind.",
       "explanation": "who thay cho 'receptionist'",
-      "hints": ["N (ng∞›i) + who + V"],
+      "hints": [
+        "N (ng∆∞·ªùi) + who + V"
+      ],
       "points": 10
     },
     {
       "id": 23,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["Hue", "is", "a", "city", "whose", "history", "is", "rich"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "Hue",
+        "is",
+        "a",
+        "city",
+        "whose",
+        "history",
+        "is",
+        "rich"
+      ],
       "correctSentence": "Hue is a city whose history is rich.",
       "explanation": "whose + history",
-      "hints": ["N + whose + N + V"],
+      "hints": [
+        "N + whose + N + V"
+      ],
       "points": 10
     },
     {
       "id": 24,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "souvenir", "which", "I", "bought", "was", "beautiful"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "souvenir",
+        "which",
+        "I",
+        "bought",
+        "was",
+        "beautiful"
+      ],
       "correctSentence": "The souvenir which I bought was beautiful.",
       "explanation": "which thay cho 'souvenir'",
-      "hints": ["N + which + S + V"],
+      "hints": [
+        "N + which + S + V"
+      ],
       "points": 10
     },
     {
       "id": 25,
       "type": "word-rearrange",
-      "instruction": "SØp xøp c·c tÎ th‡nh c‚u ho‡n ch…nh",
-      "words": ["The", "family", "who", "we", "met", "were", "friendly"],
+      "instruction": "S·∫Øp x·∫øp c√°c t·ª´ th√†nh c√¢u ho√†n ch·ªânh",
+      "words": [
+        "The",
+        "family",
+        "who",
+        "we",
+        "met",
+        "were",
+        "friendly"
+      ],
       "correctSentence": "The family who we met were friendly.",
       "explanation": "who thay cho 'family'",
-      "hints": ["N (ng∞›i) + who + S + V"],
+      "hints": [
+        "N (ng∆∞·ªùi) + who + S + V"
+      ],
       "points": 10
     },
     {
       "id": 26,
       "type": "multiple-choice",
       "question": "The street __________ name is Bui Vien is famous for tourists.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + name",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 27,
       "type": "multiple-choice",
       "question": "The resort __________ we stayed at had a pool.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Resort' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Resort = v≠t í which"],
+      "explanation": "'Resort' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Resort = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     },
     {
       "id": 28,
       "type": "multiple-choice",
       "question": "The driver __________ took us to the airport was punctual.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 0,
-      "explanation": "'Driver' l‡ ng∞›i nÍn d˘ng 'who'",
-      "hints": ["Driver = ng∞›i í who"],
+      "explanation": "'Driver' l√† ng∆∞·ªùi n√™n d√πng 'who'",
+      "hints": [
+        "Driver = ng∆∞·ªùi ‚Üí who"
+      ],
       "points": 10
     },
     {
       "id": 29,
       "type": "multiple-choice",
       "question": "Can Tho is a city __________ floating markets are unique.",
-      "options": ["who", "which", "whose", "where"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
       "correctIndex": 2,
       "explanation": "Whose + floating markets",
-      "hints": ["whose + N"],
+      "hints": [
+        "whose + N"
+      ],
       "points": 10
     },
     {
       "id": 30,
       "type": "multiple-choice",
       "question": "The itinerary __________ they gave us was detailed.",
-      "options": ["who", "which", "whose", "what"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
       "correctIndex": 1,
-      "explanation": "'Itinerary' l‡ v≠t nÍn d˘ng 'which'",
-      "hints": ["Itinerary = v≠t í which"],
+      "explanation": "'Itinerary' l√† v·∫≠t n√™n d√πng 'which'",
+      "hints": [
+        "Itinerary = v·∫≠t ‚Üí which"
+      ],
       "points": 10
     }
   ]

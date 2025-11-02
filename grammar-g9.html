@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grade 9 Grammar - English Learning Hub</title>
+  <meta name="description" content="Interactive grammar exercises for Grade 9 English">
+  <link rel="stylesheet" href="css/shared.css">
+  <style>
+    .hero {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--info) 100%);
+      color: white;
+      padding: 3rem 0;
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .hero__title {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+
+    .hero__subtitle {
+      font-size: 1.2rem;
+      opacity: 0.95;
+    }
+
+    .units-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .unit-card {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      text-decoration: none;
+      color: var(--text-dark);
+      display: block;
+    }
+
+    .unit-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+      border-color: var(--primary);
+    }
+
+    .unit-card__number {
+      display: inline-block;
+      background: var(--primary);
+      color: white;
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    .unit-card__title {
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: var(--text-dark);
+    }
+
+    .unit-card__grammar {
+      color: var(--info);
+      font-size: 0.95rem;
+      font-weight: 500;
+      margin-bottom: 0.75rem;
+    }
+
+    .unit-card__description {
+      color: var(--text-light);
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    .stats-bar {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      margin-bottom: 2rem;
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-item__value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .stat-item__label {
+      color: var(--text-light);
+      font-size: 0.9rem;
+      margin-top: 0.25rem;
+    }
+
+    @media (max-width: 768px) {
+      .hero__title {
+        font-size: 1.8rem;
+      }
+
+      .units-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <div class="container">
+      <h1 class="hero__title">📚 Grade 9 English Grammar</h1>
+      <p class="hero__subtitle">Học sinh: Trần Gia Hưng | Giáo viên: Nguyễn Minh Nhật</p>
+    </div>
+  </div>
+
+  <main class="container">
+    <div class="stats-bar">
+      <div class="stat-item">
+        <div class="stat-item__value" id="total-units">12</div>
+        <div class="stat-item__label">Total Units</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-item__value" id="completed-units">0</div>
+        <div class="stat-item__label">Completed</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-item__value" id="total-score">0</div>
+        <div class="stat-item__label">Total Points</div>
+      </div>
+    </div>
+
+    <div class="units-grid">
+      <a href="pages/g9-unit-1-local-community.html" class="unit-card">
+        <span class="unit-card__number">Unit 1</span>
+        <h2 class="unit-card__title">Local Community</h2>
+        <p class="unit-card__grammar">Question Words</p>
+        <p class="unit-card__description">Practice using question words in context of local community topics</p>
+      </a>
+
+      <a href="pages/g9-unit-2-city-life.html" class="unit-card">
+        <span class="unit-card__number">Unit 2</span>
+        <h2 class="unit-card__title">City Life</h2>
+        <p class="unit-card__grammar">Double Comparatives</p>
+        <p class="unit-card__description">Learn to use double comparative structures</p>
+      </a>
+
+      <a href="pages/g9-unit-3-healthy-living.html" class="unit-card">
+        <span class="unit-card__number">Unit 3</span>
+        <h2 class="unit-card__title">Healthy Living</h2>
+        <p class="unit-card__grammar">Modal Verbs</p>
+        <p class="unit-card__description">Practice modal verbs for advice and necessity</p>
+      </a>
+
+      <a href="pages/g9-unit-4-remembering-the-past.html" class="unit-card">
+        <span class="unit-card__number">Unit 4</span>
+        <h2 class="unit-card__title">Remembering the Past</h2>
+        <p class="unit-card__grammar">Past Continuous & Wish</p>
+        <p class="unit-card__description">Master past continuous and wish sentences</p>
+      </a>
+
+      <a href="pages/g9-unit-5-our-experiences.html" class="unit-card">
+        <span class="unit-card__number">Unit 5</span>
+        <h2 class="unit-card__title">Our Experiences</h2>
+        <p class="unit-card__grammar">Present Perfect</p>
+        <p class="unit-card__description">Practice present perfect tense in various contexts</p>
+      </a>
+
+      <a href="pages/g9-unit-6-vietnamese-lifestyle.html" class="unit-card">
+        <span class="unit-card__number">Unit 6</span>
+        <h2 class="unit-card__title">Vietnamese Lifestyle</h2>
+        <p class="unit-card__grammar">Used to & Wish</p>
+        <p class="unit-card__description">Express past habits and present wishes</p>
+      </a>
+
+      <a href="pages/g9-unit-7-natural-wonders.html" class="unit-card">
+        <span class="unit-card__number">Unit 7</span>
+        <h2 class="unit-card__title">Natural Wonders</h2>
+        <p class="unit-card__grammar">Reported Speech (Questions)</p>
+        <p class="unit-card__description">Convert direct questions to reported speech</p>
+      </a>
+
+      <a href="pages/g9-unit-8-tourism.html" class="unit-card">
+        <span class="unit-card__number">Unit 8</span>
+        <h2 class="unit-card__title">Tourism</h2>
+        <p class="unit-card__grammar">Relative Pronouns (which, who, whose)</p>
+        <p class="unit-card__description">Use relative clauses to describe people and things</p>
+      </a>
+
+      <a href="pages/g9-unit-9-world-englishes.html" class="unit-card">
+        <span class="unit-card__number">Unit 9</span>
+        <h2 class="unit-card__title">World Englishes</h2>
+        <p class="unit-card__grammar">Conditionals (Type 1 & 2)</p>
+        <p class="unit-card__description">Practice real and hypothetical conditional sentences</p>
+      </a>
+
+      <a href="pages/g9-unit-10-planet-earth.html" class="unit-card">
+        <span class="unit-card__number">Unit 10</span>
+        <h2 class="unit-card__title">Planet Earth</h2>
+        <p class="unit-card__grammar">Non-defining Relative Clauses</p>
+        <p class="unit-card__description">Master non-defining relative clauses with commas</p>
+      </a>
+
+      <a href="pages/g9-unit-11-electronic-devices.html" class="unit-card">
+        <span class="unit-card__number">Unit 11</span>
+        <h2 class="unit-card__title">Electronic Devices</h2>
+        <p class="unit-card__grammar">Verb + V-ing / to V</p>
+        <p class="unit-card__description">Learn verb patterns with gerunds and infinitives</p>
+      </a>
+
+      <a href="pages/g9-unit-12-career-choices.html" class="unit-card">
+        <span class="unit-card__number">Unit 12</span>
+        <h2 class="unit-card__title">Career Choices</h2>
+        <p class="unit-card__grammar">Adverbial Clauses (because, although, so...that)</p>
+        <p class="unit-card__description">Use adverbial clauses to express reason, concession, and result</p>
+      </a>
+    </div>
+  </main>
+
+  <script src="js/core/storage.js"></script>
+  <script>
+    // Update statistics from local storage
+    function updateStats() {
+      const storage = new StorageManager();
+      let completedCount = 0;
+      let totalScore = 0;
+
+      const unitIds = [
+        'g9-unit-1-local-community',
+        'g9-unit-2-city-life',
+        'g9-unit-3-healthy-living',
+        'g9-unit-4-remembering-the-past',
+        'g9-unit-5-our-experiences',
+        'g9-unit-6-vietnamese-lifestyle',
+        'g9-unit-7-natural-wonders',
+        'g9-unit-8-tourism',
+        'g9-unit-9-world-englishes',
+        'g9-unit-10-planet-earth',
+        'g9-unit-11-electronic-devices',
+        'g9-unit-12-career-choices'
+      ];
+
+      unitIds.forEach(unitId => {
+        const progress = storage.getProgress(unitId);
+        if (progress && progress.completed) {
+          completedCount++;
+        }
+        if (progress && progress.bestScore) {
+          totalScore += progress.bestScore;
+        }
+      });
+
+      document.getElementById('completed-units').textContent = completedCount;
+      document.getElementById('total-score').textContent = totalScore;
+    }
+
+    // Initialize stats on page load
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', updateStats);
+    } else {
+      updateStats();
+    }
+  </script>
+</body>
+</html>
