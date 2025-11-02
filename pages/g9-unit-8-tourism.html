@@ -79,6 +79,7 @@
   <script src="../js/core/utils.js"></script>
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/student-name-manager.js"></script>
   <script src="../js/core/game-engine.js"></script>
   <script src="../js/exercises/multiple-choice.js"></script>
   <script src="../js/exercises/word-rearrange.js"></script>
@@ -121,6 +122,8 @@
     };
 
     async function loadAndStartGame() {
+      // Initialize student name
+      StudentNameManager.init();
       try {
         const response = await fetch(DATA_PATH);
         if (!response.ok) throw new Error(`Failed to load data: ${response.status}`);

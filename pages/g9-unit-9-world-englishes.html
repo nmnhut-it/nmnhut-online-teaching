@@ -43,6 +43,7 @@
   <script src="../js/core/utils.js"></script>
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/telegram-sender.js"></script>
+  <script src="../js/core/student-name-manager.js"></script>
   <script src="../js/core/game-engine.js"></script>
   <script src="../js/exercises/multiple-choice.js"></script>
   <script src="../js/exercises/word-rearrange.js"></script>
@@ -53,6 +54,8 @@
     function updateComboDisplay() { const comboDisplay = document.getElementById('combo-display'); const comboCount = document.getElementById('combo-count'); const state = GameEngine.getState(); if (state.comboCount >= 3) { comboDisplay.style.display = 'flex'; comboCount.textContent = state.comboCount + 'x 🔥'; } else { comboDisplay.style.display = 'none'; } }
     const originalUpdateUI = GameEngine.updateUI.bind(GameEngine); GameEngine.updateUI = function() { originalUpdateUI(); updateComboDisplay(); };
     async function loadAndStartGame() { try { const response = await fetch(DATA_PATH); if (!response.ok) throw new Error(`Failed to load data: ${response.status}`); const unitData = await response.json(); GameEngine.init(unitData, UNIT_ID); } catch (error) { console.error('Error loading game data:', error); const container = document.getElementById('exercise-container'); container.innerHTML = `<div class="card"><h2 style="color: var(--danger);">Error Loading Game</h2><p>Sorry, we couldn't load the exercise data. Please try refreshing the page.</p><p style="font-size: var(--font-size-sm); color: var(--text-light);">Error: ${error.message}</p><button class="btn btn--primary mt-2" onclick="location.reload()">Reload Page</button></div>`; } }
+      // Initialize student name
+      StudentNameManager.init();
     if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', loadAndStartGame); } else { loadAndStartGame(); }
   </script>
 </body>

@@ -6,7 +6,7 @@
 const TelegramSender = {
   // Telegram Bot Configuration
   BOT_TOKEN: '8460628830:AAG_4Q8EJKGaFc9upOfywuWbEhBylc62cJ4',
-  CHAT_ID: '4901265629',
+  CHAT_ID: '-4901265629',
   API_BASE_URL: 'https://api.telegram.org/bot',
 
   /**
@@ -171,15 +171,24 @@ const TelegramSender = {
   },
 
   /**
-   * Extract student name from page header
+   * Extract student name from StudentNameManager or page header
    * @returns {string} - Student name or default
    */
   getStudentName() {
-    const studentElement = document.querySelector('.game-info__value');
-    if (studentElement && studentElement.nextElementSibling) {
-      return studentElement.nextElementSibling.textContent.trim();
+    // Try to get from StudentNameManager first
+    if (typeof StudentNameManager !== 'undefined') {
+      const name = StudentNameManager.getStudentName();
+      if (name) return name;
     }
-    return 'Unknown Student';
+
+    // Fallback: extract from DOM
+    const studentValueElements = document.querySelectorAll('.game-info__value');
+    if (studentValueElements.length >= 2) {
+      const name = studentValueElements[1].textContent.trim();
+      if (name) return name;
+    }
+
+    return 'Học sinh';
   },
 
   /**
