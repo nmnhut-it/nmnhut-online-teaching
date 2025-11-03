@@ -208,6 +208,8 @@
 
     // Load unit data and start game
     async function loadAndStartGame() {
+      // Initialize student name
+      StudentNameManager.init();
       try {
         const response = await fetch(DATA_PATH);
 
