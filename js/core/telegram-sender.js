@@ -32,7 +32,10 @@ const TelegramSender = {
       });
 
       if (!response.ok) {
+        const errorData = await response.json();
         console.error('Telegram API error:', response.status, response.statusText);
+        console.error('Error details:', errorData);
+        console.error('Message length:', message.length, 'characters');
         return false;
       }
 
@@ -70,17 +73,20 @@ const TelegramSender = {
       completedAt
     } = resultData;
 
+    const MAX_MESSAGE_LENGTH = 4000; // Telegram limit is 4096, leave buffer
+    const MAX_QUESTIONS_TO_SHOW = 10; // Limit detailed questions
+
     // Header section
     let message = `<b>📊 BÁO CÁO KẾT QUẢ HỌC TẬP</b>\n\n`;
-    message += `<b>👨‍🎓 Học sinh:</b> ${studentName}\n`;
-    message += `<b>👩‍🏫 Giáo viên:</b> ${teacherName}\n`;
-    message += `<b>📚 Bài học:</b> ${unitTitle}\n`;
+    message += `<b>👨‍🎓 Học sinh:</b> ${this.escapeHtml(studentName)}\n`;
+    message += `<b>👩‍🏫 Giáo viên:</b> ${this.escapeHtml(teacherName)}\n`;
+    message += `<b>📚 Bài học:</b> ${this.escapeHtml(unitTitle)}\n`;
 
     if (grammarTopics && grammarTopics.length > 0) {
-      message += `<b>📖 Chủ đề:</b> ${grammarTopics.join(', ')}\n`;
+      message += `<b>📖 Chủ đề:</b> ${this.escapeHtml(grammarTopics.join(', '))}\n`;
     }
 
-    message += `<b>🕐 Thời gian hoàn thành:</b> ${completedAt}\n`;
+    message += `<b>🕐 Thời gian:</b> ${completedAt}\n`;
     message += `\n`;
 
     // Score summary section
@@ -90,36 +96,61 @@ const TelegramSender = {
     message += `<b>🎯 Tổng điểm:</b> ${score} điểm\n`;
     message += `<b>✅ Số câu đúng:</b> ${correctAnswers}/${totalQuestions} (${percentage}%)\n`;
     message += `<b>⏱️ Thời gian:</b> ${this.formatTime(timeSpent)}\n`;
-    message += `<b>💡 Gợi ý sử dụng:</b> ${hintsUsed} lần (-${hintsUsed * 2} điểm)\n`;
-    message += `<b>🔥 Điểm combo:</b> +${comboBonusEarned} điểm\n`;
-    message += `<b>⚡ Điểm thời gian:</b> +${timeBonusEarned} điểm\n`;
+    message += `<b>💡 Gợi ý:</b> ${hintsUsed} lần (-${hintsUsed * 2} điểm)\n`;
+    message += `<b>🔥 Combo:</b> +${comboBonusEarned} điểm\n`;
+    message += `<b>⚡ Time bonus:</b> +${timeBonusEarned} điểm\n`;
     message += `<b>⭐ Xếp hạng:</b> ${'★'.repeat(stars)}${'☆'.repeat(3 - stars)} (${stars}/3)\n`;
     message += `\n`;
 
-    // Detailed answer history
-    message += `<b>━━━━━━━━━━━━━━━━━━</b>\n`;
-    message += `<b>📝 CHI TIẾT CÂU TRẢ LỜI</b>\n`;
-    message += `<b>━━━━━━━━━━━━━━━━━━</b>\n\n`;
+    // Detailed answer history - limit to avoid message too long
+    const wrongAnswers = answerHistory.filter(r => !r.isCorrect);
+    const questionsToShow = wrongAnswers.length > 0 ? wrongAnswers.slice(0, MAX_QUESTIONS_TO_SHOW) : answerHistory.slice(0, MAX_QUESTIONS_TO_SHOW);
 
-    answerHistory.forEach((record, index) => {
-      const questionNum = index + 1;
+    if (wrongAnswers.length > 0) {
+      message += `<b>━━━━━━━━━━━━━━━━━━</b>\n`;
+      message += `<b>❌ CÂU TRẢ LỜI SAI (${wrongAnswers.length})</b>\n`;
+      message += `<b>━━━━━━━━━━━━━━━━━━</b>\n\n`;
+    } else {
+      message += `<b>━━━━━━━━━━━━━━━━━━</b>\n`;
+      message += `<b>✅ TẤT CẢ ĐỀU ĐÚNG!</b>\n`;
+      message += `<b>━━━━━━━━━━━━━━━━━━</b>\n\n`;
+    }
+
+    questionsToShow.forEach((record, index) => {
+      const questionNum = answerHistory.indexOf(record) + 1;
       const statusIcon = record.isCorrect ? '✅' : '❌';
       const statusText = record.isCorrect ? 'ĐÚNG' : 'SAI';
 
-      message += `<b>Câu ${questionNum}:</b> ${this.escapeHtml(record.questionText)}\n`;
+      // Truncate long questions
+      const questionText = this.truncateText(record.questionText, 100);
+
+      message += `<b>Câu ${questionNum}:</b> ${this.escapeHtml(questionText)}\n`;
       message += `${statusIcon} <b>${statusText}</b> (+${record.points} điểm)\n`;
-      message += `📤 Câu trả lời: <code>${this.escapeHtml(this.formatAnswer(record.userAnswer))}</code>\n`;
+      message += `📤 Trả lời: <code>${this.escapeHtml(this.formatAnswer(record.userAnswer))}</code>\n`;
 
       if (!record.isCorrect) {
-        message += `✓ Đáp án đúng: <code>${this.escapeHtml(this.formatAnswer(record.correctAnswer))}</code>\n`;
+        message += `✓ Đúng: <code>${this.escapeHtml(this.formatAnswer(record.correctAnswer))}</code>\n`;
       }
 
       message += `\n`;
+
+      // Check if message is getting too long
+      if (message.length > MAX_MESSAGE_LENGTH - 500) {
+        const remaining = wrongAnswers.length > 0 ? wrongAnswers.length - index - 1 : 0;
+        if (remaining > 0) {
+          message += `... và ${remaining} câu sai khác\n\n`;
+        }
+        return; // Stop adding more questions
+      }
     });
+
+    if (wrongAnswers.length > MAX_QUESTIONS_TO_SHOW) {
+      message += `... và ${wrongAnswers.length - MAX_QUESTIONS_TO_SHOW} câu sai khác\n\n`;
+    }
 
     // Footer
     message += `<b>━━━━━━━━━━━━━━━━━━</b>\n`;
-    message += `<i>🤖 Báo cáo tự động từ hệ thống English Grammar Games</i>`;
+    message += `<i>🤖 English Grammar Games</i>`;
 
     return message;
   },
@@ -168,6 +199,19 @@ const TelegramSender = {
       "'": '&#039;'
     };
     return String(text).replace(/[&<>"']/g, char => map[char]);
+  },
+
+  /**
+   * Truncate text to specified length
+   * @param {string} text - Text to truncate
+   * @param {number} maxLength - Maximum length
+   * @returns {string} - Truncated text
+   */
+  truncateText(text, maxLength) {
+    if (!text || text.length <= maxLength) {
+      return text;
+    }
+    return text.substring(0, maxLength - 3) + '...';
   },
 
   /**
