@@ -1,0 +1,33 @@
+{
+  "unitId": "review-4-units-10-12",
+  "title": "Review 4: Units 10-12",
+  "grammarTopics": [
+    "Indefinite pronouns",
+    "Question tags",
+    "The passive: present simple",
+    "With and by",
+    "The passive: past simple",
+    "Passive questions"
+  ],
+  "theory": {
+    "brief": "Ôn tập: Indefinite pronouns (someone, anything, nowhere...), Question tags, Passive Voice (Present & Past Simple)",
+    "examples": [
+      "Someone is at the door.",
+      "You like coffee, don't you?",
+      "English is spoken here.",
+      "The book was written in 1950."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "This is a placeholder exercise. The full exercises will be added soon.",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "explanation": "Placeholder explanation",
+      "hints": ["This is a test"],
+      "points": 10
+    }
+  ]
+}

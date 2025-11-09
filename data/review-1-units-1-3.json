@@ -1,0 +1,31 @@
+{
+  "unitId": "review-1-units-1-3",
+  "title": "Review 1: Units 1-3",
+  "grammarTopics": [
+    "Present Perfect (for and since, already and yet)",
+    "Present Perfect (just, ever, never)",
+    "Comparative and Superlative Adjectives",
+    "Too and Enough"
+  ],
+  "theory": {
+    "brief": "Ôn tập 3 units: Present Perfect với for/since, already/yet, just/ever/never; Tính từ so sánh hơn và so sánh nhất; Too và Enough",
+    "examples": [
+      "I've lived here for 10 years.",
+      "She's never been to France.",
+      "This book is more interesting than that one.",
+      "This coffee is too hot."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "This is a placeholder exercise. The full exercises will be added soon.",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "explanation": "Placeholder explanation",
+      "hints": ["This is a test"],
+      "points": 10
+    }
+  ]
+}

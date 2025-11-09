@@ -9,14 +9,25 @@ const StudentNameManager = {
   /**
    * Initialize student name management
    * Prompts for name if not set, displays in header
+   * Supports test mode via URL parameter: ?test=true
    */
   init() {
+    // Check if in test mode (e.g., ?test=true or ?autotest=1)
+    const urlParams = new URLSearchParams(window.location.search);
+    const isTestMode = urlParams.has('test') || urlParams.has('autotest');
+
     let studentName = this.getStudentName();
 
     if (!studentName) {
-      studentName = this.promptForName();
-      if (studentName) {
+      if (isTestMode) {
+        // Use default test name in test mode
+        studentName = 'Test Student';
         this.saveStudentName(studentName);
+      } else {
+        studentName = this.promptForName();
+        if (studentName) {
+          this.saveStudentName(studentName);
+        }
       }
     }
 

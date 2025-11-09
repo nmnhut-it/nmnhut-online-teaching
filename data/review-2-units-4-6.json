@@ -1,0 +1,32 @@
+{
+  "unitId": "review-2-units-4-6",
+  "title": "Review 2: Units 4-6",
+  "grammarTopics": [
+    "Past Continuous and Past Simple",
+    "Used to",
+    "Will and won't",
+    "Present Continuous (future meaning)",
+    "Be going to (plans and predictions)"
+  ],
+  "theory": {
+    "brief": "Ôn tập: Past Continuous, Used to, Will/Won't, Present Continuous (tương lai), Be going to",
+    "examples": [
+      "I was watching TV when the phone rang.",
+      "I used to play football every day.",
+      "It will rain tomorrow.",
+      "I'm going to visit my grandparents next week."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "This is a placeholder exercise. The full exercises will be added soon.",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "explanation": "Placeholder explanation",
+      "hints": ["This is a test"],
+      "points": 10
+    }
+  ]
+}

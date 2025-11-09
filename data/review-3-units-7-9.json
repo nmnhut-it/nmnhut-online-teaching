@@ -1,0 +1,31 @@
+{
+  "unitId": "review-3-units-7-9",
+  "title": "Review 3: Units 7-9",
+  "grammarTopics": [
+    "Reported speech (said/told, time word changes)",
+    "First Conditional",
+    "Modals for possibility (may, might, could)",
+    "Have to"
+  ],
+  "theory": {
+    "brief": "Ôn tập: Reported Speech, First Conditional, Modals (may/might/could), Have to",
+    "examples": [
+      "She said she was tired.",
+      "If it rains, we will stay at home.",
+      "It might rain tomorrow.",
+      "I have to go to school."
+    ]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "This is a placeholder exercise. The full exercises will be added soon.",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "explanation": "Placeholder explanation",
+      "hints": ["This is a test"],
+      "points": 10
+    }
+  ]
+}
