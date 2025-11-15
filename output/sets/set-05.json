@@ -408,7 +408,7 @@
     {
       "id": 44,
       "type": "fill-blank",
-      "question": "My brother is17 years old and he is in _ _ _ _ _12.",
+      "question": "My brother is 17 years old and he is in _ _ _ _ _12.",
       "correctAnswer": "grade",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: grade**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Anh trai 17 tuổi thường học lớp 12\n- 'grade 12' = lớp 12\n\n**Dịch nghĩa:** Anh trai tôi 17 tuổi và anh ấy học lớp 12.\n\n**Ghi nhớ:** grade = lớp (Mỹ), class = lớp (Anh)"
     },
@@ -534,7 +534,7 @@
     {
       "id": 59,
       "type": "fill-blank",
-      "question": "Is your little son’s birthday _ _ September25th?",
+      "question": "Is your little son’s birthday _ _ September 25th?",
       "correctAnswer": "on",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: on**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Dùng 'on' trước ngày tháng cụ thể\n- 'on September 25th' = vào ngày 25 tháng 9\n\n**Dịch nghĩa:** Sinh nhật con trai nhỏ của bạn có phải vào ngày 25 tháng 9 không?\n\n**Ghi nhớ:** on + ngày tháng, in + tháng/năm, at + giờ"
     },
@@ -561,7 +561,7 @@
     {
       "id": 62,
       "type": "fill-blank",
-      "question": "How _ _ _ _ is he? - He’s1.5 metres tall.",
+      "question": "How _ _ _ _ is he? - He’s 1.5 metres tall.",
       "correctAnswer": "tall",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: tall**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu trả lời 'He's 1.5 metres tall' (Anh ấy cao 1,5 mét)\n- Hỏi chiều cao: How tall? (Cao bao nhiêu?)\n\n**Dịch nghĩa:** Anh ấy cao bao nhiêu? - Anh ấy cao 1,5 mét.\n\n**Ghi nhớ:** How tall? = Cao bao nhiêu?"
     },
@@ -1603,7 +1603,7 @@
     {
       "id": 172,
       "type": "word-arrangement",
-      "question": "this afternoon./ We have/ with Mr. Smith/ at5 pm/ an appointment/",
+      "question": "this afternoon./ We have/ with Mr. Smith/ at 5 pm/ an appointment/",
       "correctAnswer": "We have an appointment with Mr. Smith at 5 pm this afternoon.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: We have an appointment with Mr. Smith at 5 pm this afternoon.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'We' (chúng tôi)\n- 'have an appointment' = có cuộc hẹn\n- 'with Mr. Smith' = với ông Smith\n- 'at 5 pm' = lúc 5 giờ chiều\n- 'this afternoon' = chiều nay\n\n**Dịch nghĩa:** Chúng tôi có cuộc hẹn với ông Smith lúc 5 giờ chiều nay.\n\n**Ghi nhớ:** have an appointment = có cuộc hẹn"
     },
@@ -1670,10 +1670,10 @@
       "question": "What time does he get up?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160303006967345_Audio.mp3",
       "options": [
-        "At6 a.m",
-        "At6:30 a.m",
-        "At6 p.m",
-        "At7:00 a.m"
+        "At 6 a.m",
+        "At 6:30 a.m",
+        "At 6 p.m",
+        "At 7:00 a.m"
       ],
       "correctAnswer": "At 6 a.m",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: At 6 a.m**\n\n**Lý do:**\n- Nghe file âm thanh để xác định\n- Câu hỏi về giờ dậy\n- Anh ấy dậy lúc 6 giờ sáng\n\n**Các đáp án khác:**\n- At 6:30 a.m: 6 giờ 30 sáng (sai)\n- At 6 p.m: 6 giờ tối (sai)\n- At 7:00 a.m: 7 giờ sáng (sai)\n\n**Dịch nghĩa:** Anh ấy dậy lúc mấy giờ? - Lúc 6 giờ sáng.\n\n**Ghi nhớ:** a.m = sáng, p.m = chiều/tối"
@@ -1826,7 +1826,7 @@
     {
       "id": 197,
       "type": "fill-blank",
-      "question": "My friend always has2 sandwiches and an apple _ _ _ lunch.",
+      "question": "My friend always has 2 sandwiches and an apple _ _ _ lunch.",
       "correctAnswer": "for",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Cấu trúc: for + bữa ăn\n- 'for lunch' = cho bữa trưa\n\n**Dịch nghĩa:** Bạn tôi luôn có 2 bánh mì sandwich và một quả táo cho bữa trưa.\n\n**Ghi nhớ:** for breakfast/lunch/dinner"
     },

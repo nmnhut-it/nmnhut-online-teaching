@@ -47,7 +47,7 @@
     {
       "id": 6,
       "type": "word-arrangement",
-      "question": "exercise/ your book/ Open/ number1./ and do/",
+      "question": "exercise/ your book/ Open/ number 1./ and do/",
       "correctAnswer": "Open your book and do exercise number 1.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Open your book and do exercise number 1.**\n\n**Phân tích:**\n- Câu mệnh lệnh bắt đầu bằng động từ 'Open'\n- 'Open your book' = Mở sách ra\n- 'and do exercise number 1' = và làm bài tập số 1\n\n**Dịch nghĩa:** Mở sách ra và làm bài tập số 1.\n\n**Ghi nhớ:** do exercise = làm bài tập"
     },
@@ -227,10 +227,10 @@
       "question": "What time does he get up?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160303006967345_Audio.mp3",
       "options": [
-        "At6 a.m",
-        "At6:30 a.m",
-        "At6 p.m",
-        "At7:00 a.m"
+        "At 6 a.m",
+        "At 6:30 a.m",
+        "At 6 p.m",
+        "At 7:00 a.m"
       ],
       "correctAnswer": "At 6 a.m",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: At 6 a.m**\n\n**Lý do:**\n- Câu hỏi: 'What time does he get up?'\n- a.m = buổi sáng\n- 6 giờ sáng là thời gian thức dậy phổ biến\n\n**Dịch nghĩa:** Anh ấy thức dậy lúc mấy giờ? - Lúc 6 giờ sáng.\n\n**Ghi nhớ:** get up = thức dậy, a.m = buổi sáng"
