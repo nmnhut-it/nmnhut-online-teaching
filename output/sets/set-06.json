@@ -422,7 +422,7 @@
     {
       "id": 44,
       "type": "fill-blank",
-      "question": "Jane _ _ _ _ _ her bike home at6.",
+      "question": "Jane _ _ _ _ _ her bike home at 6.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506594342063996_566X320.jpg",
       "correctAnswer": "rides",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: rides**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: rides\n- Nghĩa: đạp xe\n\n**Phân tích:**\n- Từ \"rides\" phù hợp với ngữ cảnh câu\n- Hoàn thành câu một cách hợp lý\n\n\n**Lưu ý:** Câu hỏi có kèm hình ảnh/âm thanh hỗ trợ"
@@ -816,7 +816,7 @@
     {
       "id": 85,
       "type": "multiple-choice",
-      "question": "Every morning, I ... up at7 o’clock.",
+      "question": "Every morning, I ... up at 7 o’clock.",
       "options": [
         "gets",
         "to get",
