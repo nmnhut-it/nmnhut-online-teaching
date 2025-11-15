@@ -20,9 +20,12 @@
     import { renderQuiz, renderTestSetMenu, showLoading, showError } from './src/ui.js';
     import { initCamera, setupCameraElements } from './src/camera.js';
     import { initSoundSystem, playGameStartSound } from './src/sound-manager.js';
+    import { ensureStudentInfo } from './src/student-info.js';
+    import { setStudentName } from './src/notification-batcher.js';
 
     let setsIndex = null;
     let cameraInitialized = false;
+    let studentInfo = null;
     const container = document.getElementById('app');
 
     // Initialize sound system on page load
