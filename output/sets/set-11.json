@@ -1,7 +1,7 @@
 {
   "setNumber": 11,
   "title": "IOE K5 2022-2023 Set 11",
-  "totalQuestions": 200,
+  "totalQuestions": 199,
   "questions": [
     {
       "id": 1,
@@ -30,6 +30,11 @@
       "question": "My uncle jogs around the _ _ _ _ to keep fit.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506640710955232_566X320.jpg",
       "correctAnswer": "lake",
+      "vocabulary": {
+        "word": "lake",
+        "translation": "hồ",
+        "meaning": "a large body of water surrounded by land"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lake**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu nói về chạy bộ quanh một nơi để giữ dáng\n- 'jog around the lake' = chạy bộ quanh hồ\n- Hình ảnh cho thấy một cái hồ\n\n**Dịch nghĩa:** Chú của tôi chạy bộ quanh hồ để giữ dáng.\n\n**Ghi nhớ:** lake = cái hồ, jog = chạy bộ, keep fit = giữ dáng"
     },
     {
@@ -42,8 +47,8 @@
         "American",
         "France"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (France)**\n\n**Lý do:**\n- Vietnamese: tiếng Việt (ngôn ngữ)\n- English: tiếng Anh (ngôn ngữ)\n- American: người Mỹ (quốc tịch)\n- France: nước Pháp (tên nước) - khác biệt\n\n**Các từ còn lại:** Đều là ngôn ngữ hoặc quốc tịch, France là tên nước.\n\n**Ghi nhớ:** France = nước Pháp, French = tiếng Pháp/người Pháp"
+      "correctAnswer": "France",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: France**\n\n**Lý do:**\n- Vietnamese: tiếng Việt (ngôn ngữ)\n- English: tiếng Anh (ngôn ngữ)\n- American: người Mỹ (quốc tịch)\n- France: nước Pháp (tên nước) - khác biệt\n\n**Các từ còn lại:** Đều là ngôn ngữ hoặc quốc tịch, France là tên nước.\n\n**Ghi nhớ:** France = nước Pháp, French = tiếng Pháp/người Pháp"
     },
     {
       "id": 5,
@@ -97,6 +102,11 @@
       "type": "fill-blank",
       "question": "At the m_ _ _ _ _ you can see a lot of old items.",
       "correctAnswer": "useum",
+      "vocabulary": {
+        "word": "museum",
+        "translation": "bảo tàng",
+        "meaning": "a building where objects of historical, scientific, or artistic interest are kept and shown to the public"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: useum**\n\n**Lý do:**\n- Từ cần điền: m_ _ _ _ _\n- Hoàn thành: museum (bảo tàng)\n- Nơi có thể xem những đồ vật cổ\n\n**Dịch nghĩa:** Ở bảo tàng, bạn có thể xem nhiều đồ vật cổ.\n\n**Ghi nhớ:** museum = bảo tàng, old items = đồ vật cổ"
     },
     {
@@ -119,6 +129,11 @@
       "question": "What do they do in the winter? - They play _ _ _ _ _ _ in the snow and play in the snow.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106373379805809_Audio.mp3",
       "correctAnswer": "hockey",
+      "vocabulary": {
+        "word": "hockey",
+        "translation": "khúc côn cầu",
+        "meaning": "a game played on ice or grass by two teams who try to hit a small hard ball or puck into the other team's goal using long sticks"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: hockey**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Câu nói về môn thể thao chơi trên tuyết vào mùa đông\n- Hockey (khúc côn cầu trên băng) là môn phổ biến vào mùa đông\n\n**Dịch nghĩa:** Họ làm gì vào mùa đông? - Họ chơi khúc côn cầu trên tuyết và vui đùa trong tuyết.\n\n**Ghi nhớ:** hockey = khúc côn cầu, play hockey = chơi khúc côn cầu"
     },
     {
@@ -164,8 +179,13 @@
     {
       "id": 18,
       "type": "fill-blank",
-      "question": "What is your father’s _ _ _ ? - He’s a doctor.",
+      "question": "What is your father's _ _ _ ? - He's a doctor.",
       "correctAnswer": "job",
+      "vocabulary": {
+        "word": "job",
+        "translation": "nghề nghiệp, công việc",
+        "meaning": "the work that a person does regularly in order to earn money"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: job**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu hỏi về nghề nghiệp của bố\n- 'What is your father's job?' = Nghề nghiệp của bố bạn là gì?\n- Trả lời: He's a doctor (Bố tôi là bác sĩ)\n\n**Dịch nghĩa:** Nghề nghiệp của bố bạn là gì? - Bố tôi là bác sĩ.\n\n**Ghi nhớ:** job = nghề nghiệp, work = công việc"
     },
     {
@@ -200,6 +220,11 @@
       "question": "There is a _ _ _ _ _ _ _ _ _ _ _ near her school.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506639688765669_566X320.jpg",
       "correctAnswer": "supermarket",
+      "vocabulary": {
+        "word": "supermarket",
+        "translation": "siêu thị",
+        "meaning": "a large store that sells food, drinks, household goods, etc."
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: supermarket**\n\n**Lý do:**\n- Từ cần điền có 11 chữ cái: _ _ _ _ _ _ _ _ _ _ _\n- Hình ảnh cho thấy một siêu thị\n- 'near her school' = gần trường của cô ấy\n\n**Dịch nghĩa:** Có một siêu thị gần trường của cô ấy.\n\n**Ghi nhớ:** supermarket = siêu thị, near = gần"
     },
     {
@@ -247,6 +272,11 @@
         "reading lamps"
       ],
       "correctAnswer": "reading lamp",
+      "vocabulary": {
+        "word": "reading lamp",
+        "translation": "đèn đọc sách",
+        "meaning": "a lamp designed for reading, usually placed on a table or desk"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: reading lamp**\n\n**Lý do:**\n- 'reading lamp' = đèn đọc sách\n- Danh từ ghép: danh từ + danh từ\n- Thứ tự: tính chất + danh từ chính\n\n**Các đáp án khác:**\n- lamp reading: sai thứ từ\n- read lamp: sai dạng từ\n- reading lamps: số nhiều (không khớp 'a')\n\n**Dịch nghĩa:** Có một cái đèn đọc sách trên bàn.\n\n**Ghi nhớ:** reading lamp = đèn đọc sách"
     },
     {
@@ -261,6 +291,11 @@
       "type": "fill-blank",
       "question": "FU_ URE",
       "correctAnswer": "T",
+      "vocabulary": {
+        "word": "future",
+        "translation": "tương lai",
+        "meaning": "the time that is to come; what will happen in the time after the present"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: T**\n\n**Lý do:**\n- Từ cần điền: FU_ URE\n- Hoàn thành: FUTURE (tương lai)\n- T là chữ cái còn thiếu\n\n**Dịch nghĩa:** FUTURE = tương lai\n\n**Ghi nhớ:** in the future = trong tương lai"
     },
     {
@@ -296,6 +331,11 @@
       "type": "fill-blank",
       "question": "DAN_ E",
       "correctAnswer": "C",
+      "vocabulary": {
+        "word": "dance",
+        "translation": "nhảy, khiêu vũ",
+        "meaning": "to move your body to music; the activity of dancing"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: C**\n\n**Lý do:**\n- Từ cần điền: DAN_ E\n- Hoàn thành: DANCE (nhảy múa)\n- C là chữ cái còn thiếu\n\n**Dịch nghĩa:** DANCE = nhảy, khiêu vũ\n\n**Ghi nhớ:** dance = nhảy múa (động từ và danh từ)"
     },
     {
@@ -310,6 +350,11 @@
       "type": "fill-blank",
       "question": "My sis_ _ _ is cooking in the kitchen.",
       "correctAnswer": "ter",
+      "vocabulary": {
+        "word": "sister",
+        "translation": "chị gái, em gái",
+        "meaning": "a girl or woman who has the same parents as another person"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ter**\n\n**Lý do:**\n- Từ cần điền: sis_ _ _\n- Hoàn thành: sister (chị/em gái)\n- Câu nói về chị/em gái đang nấu ăn\n\n**Dịch nghĩa:** Chị gái tôi đang nấu ăn trong bếp.\n\n**Ghi nhớ:** sister = chị/em gái, brother = anh/em trai"
     },
     {
@@ -377,14 +422,24 @@
       "type": "fill-blank",
       "question": "CHE_ SE",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "cheese",
+        "translation": "phô mai",
+        "meaning": "a solid food made from milk, usually yellow or white in color"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: CHE_ SE\n- Hoàn thành: CHEESE (phô mai)\n- E là chữ cái còn thiếu\n\n**Dịch nghĩa:** CHEESE = phô mai\n\n**Ghi nhớ:** cheese = phô mai (danh từ không đếm được)"
     },
     {
       "id": 41,
       "type": "fill-blank",
-      "question": "That girl’s _ _ _ _ are blue.",
+      "question": "That girl's _ _ _ _ are blue.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636507020426497558_Audio.mp3",
       "correctAnswer": "eyes",
+      "vocabulary": {
+        "word": "eyes",
+        "translation": "mắt",
+        "meaning": "the organs of sight; the parts of the body that you see with"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: eyes**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Cần nghe audio để xác định\n- Câu nói về màu mắt của cô gái là xanh\n\n**Dịch nghĩa:** Mắt của cô gái đó màu xanh.\n\n**Ghi nhớ:** eyes = đôi mắt, blue eyes = mắt xanh"
     },
     {
@@ -406,12 +461,17 @@
       "question": "After doing morning exercise, I have break_ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/1-dt-06.jpg",
       "correctAnswer": "fast",
+      "vocabulary": {
+        "word": "breakfast",
+        "translation": "bữa sáng",
+        "meaning": "the first meal of the day, eaten in the morning"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: fast**\n\n**Lý do:**\n- Từ cần điền: break_ _ _ _\n- Hoàn thành: breakfast (bữa sáng)\n- Câu nói về ăn sáng sau khi tập thể dục\n\n**Dịch nghĩa:** Sau khi tập thể dục buổi sáng, tôi ăn sáng.\n\n**Ghi nhớ:** breakfast = bữa sáng, have breakfast = ăn sáng"
     },
     {
       "id": 44,
       "type": "fill-blank",
-      "question": "The bus often picks me _ _ at7 am every morning.",
+      "question": "The bus often picks me _ _ at 7 am every morning.",
       "correctAnswer": "up",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: up**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái: _ _\n- Cụm động từ: pick up = đón (ai đó)\n- Xe buýt đón tôi lúc 7 giờ sáng\n\n**Dịch nghĩa:** Xe buýt thường đón tôi lúc 7 giờ sáng mỗi ngày.\n\n**Ghi nhớ:** pick up = đón, pick me up = đón tôi"
     },
@@ -447,6 +507,11 @@
       "type": "fill-blank",
       "question": "_ RM",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "arm",
+        "translation": "cánh tay",
+        "meaning": "either of the two long parts of the upper body that are attached to the shoulders and have the hands at the end"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: _ RM\n- Hoàn thành: ARM (cánh tay)\n- A là chữ cái còn thiếu\n\n**Dịch nghĩa:** ARM = cánh tay\n\n**Ghi nhớ:** arm = cánh tay, arms = hai cánh tay"
     },
     {
@@ -492,7 +557,7 @@
     },
     {
       "id": 54,
-      "type": "word-arrangement",
+      "type": "multiple-choice",
       "question": "Which word contains the sound /i:/?",
       "options": [
         "beautiful",
@@ -574,6 +639,11 @@
       "question": "Why does your mother go to the food stall? - Because she wants to buy some _ _ _ _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/11/21/635521669430442521_566X320.jpg",
       "correctAnswer": "hamburgers",
+      "vocabulary": {
+        "word": "hamburger",
+        "translation": "bánh hamburger",
+        "meaning": "a round flat piece of ground beef, fried and usually eaten between two halves of a bread roll"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: hamburgers**\n\n**Lý do:**\n- Từ cần điền có 10 chữ cái: _ _ _ _ _ _ _ _ _ _\n- Hình ảnh cho thấy hamburger\n- Câu nói về mẹ đi quầy đồ ăn để mua hamburger\n\n**Dịch nghĩa:** Tại sao mẹ bạn đi quầy đồ ăn? - Vì mẹ muốn mua vài cái hamburger.\n\n**Ghi nhớ:** hamburger = bánh hamburger, food stall = quầy đồ ăn"
     },
     {
@@ -589,6 +659,11 @@
       "question": "There is a _ _ _ _ _ around our garden.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/22/635207294981995301_566X320.jpg",
       "correctAnswer": "fence",
+      "vocabulary": {
+        "word": "fence",
+        "translation": "hàng rào",
+        "meaning": "a structure made of wood or wire supported by posts that is put between two areas of land as a boundary or to keep animals in or out"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: fence**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Hình ảnh cho thấy hàng rào\n- Câu nói về hàng rào quanh vườn\n\n**Dịch nghĩa:** Có một hàng rào quanh vườn của chúng tôi.\n\n**Ghi nhớ:** fence = hàng rào, around = quanh"
     },
     {
@@ -596,6 +671,11 @@
       "type": "fill-blank",
       "question": "COK_",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "Coke",
+        "translation": "Coca Cola, nước ngọt",
+        "meaning": "a popular soft drink (short for Coca-Cola); a sweet fizzy drink"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: COK_\n- Hoàn thành: COKE (coca cola)\n- E là chữ cái còn thiếu\n\n**Dịch nghĩa:** COKE = coca cola (nước ngọt)\n\n**Ghi nhớ:** Coke = tên thương hiệu nước ngọt"
     },
     {
@@ -635,7 +715,7 @@
     {
       "id": 67,
       "type": "fill-blank",
-      "question": "Is your mother32 years _ _ _ ?",
+      "question": "Is your mother 32 years _ _ _ ?",
       "correctAnswer": "old",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: old**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu hỏi về tuổi: ... years old\n- 32 years old = 32 tuổi\n\n**Dịch nghĩa:** Mẹ bạn 32 tuổi phải không?\n\n**Ghi nhớ:** ... years old = ... tuổi"
     },
@@ -693,6 +773,11 @@
       "type": "fill-blank",
       "question": "He learns vocabu_ _ _ _ by writing new words and reading them aloud.",
       "correctAnswer": "lary",
+      "vocabulary": {
+        "word": "vocabulary",
+        "translation": "từ vựng",
+        "meaning": "all the words that a person knows or uses; words used in a particular language or subject"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lary**\n\n**Lý do:**\n- Từ cần điền: vocabu_ _ _ _\n- Hoàn thành: vocabulary (từ vựng)\n- Câu nói về học từ vựng\n\n**Dịch nghĩa:** Anh ấy học từ vựng bằng cách viết từ mới và đọc to chúng.\n\n**Ghi nhớ:** vocabulary = từ vựng, learn vocabulary = học từ vựng"
     },
     {
@@ -718,7 +803,7 @@
     {
       "id": 78,
       "type": "word-arrangement",
-      "question": "Students must/ years/ old./ least6/ be at/",
+      "question": "Students must/ years/ old./ least 6/ be at/",
       "correctAnswer": "Students must be at least 6 years old.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Students must be at least 6 years old.**\n\n**Phân tích:**\n- 'Students must be' - học sinh phải\n- 'at least' - ít nhất\n- '6 years old' - 6 tuổi\n\n**Dịch nghĩa:** Học sinh phải ít nhất 6 tuổi.\n\n**Ghi nhớ:** at least = ít nhất, must + V = phải"
     },
@@ -801,6 +886,11 @@
       "type": "fill-blank",
       "question": "PE_ SON",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "person",
+        "translation": "người",
+        "meaning": "a human being; an individual man, woman, or child"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: PE_ SON\n- Hoàn thành: PERSON (người)\n- R là chữ cái còn thiếu\n\n**Dịch nghĩa:** PERSON = người, con người\n\n**Ghi nhớ:** person = người (số ít), people = người (số nhiều)"
     },
     {
@@ -814,6 +904,11 @@
         "animals"
       ],
       "correctAnswer": "numbers",
+      "vocabulary": {
+        "word": "numbers",
+        "translation": "các con số",
+        "meaning": "mathematical symbols or figures used for counting and calculating"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: numbers**\n\n**Lý do:**\n- Câu hỏi về nội dung học môn Toán\n- Môn Toán học về số\n- 'numbers' = các con số\n\n**Các đáp án khác:**\n- essays: bài luận (văn)\n- plants: cây cối (sinh học)\n- animals: động vật (sinh học)\n\n**Dịch nghĩa:** Bạn học gì trong giờ Toán? - Các con số.\n\n**Ghi nhớ:** Maths = Toán, numbers = các con số"
     },
     {
@@ -835,10 +930,10 @@
       "type": "multiple-choice",
       "question": "What time does he get up? - ...",
       "options": [
-        "At6 a.m.",
-        "At6:30 a.m.",
-        "At6 p.m.",
-        "At7:00 a.m."
+        "At 6 a.m.",
+        "At 6:30 a.m.",
+        "At 6 p.m.",
+        "At 7:00 a.m."
       ],
       "correctAnswer": "At 6 a.m.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: At 6 a.m.**\n\n**Lý do:**\n- Câu hỏi về giờ dậy\n- Trả lời bằng giờ cụ thể\n- a.m. = buổi sáng, p.m. = buổi chiều/tối\n\n**Các đáp án khác:**\n- At 6 p.m.: 6 giờ tối (không hợp lý cho việc dậy)\n\n**Dịch nghĩa:** Anh ấy dậy lúc mấy giờ? - Lúc 6 giờ sáng.\n\n**Ghi nhớ:** a.m. = sáng, p.m. = chiều/tối"
@@ -846,8 +941,13 @@
     {
       "id": 90,
       "type": "fill-blank",
-      "question": "I’m going to the post _ _ _ _ _ _ to send a letter to my cousin in England.",
+      "question": "I'm going to the post _ _ _ _ _ _ to send a letter to my cousin in England.",
       "correctAnswer": "office",
+      "vocabulary": {
+        "word": "post office",
+        "translation": "bưu điện",
+        "meaning": "a place where you can buy stamps and send letters and packages"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: office**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Cụm từ: post office = bưu điện\n- Nơi gửi thư\n\n**Dịch nghĩa:** Tôi sẽ đến bưu điện để gửi thư cho em họ ở Anh.\n\n**Ghi nhớ:** post office = bưu điện, send a letter = gửi thư"
     },
     {
@@ -903,7 +1003,7 @@
     {
       "id": 97,
       "type": "word-arrangement",
-      "question": "they are/ living room./ going to watch/ At7 o’clock,/ TV in the/",
+      "question": "they are/ living room./ going to watch/ At 7 o'clock,/ TV in the/",
       "correctAnswer": "At 7 o’clock, they are going to watch TV in the living room.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: At 7 o'clock, they are going to watch TV in the living room.**\n\n**Phân tích:**\n- 'At 7 o'clock' - lúc 7 giờ (trạng từ thời gian đầu câu)\n- 'they are going to watch TV' - họ sẽ xem TV\n- 'in the living room' - trong phòng khách\n\n**Dịch nghĩa:** Lúc 7 giờ, họ sẽ xem TV trong phòng khách.\n\n**Ghi nhớ:** be going to + V = sẽ làm gì"
     },
@@ -966,6 +1066,11 @@
       "type": "fill-blank",
       "question": "TOD_ Y",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "today",
+        "translation": "hôm nay",
+        "meaning": "on or during this present day"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** A = A"
     },
     {
@@ -1046,7 +1151,7 @@
     {
       "id": 113,
       "type": "multiple-choice",
-      "question": "She usually comes ... home at5 pm.",
+      "question": "She usually comes ... home at 5 pm.",
       "options": [
         "to",
         "at",
@@ -1151,6 +1256,11 @@
       "question": "They are going to ride a _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160346428779060_566X320.jpg",
       "correctAnswer": "bike",
+      "vocabulary": {
+        "word": "bike",
+        "translation": "xe đạp",
+        "meaning": "a bicycle; a vehicle with two wheels that you ride by pushing pedals with your feet"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: bike**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Họ đang going to ride a bike bike bike bike .\n\n**Ghi nhớ:** bike = bike"
     },
     {
@@ -1158,6 +1268,11 @@
       "type": "fill-blank",
       "question": "They learn about num_ _ _ _ in Maths lessons.",
       "correctAnswer": "bers",
+      "vocabulary": {
+        "word": "numbers",
+        "translation": "các con số",
+        "meaning": "mathematical symbols or figures used for counting and calculating"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: bers**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** bers = bers"
     },
     {
@@ -1185,6 +1300,11 @@
       "type": "fill-blank",
       "question": "Alan wants to be a taxi _ _ _ _ _ _ .",
       "correctAnswer": "driver",
+      "vocabulary": {
+        "word": "driver",
+        "translation": "tài xế",
+        "meaning": "a person who drives a vehicle"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: driver**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** driver = driver"
     },
     {
@@ -1253,6 +1373,11 @@
       "type": "fill-blank",
       "question": "_ MBRELLA",
       "correctAnswer": "U",
+      "vocabulary": {
+        "word": "umbrella",
+        "translation": "ô, dù",
+        "meaning": "a device used for protection from rain, consisting of a circular fabric attached to a pole with a handle"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** U = U"
     },
     {
@@ -1260,6 +1385,11 @@
       "type": "fill-blank",
       "question": "AG_ IN",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "again",
+        "translation": "lại, một lần nữa",
+        "meaning": "one more time; another time"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** A = A"
     },
     {
@@ -1300,7 +1430,7 @@
     {
       "id": 142,
       "type": "fill-blank",
-      "question": "Everyday, I clean my room _ _ _ study English.",
+      "question": "Every day, I clean my room _ _ _ study English.",
       "correctAnswer": "and",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: and**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** and = and"
     },
@@ -1329,6 +1459,11 @@
       "type": "fill-blank",
       "question": "This is our new classmate. Her _ _ _ _ is Mai.",
       "correctAnswer": "name",
+      "vocabulary": {
+        "word": "name",
+        "translation": "tên",
+        "meaning": "a word or words by which a person, animal, place, or thing is known, addressed, or referred to"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: name**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** name = tên"
     },
     {
@@ -1337,6 +1472,11 @@
       "question": "I _ _ _ _ _ of being an astronaut some day.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/19/635204769045729669_Audio.mp3",
       "correctAnswer": "dream",
+      "vocabulary": {
+        "word": "dream",
+        "translation": "mơ ước, ước mơ",
+        "meaning": "to imagine something that you would like to happen; a cherished hope or ambition"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: dream**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** dream = dream"
     },
     {
@@ -1433,6 +1573,11 @@
       "type": "fill-blank",
       "question": "Here is a _ _ _ ture of my country.",
       "correctAnswer": "pic",
+      "vocabulary": {
+        "word": "picture",
+        "translation": "hình ảnh, tranh ảnh",
+        "meaning": "a painting, drawing, or photograph; a visual representation or image"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: pic**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** pic = pic"
     },
     {
@@ -1448,6 +1593,11 @@
       "question": "ca_ _",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160279820511822_Audio.mp3",
       "correctAnswer": "rd",
+      "vocabulary": {
+        "word": "card",
+        "translation": "thẻ, thiệp",
+        "meaning": "a piece of stiff paper or plastic with information on it; a folded piece of card with a picture and message sent on a special occasion"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: rd**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** rd = rd"
     },
     {
@@ -1495,6 +1645,11 @@
         "desert"
       ],
       "correctAnswer": "spaceship",
+      "vocabulary": {
+        "word": "spaceship",
+        "translation": "tàu vũ trụ",
+        "meaning": "a vehicle designed for travel or operation in outer space"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: spaceship**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- sea: Không phù hợp với ngữ cảnh\n- mountain: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** A: Ở đâu does an astronaut work? - B: In a … .\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
@@ -1554,7 +1709,7 @@
     {
       "id": 169,
       "type": "fill-blank",
-      "question": "The bank opens _ _ _ _7 a.m to4 p.m.",
+      "question": "The bank opens _ _ _ _ 7 a.m to 4 p.m.",
       "correctAnswer": "from",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: from**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** from = từ"
     },
@@ -1590,6 +1745,11 @@
       "type": "fill-blank",
       "question": "LIG_ T",
       "correctAnswer": "H",
+      "vocabulary": {
+        "word": "light",
+        "translation": "ánh sáng, đèn",
+        "meaning": "the natural energy that makes it possible to see things; a thing that produces light, such as a lamp"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: H**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** H = H"
     },
     {
@@ -1598,6 +1758,11 @@
       "question": "I will write down your name and _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/5/636507082351267000_Audio.mp3",
       "correctAnswer": "address",
+      "vocabulary": {
+        "word": "address",
+        "translation": "địa chỉ",
+        "meaning": "the details of where a person lives or works, including street name, house number, and town"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: address**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** address = address"
     },
     {
@@ -1674,6 +1839,11 @@
       "type": "fill-blank",
       "question": "HOT_ L",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "hotel",
+        "translation": "khách sạn",
+        "meaning": "a building where people pay to stay and have meals when they are away from home"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** E = E"
     },
     {
@@ -1734,9 +1904,14 @@
     {
       "id": 188,
       "type": "fill-blank",
-      "question": "Tracy’s pastimes are collecting _ _ _ _ _ _ and swimming.",
+      "question": "Tracy's pastimes are collecting _ _ _ _ _ _ and swimming.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/30/637106706994261527_566X320.jpg",
       "correctAnswer": "stamps",
+      "vocabulary": {
+        "word": "stamps",
+        "translation": "tem, con tem",
+        "meaning": "small pieces of paper with a picture or pattern on them that you stick on an envelope or package before you mail it; collectible postage stamps"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: stamps**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** stamps = stamps"
     },
     {
@@ -1772,20 +1947,6 @@
       ],
       "correctAnswer": "dad",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- late: Không phù hợp với ngữ cảnh\n- place: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
-    },
-    {
-      "id": 193,
-      "type": "multiple-choice",
-      "question": "Every morning she gets up ....",
-      "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205571004288196_Audio.mp3",
-      "options": [
-        "quickly",
-        "rarely",
-        "early",
-        "slowly"
-      ],
-      "correctAnswer": "early",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: early**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- quickly: Không phù hợp với ngữ cảnh\n- rarely: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 194,
@@ -1824,7 +1985,7 @@
     {
       "id": 198,
       "type": "multiple-choice",
-      "question": "It’s6 o’clock ....",
+      "question": "It's 6 o'clock ....",
       "options": [
         "in the morning",
         "into morning",
