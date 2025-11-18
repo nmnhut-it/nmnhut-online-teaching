@@ -16,6 +16,11 @@
       "question": "There are th_ _ _ _ days in June.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-dt-05.jpg",
       "correctAnswer": "irty",
+      "vocabulary": {
+        "word": "thirty",
+        "translation": "ba mươi",
+        "meaning": "the number 30"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: irty**\n\n**Lý do:**\n- Từ cần điền: th_ _ _ _\n- Khi thêm 'irty' vào: thirty (ba mươi)\n- Tháng 6 có 30 ngày\n- Câu hoàn chỉnh: There are thirty days in June\n\n**Dịch nghĩa:** Có ba mươi ngày trong tháng Sáu.\n\n**Ghi nhớ:** thirty = 30, thirteen = 13"
     },
     {
@@ -23,6 +28,11 @@
       "type": "fill-blank",
       "question": "You should bring a _ _ _ _ _ _ _ _ in case it rains.",
       "correctAnswer": "raincoat",
+      "vocabulary": {
+        "word": "raincoat",
+        "translation": "áo mưa",
+        "meaning": "a waterproof coat worn to protect against rain"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: raincoat**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái: _ _ _ _ _ _ _ _\n- Câu nói về mang theo thứ gì khi trời mưa\n- 'raincoat' = áo mưa (dùng khi trời mưa)\n- 'in case it rains' = phòng khi trời mưa\n\n**Dịch nghĩa:** Bạn nên mang theo áo mưa phòng khi trời mưa.\n\n**Ghi nhớ:** raincoat = áo mưa, umbrella = ô, dù"
     },
     {
@@ -43,6 +53,11 @@
       "type": "fill-blank",
       "question": "DIFFE_ ENT",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "different",
+        "translation": "khác nhau, khác biệt",
+        "meaning": "not the same as another or each other"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: DIFFE_ ENT\n- Khi thêm R vào: DIFFERENT (khác nhau)\n- Different là tính từ phổ biến trong tiếng Anh\n\n**Dịch nghĩa:** DIFFERENT = khác biệt, khác nhau\n\n**Ghi nhớ:** different from = khác với"
     },
     {
@@ -110,6 +125,11 @@
       "type": "fill-blank",
       "question": "REP_ AT",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "repeat",
+        "translation": "lặp lại, nhắc lại",
+        "meaning": "to say or do something again"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: REP_ AT\n- Khi thêm E vào: REPEAT (lặp lại)\n- Repeat là động từ phổ biến\n\n**Dịch nghĩa:** REPEAT = lặp lại, nhắc lại\n\n**Ghi nhớ:** repeat = lặp lại, repetition = sự lặp lại"
     },
     {
@@ -117,6 +137,11 @@
       "type": "fill-blank",
       "question": "During music lessons, we learn to _ _ _ _ songs.",
       "correctAnswer": "sing",
+      "vocabulary": {
+        "word": "sing",
+        "translation": "hát",
+        "meaning": "to make musical sounds with your voice"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: sing**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu nói về giờ học âm nhạc (music lessons)\n- 'learn to sing songs' = học hát các bài hát\n- Cấu trúc: learn to + V (học để làm gì)\n\n**Dịch nghĩa:** Trong giờ học âm nhạc, chúng tôi học hát các bài hát.\n\n**Ghi nhớ:** sing = hát, song = bài hát, singer = ca sĩ"
     },
     {
@@ -321,8 +346,13 @@
     {
       "id": 37,
       "type": "fill-blank",
-      "question": "Another word for ’’_ _ _ _ _ tennis’’ is ’’ping-pong’’.",
+      "question": "Another word for ''_ _ _ _ _ tennis'' is ''ping-pong''.",
       "correctAnswer": "table",
+      "vocabulary": {
+        "word": "table tennis",
+        "translation": "bóng bàn",
+        "meaning": "a game played on a table with small bats and a light ball"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: table**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'table tennis' = bóng bàn (còn gọi là ping-pong)\n- Câu giải thích: Another word for 'table tennis' is 'ping-pong'\n\n**Dịch nghĩa:** Từ khác của 'bóng bàn' là 'ping-pong'.\n\n**Ghi nhớ:** table tennis = ping-pong = bóng bàn"
     },
     {
@@ -356,6 +386,11 @@
       "type": "fill-blank",
       "question": "MOT_ ER",
       "correctAnswer": "H",
+      "vocabulary": {
+        "word": "mother",
+        "translation": "mẹ, bà mẹ",
+        "meaning": "a female parent"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: H**\n\n**Lý do:**\n- Từ cần điền: MOT_ ER\n- Khi thêm H vào: MOTHER (mẹ)\n- Mother là từ vựng cơ bản về gia đình\n\n**Dịch nghĩa:** MOTHER = mẹ, bà mẹ\n\n**Ghi nhớ:** mother = mẹ, father = bố"
     },
     {
@@ -479,6 +514,11 @@
       "type": "fill-blank",
       "question": "LANG_ AGE",
       "correctAnswer": "U",
+      "vocabulary": {
+        "word": "language",
+        "translation": "ngôn ngữ",
+        "meaning": "a system of communication used by people of a particular country or community"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: LANG_ AGE\n- Khi thêm U vào: LANGUAGE (ngôn ngữ)\n- Language là từ vựng phổ biến\n\n**Dịch nghĩa:** LANGUAGE = ngôn ngữ\n\n**Ghi nhớ:** language = ngôn ngữ, English language = tiếng Anh"
     },
     {
@@ -486,6 +526,11 @@
       "type": "fill-blank",
       "question": "SN_ W",
       "correctAnswer": "O",
+      "vocabulary": {
+        "word": "snow",
+        "translation": "tuyết, tuyết rơi",
+        "meaning": "soft white frozen water that falls from the sky in cold weather"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền: SN_ W\n- Khi thêm O vào: SNOW (tuyết)\n- Snow là từ vựng về thời tiết\n\n**Dịch nghĩa:** SNOW = tuyết, tuyết rơi\n\n**Ghi nhớ:** snow = tuyết (danh từ và động từ)"
     },
     {
@@ -575,6 +620,11 @@
       "type": "fill-blank",
       "question": "SOC_",
       "correctAnswer": "K",
+      "vocabulary": {
+        "word": "sock",
+        "translation": "tất, vớ",
+        "meaning": "a piece of clothing that you wear on your foot inside a shoe"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: K**\n\n**Lý do:**\n- Từ cần điền: SOC_\n- Khi thêm K vào: SOCK (tất, vớ)\n- Sock là từ vựng về quần áo\n\n**Dịch nghĩa:** SOCK = tất, vớ\n\n**Ghi nhớ:** sock = tất (số ít), socks = những đôi tất (số nhiều)"
     },
     {
@@ -596,6 +646,11 @@
       "type": "fill-blank",
       "question": "LE_ ONADE",
       "correctAnswer": "M",
+      "vocabulary": {
+        "word": "lemonade",
+        "translation": "nước chanh",
+        "meaning": "a drink made from lemon juice, water, and sugar"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền: LE_ ONADE\n- Khi thêm M vào: LEMONADE (nước chanh)\n- Lemonade là đồ uống phổ biến\n\n**Dịch nghĩa:** LEMONADE = nước chanh\n\n**Ghi nhớ:** lemonade = nước chanh, lemon = quả chanh"
     },
     {
@@ -610,12 +665,17 @@
       "type": "fill-blank",
       "question": "Remember to w_ _ _ your hands before having meals.",
       "correctAnswer": "ash",
+      "vocabulary": {
+        "word": "wash",
+        "translation": "rửa",
+        "meaning": "to clean something with water and usually soap"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ash**\n\n**Lý do:**\n- Từ cần điền: w_ _ _\n- Khi thêm 'ash' vào: wash (rửa)\n- 'wash your hands' = rửa tay\n- Câu nói về rửa tay trước khi ăn\n\n**Dịch nghĩa:** Nhớ rửa tay trước khi ăn.\n\n**Ghi nhớ:** wash hands = rửa tay, before meals = trước bữa ăn"
     },
     {
       "id": 70,
       "type": "multiple-choice",
-      "question": "Are your free ... Friday evening?",
+      "question": "Are you free ... Friday evening?",
       "options": [
         "in",
         "at",
@@ -737,6 +797,11 @@
       "type": "fill-blank",
       "question": "E_ AMPLE",
       "correctAnswer": "X",
+      "vocabulary": {
+        "word": "example",
+        "translation": "ví dụ",
+        "meaning": "something that is representative of all such things in a group"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: X**\n\n**Lý do:**\n- Từ cần điền: E_ AMPLE\n- Khi thêm X vào: EXAMPLE (ví dụ)\n- Example là từ vựng phổ biến\n\n**Dịch nghĩa:** EXAMPLE = ví dụ\n\n**Ghi nhớ:** for example = ví dụ (viết tắt: e.g.)"
     },
     {
@@ -744,7 +809,7 @@
       "type": "fill-blank",
       "question": "Lynda comes from _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400471932574_Audio.mp3",
-      "correctAnswer": "sydney",
+      "correctAnswer": "Sydney",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Sydney**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Sydney là thành phố lớn ở Úc\n- Câu nói về Lynda đến từ Sydney\n\n**Dịch nghĩa:** Lynda đến từ Sydney.\n\n**Ghi nhớ:** Sydney = thành phố ở Úc (viết hoa chữ cái đầu)"
     },
     {
@@ -778,6 +843,11 @@
       "type": "fill-blank",
       "question": "TA_ LE",
       "correctAnswer": "B",
+      "vocabulary": {
+        "word": "table",
+        "translation": "bàn, cái bàn",
+        "meaning": "a piece of furniture with a flat top and legs"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: B**\n\n**Lý do:**\n- Từ cần điền: TA_ LE\n- Khi thêm B vào: TABLE (bàn)\n- Table là từ vựng cơ bản về đồ dùng\n\n**Dịch nghĩa:** TABLE = bàn, cái bàn\n\n**Ghi nhớ:** table = bàn, chair = ghế"
     },
     {
@@ -798,6 +868,11 @@
       "type": "fill-blank",
       "question": "Kim lives in an a_ _ _ _ ment in town.",
       "correctAnswer": "part",
+      "vocabulary": {
+        "word": "apartment",
+        "translation": "căn hộ",
+        "meaning": "a set of rooms for living in, usually on one floor of a building"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: part**\n\n**Lý do:**\n- Từ cần điền: a_ _ _ _ment\n- Khi thêm 'part' vào: apartment (căn hộ)\n- 'live in an apartment' = sống trong căn hộ\n\n**Dịch nghĩa:** Kim sống trong một căn hộ ở thị trấn.\n\n**Ghi nhớ:** apartment = flat = căn hộ"
     },
     {
@@ -880,6 +955,11 @@
       "type": "fill-blank",
       "question": "HE_ GHT",
       "correctAnswer": "I",
+      "vocabulary": {
+        "word": "height",
+        "translation": "chiều cao",
+        "meaning": "the measurement of how tall someone or something is"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I**\n\n**Lý do:**\n- Từ cần điền: HE_ GHT\n- Khi thêm I vào: HEIGHT (chiều cao)\n- Height là từ vựng về kích thước\n\n**Dịch nghĩa:** HEIGHT = chiều cao\n\n**Ghi nhớ:** height = chiều cao, weight = cân nặng"
     },
     {
@@ -914,6 +994,11 @@
       "type": "fill-blank",
       "question": "PLE_ SE",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "please",
+        "translation": "xin, làm ơn",
+        "meaning": "used as a polite way to ask for something"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: PLE_ SE\n- Khi thêm A vào: PLEASE (xin, làm ơn)\n- Please là từ thể hiện lịch sự\n\n**Dịch nghĩa:** PLEASE = xin, làm ơn\n\n**Ghi nhớ:** please = xin (dùng khi nhờ vả)"
     },
     {
@@ -928,11 +1013,16 @@
       "type": "fill-blank",
       "question": "DANC_ R",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "dancer",
+        "translation": "vũ công, người nhảy múa",
+        "meaning": "a person who dances or whose profession is dancing"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: DANC_ R\n- Khi thêm E vào: DANCER (vũ công, người nhảy)\n- Dancer là từ chỉ nghề nghiệp\n\n**Dịch nghĩa:** DANCER = vũ công, người nhảy múa\n\n**Ghi nhớ:** dance = nhảy múa, dancer = người nhảy múa"
     },
     {
       "id": 103,
-      "type": "word-arrangement",
+      "type": "multiple-choice",
       "question": "Which word contains the sound /i:/?",
       "options": [
         "beautiful",
@@ -1036,6 +1126,11 @@
       "type": "fill-blank",
       "question": "MO_ KEY",
       "correctAnswer": "N",
+      "vocabulary": {
+        "word": "monkey",
+        "translation": "con khỉ",
+        "meaning": "a small to medium-sized primate that typically has a long tail and lives in trees"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền: MO_ KEY\n- Khi thêm N vào: MONKEY (con khỉ)\n- Monkey là từ vựng về động vật\n\n**Dịch nghĩa:** MONKEY = con khỉ\n\n**Ghi nhớ:** monkey = con khỉ, monkeys = những con khỉ"
     },
     {
@@ -1050,6 +1145,11 @@
       "type": "fill-blank",
       "question": "Mrs. White is a g_ _ tle woman.",
       "correctAnswer": "en",
+      "vocabulary": {
+        "word": "gentle",
+        "translation": "nhẹ nhàng, dịu dàng",
+        "meaning": "kind, calm, and not violent or rough"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: en**\n\n**Lý do:**\n- Từ cần điền: g_ _tle\n- Khi thêm 'en' vào: gentle (nhẹ nhàng, dịu dàng)\n- 'a gentle woman' = một người phụ nữ dịu dàng\n\n**Dịch nghĩa:** Bà White là một người phụ nữ dịu dàng.\n\n**Ghi nhớ:** gentle = nhẹ nhàng, dịu dàng"
     },
     {
@@ -1072,6 +1172,11 @@
       "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400874433137_Audio.mp3",
       "correctAnswer": "library",
+      "vocabulary": {
+        "word": "library",
+        "translation": "thư viện",
+        "meaning": "a building or room containing collections of books for people to read or borrow"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: library**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Câu nói về có tiết học vào buổi chiều\n- 'lessons in the library' = tiết học ở thư viện\n\n**Dịch nghĩa:** Vào buổi chiều, cô ấy có tiết học ở thư viện.\n\n**Ghi nhớ:** library = thư viện"
     },
     {
@@ -1111,7 +1216,7 @@
         "tennis",
         "play"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "play",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: play**\n\n**Lý do:**\n- soccer, volleyball, tennis là các môn thể thao\n- play là động từ (chơi), không phải danh từ\n\n**Dịch nghĩa:** Play là từ khác loại.\n\n**Ghi nhớ:** Danh từ môn thể thao: soccer, volleyball, tennis, basketball"
     },
     {
@@ -1147,6 +1252,11 @@
       "question": "You can buy some bread at the _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506638421419512_566X320.jpg",
       "correctAnswer": "bakery",
+      "vocabulary": {
+        "word": "bakery",
+        "translation": "tiệm bánh mì",
+        "meaning": "a place where bread and cakes are made and sold"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: bakery**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Nơi mua bánh mì là tiệm bánh\n- 'bakery' = tiệm bánh mì\n\n**Dịch nghĩa:** Bạn có thể mua bánh mì ở tiệm bánh mì.\n\n**Ghi nhớ:** bakery = tiệm bánh mì, baker = thợ làm bánh"
     },
     {
@@ -1214,6 +1324,11 @@
       "type": "fill-blank",
       "question": "UN_ ER",
       "correctAnswer": "D",
+      "vocabulary": {
+        "word": "under",
+        "translation": "dưới, bên dưới",
+        "meaning": "in or to a position below or beneath something"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: D**\n\n**Lý do:**\n- Từ cần điền: UN_ ER\n- Khi thêm D vào: UNDER (dưới, bên dưới)\n- Under là giới từ chỉ vị trí\n\n**Dịch nghĩa:** UNDER = dưới, bên dưới\n\n**Ghi nhớ:** under ≠ over (dưới ≠ trên)"
     },
     {
@@ -1250,6 +1365,11 @@
       "question": "Her hair is short and gre_ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/03-dt-59.mp3",
       "correctAnswer": "y",
+      "vocabulary": {
+        "word": "grey",
+        "translation": "màu xám",
+        "meaning": "of a color between black and white; of the color of ash or lead"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: y**\n\n**Lý do:**\n- Từ cần điền: gre_\n- Khi thêm y vào: grey (màu xám)\n- 'short and grey' = ngắn và màu xám\n\n**Dịch nghĩa:** Tóc của cô ấy ngắn và màu xám.\n\n**Ghi nhớ:** grey = gray = màu xám"
     },
     {
@@ -1270,6 +1390,11 @@
       "type": "fill-blank",
       "question": "HO_ IDAY",
       "correctAnswer": "L",
+      "vocabulary": {
+        "word": "holiday",
+        "translation": "ngày nghỉ, kỳ nghỉ",
+        "meaning": "a day of celebration when most people do not go to work or school, or a period of time away from work or school for rest and enjoyment"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền: HO_ IDAY\n- Khi thêm L vào: HOLIDAY (ngày nghỉ, kỳ nghỉ)\n- Holiday là từ vựng về thời gian nghỉ\n\n**Dịch nghĩa:** HOLIDAY = ngày nghỉ, kỳ nghỉ\n\n**Ghi nhớ:** holiday = vacation = kỳ nghỉ"
     },
     {
@@ -1299,6 +1424,11 @@
       "question": "After doing morning exercise, I have break_ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/1-dt-06.jpg",
       "correctAnswer": "fast",
+      "vocabulary": {
+        "word": "breakfast",
+        "translation": "bữa sáng",
+        "meaning": "the first meal of the day, eaten in the morning"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: fast**\n\n**Lý do:**\n- Từ cần điền: break_ _ _ _\n- Khi thêm 'fast' vào: breakfast (bữa sáng)\n- 'have breakfast' = ăn sáng\n\n**Dịch nghĩa:** Sau khi tập thể dục buổi sáng, tôi ăn sáng.\n\n**Ghi nhớ:** breakfast = bữa sáng (break + fast = phá vỡ sự nhịn ăn)"
     },
     {
@@ -1326,6 +1456,11 @@
       "type": "fill-blank",
       "question": "WE_ KEND",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "weekend",
+        "translation": "cuối tuần",
+        "meaning": "Saturday and Sunday, especially considered as a time for rest or recreation"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: WE_ KEND\n- Khi thêm E vào: WEEKEND (cuối tuần)\n- Weekend là từ vựng về thời gian\n\n**Dịch nghĩa:** WEEKEND = cuối tuần\n\n**Ghi nhớ:** weekend = thứ Bảy và Chủ nhật"
     },
     {
@@ -1436,6 +1571,11 @@
       "type": "fill-blank",
       "question": "_ UNGRY",
       "correctAnswer": "H",
+      "vocabulary": {
+        "word": "hungry",
+        "translation": "đói, đói bụng",
+        "meaning": "feeling the need or desire to eat food"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: H**\n\n**Lý do:**\n- Từ cần điền: _UNGRY\n- Khi thêm H vào: HUNGRY (đói)\n- Hungry là tính từ mô tả cảm giác\n\n**Dịch nghĩa:** HUNGRY = đói, đói bụng\n\n**Ghi nhớ:** hungry = đói, thirsty = khát"
     },
     {
@@ -1505,6 +1645,11 @@
       "question": "He wants to become a co_ _ in the future.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-dt-63.jpg",
       "correctAnswer": "ok",
+      "vocabulary": {
+        "word": "cook",
+        "translation": "đầu bếp",
+        "meaning": "a person who prepares food for eating"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ok**\n\n**Lý do:**\n- Từ cần điền: co_ _\n- Khi thêm 'ok' vào: cook (đầu bếp)\n- 'become a cook' = trở thành đầu bếp\n\n**Dịch nghĩa:** Anh ấy muốn trở thành đầu bếp trong tương lai.\n\n**Ghi nhớ:** cook = đầu bếp (danh từ) và nấu ăn (động từ)"
     },
     {
@@ -1512,6 +1657,11 @@
       "type": "fill-blank",
       "question": "Mary likes singing, she wants to be a _ _ _ _ _ _ .",
       "correctAnswer": "singer",
+      "vocabulary": {
+        "word": "singer",
+        "translation": "ca sĩ",
+        "meaning": "a person who sings, especially professionally"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: singer**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Mary thích hát (singing)\n- 'singer' = ca sĩ (người hát)\n\n**Dịch nghĩa:** Mary thích hát, cô ấy muốn trở thành ca sĩ.\n\n**Ghi nhớ:** sing = hát, singer = ca sĩ"
     },
     {
@@ -1642,6 +1792,11 @@
       "type": "fill-blank",
       "question": "They are Ja_ _ _ ese.",
       "correctAnswer": "pan",
+      "vocabulary": {
+        "word": "Japanese",
+        "translation": "người Nhật, tiếng Nhật",
+        "meaning": "relating to Japan, its people, or their language"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: pan**\n\n**Lý do:**\n- Từ cần điền: Ja_ _ _ese\n- Khi thêm 'pan' vào: Japanese (người Nhật, tiếng Nhật)\n- 'They are Japanese' = Họ là người Nhật\n\n**Dịch nghĩa:** Họ là người Nhật.\n\n**Ghi nhớ:** Japanese = người Nhật, Japan = nước Nhật"
     },
     {
@@ -1677,6 +1832,11 @@
       "question": "I want to have a _ _ _ _ _ , it can help me with housework.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205432610049119_566X320.jpg",
       "correctAnswer": "robot",
+      "vocabulary": {
+        "word": "robot",
+        "translation": "người máy, rô-bốt",
+        "meaning": "a machine capable of carrying out complex actions automatically"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: robot**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Câu nói về thứ giúp làm việc nhà\n- 'robot' = người máy, rô-bốt (có thể giúp việc nhà)\n\n**Dịch nghĩa:** Tôi muốn có một rô-bốt, nó có thể giúp tôi làm việc nhà.\n\n**Ghi nhớ:** robot = người máy, rô-bốt"
     },
     {
@@ -1721,9 +1881,14 @@
     {
       "id": 187,
       "type": "fill-blank",
-      "question": "Do they do morning exce_ _ _ _ _ everyday?",
+      "question": "Do they do morning exce_ _ _ _ _ every day?",
       "correctAnswer": "rcise",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: rcise**\n\n**Lý do:**\n- Từ cần điền: exce_ _ _ _ _\n- Khi thêm 'rcise' vào: exercise (tập thể dục)\n- 'do morning exercise' = tập thể dục buổi sáng\n\n**Dịch nghĩa:** Họ có tập thể dục buổi sáng mỗi ngày không?\n\n**Ghi nhớ:** do exercise = tập thể dục"
+      "vocabulary": {
+        "word": "exercise",
+        "translation": "tập thể dục, bài tập",
+        "meaning": "physical activity that you do to make your body strong and healthy"
+      },
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: rcise**\n\n**Lý do:**\n- Từ cần điền: exce_ _ _ _ _\n- Khi thêm 'rcise' vào: exercise (tập thể dục)\n- 'do morning exercise' = tập thể dục buổi sáng\n- 'every day' (hai từ) = mỗi ngày\n\n**Dịch nghĩa:** Họ có tập thể dục buổi sáng mỗi ngày không?\n\n**Ghi nhớ:** do exercise = tập thể dục, every day = mỗi ngày"
     },
     {
       "id": 188,
@@ -1786,6 +1951,11 @@
       "type": "fill-blank",
       "question": "What's the _ _ _ _ _ _ _ of Vietnam? - It's Hanoi.",
       "correctAnswer": "capital",
+      "vocabulary": {
+        "word": "capital",
+        "translation": "thủ đô",
+        "meaning": "the most important city of a country, usually where the government is located"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: capital**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Câu trả lời là 'Hanoi' (Hà Nội)\n- 'capital' = thủ đô\n- Hà Nội là thủ đô của Việt Nam\n\n**Dịch nghĩa:** Thủ đô của Việt Nam là gì? - Đó là Hà Nội.\n\n**Ghi nhớ:** capital = thủ đô"
     },
     {
@@ -1800,6 +1970,11 @@
       "type": "fill-blank",
       "question": "What did your little sister do yesterday? - She v_ _ _ _ _ _ the museum.",
       "correctAnswer": "isited",
+      "vocabulary": {
+        "word": "visit",
+        "translation": "thăm, tham quan",
+        "meaning": "to go to see a person or place for a period of time"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: isited**\n\n**Lý do:**\n- Từ cần điền: v_ _ _ _ _ _\n- Khi thêm 'isited' vào: visited (đã thăm)\n- 'yesterday' = hôm qua (thì quá khứ đơn)\n- 'visit the museum' = thăm bảo tàng\n\n**Dịch nghĩa:** Em gái bạn đã làm gì hôm qua? - Em ấy đã thăm bảo tàng.\n\n**Ghi nhớ:** visit = thăm, visited = đã thăm"
     },
     {
@@ -1853,9 +2028,9 @@
     {
       "id": 200,
       "type": "word-arrangement",
-      "question": "writing/ new/ I practice/ everyday./ words/",
-      "correctAnswer": "I practice writing new words everyday.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I practice writing new words everyday.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'I practice' (tôi luyện tập)\n- 'writing' = viết (V-ing sau 'practice')\n- 'new words' = từ mới\n- 'everyday' = mỗi ngày\n\n**Dịch nghĩa:** Tôi luyện viết từ mới mỗi ngày.\n\n**Ghi nhớ:** practice + V-ing = luyện tập làm gì"
+      "question": "writing/ new/ I practice/ every day./ words/",
+      "correctAnswer": "I practice writing new words every day.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I practice writing new words every day.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'I practice' (tôi luyện tập)\n- 'writing' = viết (V-ing sau 'practice')\n- 'new words' = từ mới\n- 'every day' (hai từ) = mỗi ngày\n\n**Dịch nghĩa:** Tôi luyện viết từ mới mỗi ngày.\n\n**Ghi nhớ:** practice + V-ing = luyện tập làm gì, every day = mỗi ngày"
     }
   ]
 }
