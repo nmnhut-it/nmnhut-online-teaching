@@ -66,7 +66,7 @@
     {
       "id": 7,
       "type": "fill-blank",
-      "question": "How _ _ _ _ is this pair of trousers? - It is290.000 dong.",
+      "question": "How _ _ _ _ is this pair of trousers? - It is 290.000 dong.",
       "correctAnswer": "much",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: much**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu hỏi về giá tiền\n- 'How much' = bao nhiêu tiền (dùng hỏi giá)\n- Câu trả lời là số tiền (290.000 đồng)\n\n**Dịch nghĩa:** Chiếc quần này giá bao nhiêu? - 290.000 đồng.\n\n**Ghi nhớ:** How much = hỏi giá tiền hoặc số lượng (không đếm được)"
     },
@@ -88,6 +88,11 @@
         "postman"
       ],
       "correctAnswer": "nurse",
+      "vocabulary": {
+        "word": "nurse",
+        "translation": "y tá",
+        "meaning": "a person trained to care for sick or injured people, especially in a hospital"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: nurse**\n\n**Lý do:**\n- Câu nói về công việc tại bệnh viện Huế\n- 'nurse' = y tá (người làm việc ở bệnh viện)\n- Phù hợp với địa điểm 'hospital'\n\n**Các đáp án khác:**\n- singer: ca sĩ (không làm ở bệnh viện)\n- farmer: nông dân (làm ở nông trại)\n- postman: người đưa thư (làm ở bưu điện)\n\n**Dịch nghĩa:** Mẹ cô ấy làm y tá ở bệnh viện Huế.\n\n**Ghi nhớ:** nurse = y tá, doctor = bác sĩ (đều làm ở bệnh viện)"
     },
     {
@@ -110,6 +115,11 @@
       "question": "The boy reads books about skateboa_ _ s.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/02-dt-61.mp3",
       "correctAnswer": "rd",
+      "vocabulary": {
+        "word": "skateboard",
+        "translation": "ván trượt",
+        "meaning": "a short narrow board with two small wheels at each end, used for riding on"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: rd**\n\n**Lý do:**\n- Từ cần điền: skatboa_ _ s\n- Khi thêm 'rd' vào: skateboards (ván trượt)\n- Câu nói về cậu bé đọc sách về ván trượt\n\n**Dịch nghĩa:** Cậu bé đọc sách về ván trượt.\n\n**Ghi nhớ:** skateboard = ván trượt, skateboards = những ván trượt"
     },
     {
@@ -135,9 +145,14 @@
     {
       "id": 15,
       "type": "fill-blank",
-      "question": "We’ll _ _ _ _ the picnic food.",
+      "question": "We'll _ _ _ _ the picnic food.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205573612768777_Audio.mp3",
       "correctAnswer": "cook",
+      "vocabulary": {
+        "word": "cook",
+        "translation": "nấu ăn",
+        "meaning": "to prepare food by heating it"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cook**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'We'll' = We will (chúng ta sẽ)\n- Câu nói về nấu đồ ăn cho dã ngoại\n- 'cook the picnic food' = nấu đồ ăn dã ngoại\n\n**Dịch nghĩa:** Chúng ta sẽ nấu đồ ăn dã ngoại.\n\n**Ghi nhớ:** cook = nấu ăn (động từ), cook = đầu bếp (danh từ)"
     },
     {
@@ -172,6 +187,11 @@
       "type": "fill-blank",
       "question": "CHI_ KEN",
       "correctAnswer": "C",
+      "vocabulary": {
+        "word": "chicken",
+        "translation": "gà, thịt gà",
+        "meaning": "a bird kept for its eggs and meat; the meat from this bird"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: C**\n\n**Lý do:**\n- Từ cần điền: CHI_ KEN\n- Khi thêm C vào: CHICKEN (gà, thịt gà)\n- Chicken là từ vựng cơ bản về thực phẩm\n\n**Dịch nghĩa:** CHICKEN = gà, thịt gà\n\n**Ghi nhớ:** chicken vừa là con gà vừa là thịt gà"
     },
     {
@@ -246,6 +266,11 @@
       "question": "VIO_ _ _",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/03-dt-31.mp3",
       "correctAnswer": "lin",
+      "vocabulary": {
+        "word": "violin",
+        "translation": "đàn vi-ô-lông",
+        "meaning": "a musical instrument with four strings, played with a bow"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lin**\n\n**Lý do:**\n- Từ cần điền: VIO_ _ _\n- Khi thêm 'lin' vào: VIOLIN (đàn vi-ô-lông)\n- Violin là một loại nhạc cụ\n\n**Dịch nghĩa:** VIOLIN = đàn vi-ô-lông\n\n**Ghi nhớ:** violin = đàn vi-ô-lông, violinist = người chơi đàn vi-ô-lông"
     },
     {
@@ -273,13 +298,23 @@
       "type": "fill-blank",
       "question": "We have to _ _ _ _ _ our teeth before bedtime.",
       "correctAnswer": "brush",
+      "vocabulary": {
+        "word": "brush",
+        "translation": "chải, đánh (răng)",
+        "meaning": "to clean teeth or hair with a brush"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: brush**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'brush teeth' = đánh răng\n- Câu nói về việc phải đánh răng trước khi đi ngủ\n\n**Dịch nghĩa:** Chúng ta phải đánh răng trước khi đi ngủ.\n\n**Ghi nhớ:** brush teeth/hair = đánh răng/chải tóc, have to = phải"
     },
     {
       "id": 30,
       "type": "fill-blank",
-      "question": "_ _ _ _ _ up! We don’t have much time.",
+      "question": "_ _ _ _ _ up! We don't have much time.",
       "correctAnswer": "Hurry",
+      "vocabulary": {
+        "word": "hurry",
+        "translation": "vội vàng, nhanh lên",
+        "meaning": "to move or do something quickly"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Hurry**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'Hurry up' = nhanh lên (câu mệnh lệnh)\n- Câu nói chúng ta không có nhiều thời gian\n\n**Dịch nghĩa:** Nhanh lên! Chúng ta không có nhiều thời gian.\n\n**Ghi nhớ:** Hurry up = nhanh lên, in a hurry = vội vàng"
     },
     {
@@ -362,6 +397,11 @@
         "fan"
       ],
       "correctAnswer": "clock",
+      "vocabulary": {
+        "word": "clock",
+        "translation": "đồng hồ (treo tường, để bàn)",
+        "meaning": "a device that shows what time it is"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: clock**\n\n**Lý do:**\n- Đồng hồ (clock) cho bạn biết giờ\n- Câu nói về vật dụng báo giờ\n\n**Các đáp án khác:**\n- calendar: lịch (cho biết ngày tháng)\n- book: sách (không báo giờ)\n- fan: quạt (không báo giờ)\n\n**Dịch nghĩa:** Đồng hồ cho bạn biết giờ.\n\n**Ghi nhớ:** clock = đồng hồ treo tường/để bàn, watch = đồng hồ đeo tay"
     },
     {
@@ -399,6 +439,11 @@
       "question": "At the camp, the children went _ _ _ _ _ _ and fishing.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205573941617355_Audio.mp3",
       "correctAnswer": "hiking",
+      "vocabulary": {
+        "word": "hiking",
+        "translation": "đi bộ đường dài, leo núi",
+        "meaning": "the activity of going for long walks in the countryside or mountains"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: hiking**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Câu nói về hoạt động ở trại hè\n- 'go hiking' = đi leo núi, đi bộ đường dài\n- Đi cùng với câu cá (fishing)\n\n**Dịch nghĩa:** Ở trại, bọn trẻ đã đi leo núi và câu cá.\n\n**Ghi nhớ:** go hiking = đi leo núi, go fishing = đi câu cá"
     },
     {
@@ -488,6 +533,11 @@
       "question": "You must keep your room _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636507021576187382_Audio.mp3",
       "correctAnswer": "tidy",
+      "vocabulary": {
+        "word": "tidy",
+        "translation": "gọn gàng, ngăn nắp",
+        "meaning": "arranged neatly and in order"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: tidy**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'keep your room tidy' = giữ phòng gọn gàng\n- tidy = gọn gàng, ngăn nắp\n\n**Dịch nghĩa:** Bạn phải giữ phòng của mình gọn gàng.\n\n**Ghi nhớ:** keep + tính từ = giữ... (trạng thái), tidy = gọn gàng"
     },
     {
@@ -578,6 +628,11 @@
         "stomachache"
       ],
       "correctAnswer": "toothache",
+      "vocabulary": {
+        "word": "toothache",
+        "translation": "đau răng",
+        "meaning": "a pain in a tooth or teeth"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: toothache**\n\n**Lý do:**\n- Hình ảnh cho thấy người bị đau răng\n- 'toothache' = đau răng\n- Câu hỏi về vấn đề sức khỏe\n\n**Các đáp án khác:**\n- headache: đau đầu\n- backache: đau lưng\n- stomachache: đau bụng\n\n**Dịch nghĩa:** Bạn bị làm sao vậy? - Tôi bị đau răng.\n\n**Ghi nhớ:** -ache = đau (toothache, headache, stomachache)"
     },
     {
@@ -610,9 +665,14 @@
     {
       "id": 66,
       "type": "fill-blank",
-      "question": "Tracy’s pastimes are collecting _ _ _ _ _ _ and swimming.",
+      "question": "Tracy's pastimes are collecting _ _ _ _ _ _ and swimming.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/30/637106706994261527_566X320.jpg",
       "correctAnswer": "stamps",
+      "vocabulary": {
+        "word": "stamp",
+        "translation": "tem (tem thư)",
+        "meaning": "a small piece of paper that you stick on an envelope before posting it"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: stamps**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Hình ảnh cho thấy tem\n- 'collecting stamps' = sưu tầm tem\n- Đây là một sở thích phổ biến\n\n**Dịch nghĩa:** Sở thích của Tracy là sưu tầm tem và bơi lội.\n\n**Ghi nhớ:** collect stamps = sưu tầm tem, pastime = sở thích"
     },
     {
@@ -621,6 +681,11 @@
       "question": "I saw some mon_ _ _ _ at the zoo. They climbed trees quickly and liked bananas.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/1-dt-36.jpg",
       "correctAnswer": "keys",
+      "vocabulary": {
+        "word": "monkey",
+        "translation": "con khỉ",
+        "meaning": "an animal that lives in hot countries, has a long tail and climbs trees"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: keys**\n\n**Lý do:**\n- Từ cần điền: mon_ _ _ _\n- Khi thêm 'keys' vào: monkeys (những con khỉ)\n- Câu mô tả khỉ leo cây nhanh và thích chuối\n\n**Dịch nghĩa:** Tôi thấy vài con khỉ ở vườn thú. Chúng leo cây nhanh và thích chuối.\n\n**Ghi nhớ:** monkey = con khỉ, monkeys = những con khỉ"
     },
     {
@@ -662,6 +727,11 @@
       "question": "_ nife",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/dientu/dt-34.mp3",
       "correctAnswer": "k",
+      "vocabulary": {
+        "word": "knife",
+        "translation": "con dao",
+        "meaning": "a tool used for cutting, with a sharp blade and a handle"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: k**\n\n**Lý do:**\n- Từ cần điền: _nife\n- Khi thêm 'k' vào: knife (con dao)\n- Knife là từ vựng cơ bản về dụng cụ\n\n**Dịch nghĩa:** KNIFE = con dao\n\n**Ghi nhớ:** knife (số ít) - knives (số nhiều), 'k' không phát âm"
     },
     {
@@ -676,6 +746,11 @@
       "type": "fill-blank",
       "question": "LA_ GE",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "large",
+        "translation": "lớn, rộng",
+        "meaning": "big in size or amount"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: LA_ GE\n- Khi thêm R vào: LARGE (lớn, rộng)\n- Large là tính từ cơ bản\n\n**Dịch nghĩa:** LARGE = lớn, rộng\n\n**Ghi nhớ:** large = lớn, small = nhỏ"
     },
     {
@@ -717,6 +792,11 @@
       "type": "fill-blank",
       "question": "ST_ ONG",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "strong",
+        "translation": "khỏe, mạnh mẽ",
+        "meaning": "having great physical power or force"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: ST_ ONG\n- Khi thêm R vào: STRONG (khỏe, mạnh)\n- Strong là tính từ cơ bản\n\n**Dịch nghĩa:** STRONG = khỏe, mạnh mẽ\n\n**Ghi nhớ:** strong = khỏe mạnh, weak = yếu"
     },
     {
@@ -765,6 +845,11 @@
       "type": "fill-blank",
       "question": "H_ AD",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "head",
+        "translation": "đầu, cái đầu",
+        "meaning": "the top part of the body that contains the brain, eyes, ears, nose and mouth"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: H_ AD\n- Khi thêm E vào: HEAD (đầu)\n- Head là từ vựng cơ bản về bộ phận cơ thể\n\n**Dịch nghĩa:** HEAD = cái đầu\n\n**Ghi nhớ:** head = đầu, headache = đau đầu"
     },
     {
@@ -853,6 +938,11 @@
       "type": "fill-blank",
       "question": "NUM_ ER",
       "correctAnswer": "B",
+      "vocabulary": {
+        "word": "number",
+        "translation": "số, con số",
+        "meaning": "a word or symbol used for counting or calculating"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: B**\n\n**Lý do:**\n- Từ cần điền: NUM_ ER\n- Khi thêm B vào: NUMBER (số)\n- Number là từ vựng cơ bản\n\n**Dịch nghĩa:** NUMBER = số, con số\n\n**Ghi nhớ:** number = số (danh từ), a number of = một số..."
     },
     {
@@ -865,8 +955,8 @@
         "shopkeeper",
         "friend"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (friend)**\n\n**Lý do:**\n- Các từ còn lại là nghề nghiệp (dentist, nurse, shopkeeper)\n- Từ 'friend' là bạn bè (không phải nghề nghiệp)\n\n**Dịch nghĩa:**\n- dentist: nha sĩ\n- nurse: y tá\n- shopkeeper: chủ cửa hàng\n- friend: bạn (khác loại)\n\n**Ghi nhớ:** Dentist, nurse, shopkeeper là nghề nghiệp"
+      "correctAnswer": "friend",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: friend**\n\n**Lý do:**\n- Các từ còn lại là nghề nghiệp (dentist, nurse, shopkeeper)\n- Từ 'friend' là bạn bè (không phải nghề nghiệp)\n\n**Dịch nghĩa:**\n- dentist: nha sĩ\n- nurse: y tá\n- shopkeeper: chủ cửa hàng\n- friend: bạn (khác loại)\n\n**Ghi nhớ:** Dentist, nurse, shopkeeper là nghề nghiệp"
     },
     {
       "id": 95,
@@ -893,6 +983,11 @@
       "type": "fill-blank",
       "question": "CHA_ K",
       "correctAnswer": "L",
+      "vocabulary": {
+        "word": "chalk",
+        "translation": "phấn, phấn viết bảng",
+        "meaning": "a soft white or colored stick used for writing or drawing"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền: CHA_ K\n- Khi thêm L vào: CHALK (phấn)\n- Chalk là vật dụng học tập\n\n**Dịch nghĩa:** CHALK = phấn (viết bảng)\n\n**Ghi nhớ:** chalk = phấn, blackboard = bảng đen"
     },
     {
@@ -912,9 +1007,14 @@
     {
       "id": 100,
       "type": "fill-blank",
-      "question": "What’s your favorite sport? - _ _ _ _ _ _ _ _ _ .",
+      "question": "What's your favorite sport? - _ _ _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506601895640233_566X320.jpg",
       "correctAnswer": "badminton",
+      "vocabulary": {
+        "word": "badminton",
+        "translation": "cầu lông",
+        "meaning": "a game played by two or four people with rackets and a shuttlecock over a net"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: badminton**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái: _ _ _ _ _ _ _ _ _\n- Hình ảnh cho thấy môn cầu lông\n- 'badminton' = cầu lông\n\n**Dịch nghĩa:** Môn thể thao yêu thích của bạn là gì? - Cầu lông.\n\n**Ghi nhớ:** badminton = cầu lông, play badminton = chơi cầu lông"
     },
     {
@@ -922,6 +1022,11 @@
       "type": "fill-blank",
       "question": "AC_ OSS",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "across",
+        "translation": "qua, băng qua",
+        "meaning": "from one side to the other side of something"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: AC_ OSS\n- Khi thêm R vào: ACROSS (qua, băng qua)\n- Across là giới từ chỉ hướng\n\n**Dịch nghĩa:** ACROSS = qua, băng qua\n\n**Ghi nhớ:** across = băng qua, cross = động từ băng qua"
     },
     {
@@ -964,6 +1069,11 @@
       "type": "fill-blank",
       "question": "He teaches Mathematics, he is a _ _ _ _ _ _ _ .",
       "correctAnswer": "teacher",
+      "vocabulary": {
+        "word": "teacher",
+        "translation": "giáo viên",
+        "meaning": "a person whose job is to teach, especially in a school"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: teacher**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Người dạy Toán (Mathematics) là giáo viên\n- 'teacher' = giáo viên\n\n**Dịch nghĩa:** Anh ấy dạy Toán, anh ấy là một giáo viên.\n\n**Ghi nhớ:** teach = dạy, teacher = giáo viên"
     },
     {
@@ -1005,6 +1115,11 @@
       "type": "fill-blank",
       "question": "MOV_ E",
       "correctAnswer": "I",
+      "vocabulary": {
+        "word": "movie",
+        "translation": "phim, phim ảnh",
+        "meaning": "a film shown in a cinema or on television"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I**\n\n**Lý do:**\n- Từ cần điền: MOV_ E\n- Khi thêm I vào: MOVIE (phim)\n- Movie là từ vựng về giải trí\n\n**Dịch nghĩa:** MOVIE = phim (ở Mỹ), film = phim (ở Anh)\n\n**Ghi nhớ:** movie = phim, go to the movies = đi xem phim"
     },
     {
@@ -1073,8 +1188,8 @@
         "lorry",
         "train"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (train)**\n\n**Lý do:**\n- Các từ còn lại là xe chạy trên đường (truck, bus, lorry)\n- Từ 'train' là tàu hỏa (chạy trên đường ray)\n\n**Dịch nghĩa:**\n- truck: xe tải\n- bus: xe buýt\n- lorry: xe tải (Anh)\n- train: tàu hỏa (khác loại)\n\n**Ghi nhớ:** Train chạy trên đường ray, các xe khác chạy trên đường"
+      "correctAnswer": "train",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: train**\n\n**Lý do:**\n- Các từ còn lại là xe chạy trên đường (truck, bus, lorry)\n- Từ 'train' là tàu hỏa (chạy trên đường ray)\n\n**Dịch nghĩa:**\n- truck: xe tải\n- bus: xe buýt\n- lorry: xe tải (Anh)\n- train: tàu hỏa (khác loại)\n\n**Ghi nhớ:** Train chạy trên đường ray, các xe khác chạy trên đường"
     },
     {
       "id": 119,
@@ -1167,6 +1282,11 @@
       "type": "fill-blank",
       "question": "The children are building a sa_ _ castle.",
       "correctAnswer": "nd",
+      "vocabulary": {
+        "word": "sand",
+        "translation": "cát",
+        "meaning": "a substance consisting of very small grains of rock, found on beaches and in deserts"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: nd**\n\n**Lý do:**\n- Từ cần điền: sa_ _ castle\n- Khi thêm 'nd' vào: sand castle (lâu đài cát)\n- 'sand castle' = lâu đài cát (xây ở bãi biển)\n\n**Dịch nghĩa:** Bọn trẻ đang xây lâu đài cát.\n\n**Ghi nhớ:** sand = cát, sand castle = lâu đài cát"
     },
     {
@@ -1235,8 +1355,8 @@
         "Sunday",
         "August"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (August)**\n\n**Lý do:**\n- Các từ còn lại là các thứ trong tuần (Monday, Friday, Sunday)\n- Từ 'August' là tháng\n\n**Dịch nghĩa:**\n- Monday: Thứ Hai\n- Friday: Thứ Sáu\n- Sunday: Chủ Nhật\n- August: tháng Tám (khác loại)\n\n**Ghi nhớ:** Days of the week = các thứ, months = các tháng"
+      "correctAnswer": "August",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: August**\n\n**Lý do:**\n- Các từ còn lại là các thứ trong tuần (Monday, Friday, Sunday)\n- Từ 'August' là tháng\n\n**Dịch nghĩa:**\n- Monday: Thứ Hai\n- Friday: Thứ Sáu\n- Sunday: Chủ Nhật\n- August: tháng Tám (khác loại)\n\n**Ghi nhớ:** Days of the week = các thứ, months = các tháng"
     },
     {
       "id": 135,
@@ -1251,6 +1371,11 @@
       "question": "I dream of becoming a _ _ _ _ _ one day.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206249171019332_566X320.jpg",
       "correctAnswer": "pilot",
+      "vocabulary": {
+        "word": "pilot",
+        "translation": "phi công",
+        "meaning": "a person who flies an aircraft"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: pilot**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Hình ảnh cho thấy phi công\n- 'pilot' = phi công (lái máy bay)\n\n**Dịch nghĩa:** Tôi ước mơ trở thành phi công một ngày nào đó.\n\n**Ghi nhớ:** pilot = phi công, dream of becoming = ước mơ trở thành"
     },
     {
@@ -1311,9 +1436,14 @@
     {
       "id": 143,
       "type": "fill-blank",
-      "question": "What is his son’s _ _ _ _ ? – John.",
+      "question": "What is his son's _ _ _ _ ? – John.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/5/636507089904720107_Audio.mp3",
       "correctAnswer": "name",
+      "vocabulary": {
+        "word": "name",
+        "translation": "tên",
+        "meaning": "a word or words that a person, place, or thing is known by"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: name**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- Câu hỏi về tên của con trai\n- Câu trả lời là John (một cái tên)\n\n**Dịch nghĩa:** Tên con trai anh ấy là gì? - John.\n\n**Ghi nhớ:** What is someone's name? = Tên của ai là gì?"
     },
     {
@@ -1336,6 +1466,11 @@
       "question": "I put cream in my _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636507019812121519_Audio.mp3",
       "correctAnswer": "coffee",
+      "vocabulary": {
+        "word": "coffee",
+        "translation": "cà phê",
+        "meaning": "a hot drink made from roasted coffee beans"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: coffee**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái: _ _ _ _ _ _\n- Thường cho kem (cream) vào cà phê\n- 'coffee' = cà phê\n\n**Dịch nghĩa:** Tôi cho kem vào cà phê của mình.\n\n**Ghi nhớ:** coffee = cà phê, put cream in coffee = cho kem vào cà phê"
     },
     {
@@ -1468,6 +1603,11 @@
       "type": "fill-blank",
       "question": "E_ AM",
       "correctAnswer": "X",
+      "vocabulary": {
+        "word": "exam",
+        "translation": "bài kiểm tra, kỳ thi",
+        "meaning": "a formal test of someone's knowledge or ability in a subject"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: X**\n\n**Lý do:**\n- Từ cần điền: E_ AM\n- Khi thêm X vào: EXAM (bài kiểm tra)\n- Exam là từ vựng về học tập\n\n**Dịch nghĩa:** EXAM = bài kiểm tra, kỳ thi\n\n**Ghi nhớ:** exam = examination = bài kiểm tra, kỳ thi"
     },
     {
@@ -1559,6 +1699,11 @@
       "question": "My brother often plays _ _ _ _ _ in his free time.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205560352589487_566X320.jpg",
       "correctAnswer": "games",
+      "vocabulary": {
+        "word": "game",
+        "translation": "trò chơi, game",
+        "meaning": "an activity that you do for fun, often with rules"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: games**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Hình ảnh cho thấy trò chơi\n- 'play games' = chơi game, chơi trò chơi\n\n**Dịch nghĩa:** Anh trai tôi thường chơi game trong thời gian rảnh.\n\n**Ghi nhớ:** play games = chơi trò chơi/game, free time = thời gian rảnh"
     },
     {
@@ -1679,6 +1824,11 @@
       "type": "fill-blank",
       "question": "GUE_ S",
       "correctAnswer": "S",
+      "vocabulary": {
+        "word": "guess",
+        "translation": "đoán",
+        "meaning": "to give an answer or opinion about something without knowing all the facts"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: S**\n\n**Lý do:**\n- Từ cần điền: GUE_ S\n- Khi thêm S vào: GUESS (đoán)\n- Guess là động từ phổ biến\n\n**Dịch nghĩa:** GUESS = đoán\n\n**Ghi nhớ:** guess = đoán, take a guess = thử đoán"
     },
     {
@@ -1808,6 +1958,11 @@
       "type": "fill-blank",
       "question": "MAT_ H",
       "correctAnswer": "C",
+      "vocabulary": {
+        "word": "match",
+        "translation": "trận đấu, que diêm",
+        "meaning": "a sports competition; a small stick used for making fire"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: C**\n\n**Lý do:**\n- Từ cần điền: MAT_ H\n- Khi thêm C vào: MATCH (trận đấu, diêm)\n- Match là từ vựng phổ biến\n\n**Dịch nghĩa:** MATCH = trận đấu, que diêm\n\n**Ghi nhớ:** match = trận đấu, football match = trận đấu bóng đá"
     },
     {
