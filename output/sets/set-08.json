@@ -6,9 +6,14 @@
     {
       "id": 1,
       "type": "fill-blank",
-      "question": "Did you go to Mai’s _ _ _ _ _ _ _ _ party?",
+      "question": "Did you go to Mai's _ _ _ _ _ _ _ _ party?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205608047801259_Audio.mp3",
       "correctAnswer": "birthday",
+      "vocabulary": {
+        "word": "birthday",
+        "translation": "sinh nhật",
+        "meaning": "the anniversary of the day on which a person was born"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: birthday**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái: _ _ _ _ _ _ _ _\n- Câu hỏi về việc đi tham dự tiệc của Mai\n- 'birthday party' = tiệc sinh nhật (cụm từ phổ biến)\n- Nghe file audio để biết từ cần điền\n\n**Dịch nghĩa:** Bạn có đi dự tiệc sinh nhật của Mai không?\n\n**Ghi nhớ:** birthday = ngày sinh nhật, birthday party = tiệc sinh nhật"
     },
     {
@@ -23,6 +28,11 @@
       "type": "fill-blank",
       "question": "H_ SPITAL",
       "correctAnswer": "O",
+      "vocabulary": {
+        "word": "hospital",
+        "translation": "bệnh viện",
+        "meaning": "a place where sick or injured people are treated"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền: H_SPITAL\n- Khi thêm O vào: HOSPITAL (bệnh viện)\n- Hospital là từ vựng quan trọng về địa điểm công cộng\n\n**Dịch nghĩa:** HOSPITAL = bệnh viện\n\n**Ghi nhớ:** hospital = bệnh viện, clinic = phòng khám"
     },
     {
@@ -78,6 +88,11 @@
       "type": "fill-blank",
       "question": "PE_ CH",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "peach",
+        "translation": "quả đào",
+        "meaning": "a soft, round fruit with sweet yellow or red flesh and fuzzy skin"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: PE_CH\n- Khi thêm A vào: PEACH (quả đào)\n- Peach là từ vựng về trái cây\n\n**Dịch nghĩa:** PEACH = quả đào\n\n**Ghi nhớ:** peach = quả đào, apple = táo, pear = lê"
     },
     {
@@ -105,6 +120,11 @@
       "type": "fill-blank",
       "question": "G_ ME",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "game",
+        "translation": "trò chơi",
+        "meaning": "an activity that people do for fun or competition"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: G_ME\n- Khi thêm A vào: GAME (trò chơi)\n- Game là từ vựng cơ bản về hoạt động giải trí\n\n**Dịch nghĩa:** GAME = trò chơi, trận đấu\n\n**Ghi nhớ:** play games = chơi trò chơi, video game = trò chơi điện tử"
     },
     {
@@ -112,6 +132,11 @@
       "type": "fill-blank",
       "question": "WH_ TE",
       "correctAnswer": "I",
+      "vocabulary": {
+        "word": "white",
+        "translation": "màu trắng",
+        "meaning": "the color of milk or fresh snow"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I**\n\n**Lý do:**\n- Từ cần điền: WH_TE\n- Khi thêm I vào: WHITE (màu trắng)\n- White là từ vựng về màu sắc\n\n**Dịch nghĩa:** WHITE = màu trắng\n\n**Ghi nhớ:** white = trắng, black = đen, red = đỏ"
     },
     {
@@ -319,6 +344,11 @@
       "type": "fill-blank",
       "question": "BE_ OW",
       "correctAnswer": "L",
+      "vocabulary": {
+        "word": "below",
+        "translation": "bên dưới",
+        "meaning": "at a lower level or position"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền: BE_OW\n- Khi thêm L vào: BELOW (bên dưới)\n- Below là giới từ chỉ vị trí\n\n**Dịch nghĩa:** BELOW = ở dưới, bên dưới\n\n**Ghi nhớ:** below = dưới, above = trên, under = dưới (sát)"
     },
     {
@@ -376,6 +406,11 @@
       "type": "fill-blank",
       "question": "FIN_ SH",
       "correctAnswer": "I",
+      "vocabulary": {
+        "word": "finish",
+        "translation": "hoàn thành",
+        "meaning": "to complete something or bring it to an end"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I**\n\n**Lý do:**\n- Từ cần điền: FIN_SH\n- Khi thêm I vào: FINISH (hoàn thành)\n- Finish là động từ quan trọng\n\n**Dịch nghĩa:** FINISH = hoàn thành, kết thúc\n\n**Ghi nhớ:** finish + V-ing = hoàn thành việc làm gì"
     },
     {
@@ -501,6 +536,11 @@
       "type": "fill-blank",
       "question": "_ TORE",
       "correctAnswer": "S",
+      "vocabulary": {
+        "word": "store",
+        "translation": "cửa hàng",
+        "meaning": "a shop where things are sold"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: S**\n\n**Lý do:**\n- Từ cần điền: _TORE\n- Khi thêm S vào: STORE (cửa hàng)\n- Store là từ vựng về địa điểm mua sắm\n\n**Dịch nghĩa:** STORE = cửa hàng\n\n**Ghi nhớ:** store = cửa hàng, shop = cửa hiệu"
     },
     {
@@ -634,7 +674,7 @@
     {
       "id": 69,
       "type": "fill-blank",
-      "question": "The birthday party was at7 o’clock _ _ _ _ _ _ _ _ _ .",
+      "question": "The birthday party was at 7 o'clock _ _ _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205609188475263_Audio.mp3",
       "correctAnswer": "yesterday",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: yesterday**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái: _ _ _ _ _ _ _ _ _\n- Nghe file audio để biết thời gian\n- 'at 7 o'clock yesterday' = lúc 7 giờ hôm qua\n\n**Dịch nghĩa:** Bữa tiệc sinh nhật diễn ra lúc 7 giờ hôm qua.\n\n**Ghi nhớ:** yesterday = hôm qua, today = hôm nay, tomorrow = ngày mai"
@@ -707,7 +747,7 @@
     {
       "id": 77,
       "type": "fill-blank",
-      "question": "Mary likes reading. On his bookshelf, _ _ _ _ _ are a lot of books.",
+      "question": "Mary likes reading. On her bookshelf, _ _ _ _ _ are a lot of books.",
       "correctAnswer": "there",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: there**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _ are\n- Cấu trúc 'There are' = Có (nhiều thứ)\n- 'there are a lot of books' = có nhiều sách\n\n**Dịch nghĩa:** Mary thích đọc sách. Trên kệ sách của cô ấy có rất nhiều sách.\n\n**Ghi nhớ:** There are + danh từ số nhiều = Có nhiều..."
     },
@@ -789,7 +829,7 @@
         "studying",
         "morning"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "morning",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: morning**\n\n**Lý do:**\n- Các từ còn lại là động từ dạng V-ing: teaching, learning, studying\n- Morning = buổi sáng (danh từ, không phải động từ)\n\n**Phân loại:**\n- Động từ V-ing: teaching (dạy), learning (học), studying (học)\n- Danh từ: morning (buổi sáng)\n\n**Ghi nhớ:** Tìm từ khác loại (động từ hay danh từ)"
     },
     {
@@ -1013,6 +1053,11 @@
       "type": "fill-blank",
       "question": "NO_ DLE",
       "correctAnswer": "O",
+      "vocabulary": {
+        "word": "noodle",
+        "translation": "mì",
+        "meaning": "a long, thin strip of pasta or similar food"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền: NO_DLE\n- Khi thêm O vào: NOODLE (mì)\n- Noodle là từ vựng về đồ ăn\n\n**Dịch nghĩa:** NOODLE = mì, sợi mì\n\n**Ghi nhớ:** noodle = mì, noodles = món mì (số nhiều)"
     },
     {
@@ -1067,6 +1112,11 @@
       "type": "fill-blank",
       "question": "CH_ LK",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "chalk",
+        "translation": "phấn",
+        "meaning": "a soft white substance used for writing on blackboards"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: CH_LK\n- Khi thêm A vào: CHALK (phấn)\n- Chalk là vật dụng học tập\n\n**Dịch nghĩa:** CHALK = phấn (viết bảng)\n\n**Ghi nhớ:** chalk = phấn, board = bảng"
     },
     {
@@ -1236,6 +1286,11 @@
       "type": "fill-blank",
       "question": "E_ AMPLE",
       "correctAnswer": "X",
+      "vocabulary": {
+        "word": "example",
+        "translation": "ví dụ",
+        "meaning": "something that is typical of or represents a particular group or set"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: X**\n\n**Lý do:**\n- Từ cần điền: E_AMPLE\n- Khi thêm X vào: EXAMPLE (ví dụ)\n- Example là từ vựng quan trọng\n\n**Dịch nghĩa:** EXAMPLE = ví dụ\n\n**Ghi nhớ:** for example = ví dụ như"
     },
     {
@@ -1250,6 +1305,11 @@
       "type": "fill-blank",
       "question": "BUIL_ ING",
       "correctAnswer": "D",
+      "vocabulary": {
+        "word": "building",
+        "translation": "tòa nhà",
+        "meaning": "a structure with walls and a roof, such as a house or school"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: D**\n\n**Lý do:**\n- Từ cần điền: BUIL_ING\n- Khi thêm D vào: BUILDING (tòa nhà)\n- Building là từ vựng về công trình kiến trúc\n\n**Dịch nghĩa:** BUILDING = tòa nhà, công trình\n\n**Ghi nhớ:** building = tòa nhà, build = xây dựng"
     },
     {
@@ -1357,7 +1417,7 @@
     {
       "id": 146,
       "type": "word-arrangement",
-      "question": "My mother/ at6 o’clock/ in the morning./ often/ gets up/",
+      "question": "My mother/ at 6 o'clock/ in the morning./ often/ gets up/",
       "correctAnswer": "My mother often gets up at 6 o’clock in the morning.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: My mother often gets up at 6 o'clock in the morning.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'My mother' (Mẹ tôi)\n- 'often gets up' = thường dậy (trạng từ tần suất đứng trước động từ)\n- 'at 6 o'clock' = lúc 6 giờ\n- 'in the morning' = vào buổi sáng\n\n**Dịch nghĩa:** Mẹ tôi thường dậy lúc 6 giờ sáng.\n\n**Ghi nhớ:** often + V = thường làm gì, at + giờ, in the morning"
     },
@@ -1429,6 +1489,11 @@
       "type": "fill-blank",
       "question": "T_ INK",
       "correctAnswer": "H",
+      "vocabulary": {
+        "word": "think",
+        "translation": "nghĩ",
+        "meaning": "to have a particular opinion or idea"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: H**\n\n**Lý do:**\n- Từ cần điền: T_INK\n- Khi thêm H vào: THINK (nghĩ)\n- Think là động từ quan trọng\n\n**Dịch nghĩa:** THINK = nghĩ, suy nghĩ\n\n**Ghi nhớ:** think - thought - thought = nghĩ"
     },
     {
@@ -1472,6 +1537,11 @@
       "type": "fill-blank",
       "question": "LA_ GE",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "large",
+        "translation": "lớn",
+        "meaning": "big in size or amount"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: LA_GE\n- Khi thêm R vào: LARGE (to, lớn)\n- Large là tính từ chỉ kích thước\n\n**Dịch nghĩa:** LARGE = to, lớn\n\n**Ghi nhớ:** large = lớn, big = to, small = nhỏ"
     },
     {
@@ -1615,6 +1685,11 @@
       "type": "fill-blank",
       "question": "LE_ ON",
       "correctAnswer": "M",
+      "vocabulary": {
+        "word": "lemon",
+        "translation": "chanh",
+        "meaning": "a yellow citrus fruit with sour juice"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền: LE_ON\n- Khi thêm M vào: LEMON (chanh)\n- Lemon là từ vựng về trái cây\n\n**Dịch nghĩa:** LEMON = chanh\n\n**Ghi nhớ:** lemon = chanh (vàng), lime = chanh (xanh)"
     },
     {
@@ -1656,6 +1731,11 @@
       "type": "fill-blank",
       "question": "FA_ MER",
       "correctAnswer": "R",
+      "vocabulary": {
+        "word": "farmer",
+        "translation": "nông dân",
+        "meaning": "a person who owns or works on a farm"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền: FA_MER\n- Khi thêm R vào: FARMER (nông dân)\n- Farmer là từ vựng về nghề nghiệp\n\n**Dịch nghĩa:** FARMER = nông dân\n\n**Ghi nhớ:** farmer = nông dân, farm = trang trại"
     },
     {
