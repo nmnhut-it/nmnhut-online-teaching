@@ -15,6 +15,11 @@
       "type": "fill-blank",
       "question": "TEN_ IS",
       "correctAnswer": "N",
+      "vocabulary": {
+        "word": "tennis",
+        "translation": "quần vợt",
+        "meaning": "a sport played with rackets and a ball"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền: TEN_IS\n- Khi thêm N: TENNIS (môn quần vợt)\n- Tennis là môn thể thao phổ biến\n\n**Dịch nghĩa:** TENNIS = môn quần vợt\n\n**Ghi nhớ:** play tennis = chơi quần vợt"
     },
     {
@@ -241,6 +246,11 @@
       "question": "VIO_ _ _",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Audio/03-dt-31.mp3",
       "correctAnswer": "lin",
+      "vocabulary": {
+        "word": "violin",
+        "translation": "đàn vi-ô-lông",
+        "meaning": "a stringed musical instrument"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lin**\n\n**Lý do:**\n- Từ cần điền: VIO_ _ _\n- Khi thêm 'lin': VIOLIN (đàn vi-ô-lông)\n- Violin là loại nhạc cụ dây\n\n**Dịch nghĩa:** VIOLIN = đàn vi-ô-lông\n\n**Ghi nhớ:** play the violin = chơi đàn vi-ô-lông"
     },
     {
@@ -256,6 +266,11 @@
       "question": "This is a magic l_ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160269536273060_566X320.jpg",
       "correctAnswer": "amp",
+      "vocabulary": {
+        "word": "lamp",
+        "translation": "cái đèn",
+        "meaning": "a device that produces light"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: amp**\n\n**Lý do:**\n- Từ cần điền: l_ _ _\n- Khi thêm 'amp': lamp (cái đèn)\n- 'magic lamp' = cái đèn thần\n\n**Dịch nghĩa:** Đây là một cái đèn thần.\n\n**Ghi nhớ:** lamp = cái đèn, magic lamp = đèn thần (trong truyện Aladdin)"
     },
     {
@@ -306,6 +321,11 @@
       "type": "fill-blank",
       "question": "cotta_ _",
       "correctAnswer": "ge",
+      "vocabulary": {
+        "word": "cottage",
+        "translation": "ngôi nhà nhỏ, nhà tranh",
+        "meaning": "a small house, usually in the countryside"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ge**\n\n**Lý do:**\n- Từ cần điền: cotta_ _\n- Khi thêm 'ge': cottage (ngôi nhà nhỏ)\n- Cottage là ngôi nhà nhỏ ở nông thôn\n\n**Dịch nghĩa:** cottage = ngôi nhà nhỏ ở nông thôn\n\n**Ghi nhớ:** cottage = nhà tranh, nhà nhỏ ở nông thôn"
     },
     {
@@ -381,6 +401,11 @@
       "question": "I learn English to sing English s_ _ _ s.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/2-dt-21.jpg",
       "correctAnswer": "ong",
+      "vocabulary": {
+        "word": "songs",
+        "translation": "bài hát",
+        "meaning": "pieces of music with words"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ong**\n\n**Lý do:**\n- Từ cần điền: s_ _ _s\n- Khi thêm 'ong': songs (những bài hát)\n- 'English songs' = những bài hát tiếng Anh\n\n**Dịch nghĩa:** Tôi học tiếng Anh để hát những bài hát tiếng Anh.\n\n**Ghi nhớ:** song = bài hát, sing songs = hát bài hát"
     },
     {
@@ -395,6 +420,11 @@
       "type": "fill-blank",
       "question": "I ch_ _ with my foreign friends every day to practise English.",
       "correctAnswer": "at",
+      "vocabulary": {
+        "word": "chat",
+        "translation": "trò chuyện",
+        "meaning": "to talk in a friendly and informal way"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: at**\n\n**Lý do:**\n- Từ cần điền: ch_ _\n- Khi thêm 'at': chat (trò chuyện)\n- 'chat with friends' = trò chuyện với bạn\n\n**Dịch nghĩa:** Tôi trò chuyện với bạn bè nước ngoài mỗi ngày để luyện tiếng Anh.\n\n**Ghi nhớ:** chat = trò chuyện (qua mạng), talk = nói chuyện"
     },
     {
@@ -442,6 +472,11 @@
       "type": "fill-blank",
       "question": "This homework is very diffi_ _ _ _ for Anna.",
       "correctAnswer": "cult",
+      "vocabulary": {
+        "word": "difficult",
+        "translation": "khó",
+        "meaning": "hard to do or understand"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cult**\n\n**Lý do:**\n- Từ cần điền: diffi_ _ _ _\n- Khi thêm 'cult': difficult (khó)\n- 'difficult' = khó khăn\n\n**Dịch nghĩa:** Bài tập này rất khó đối với Anna.\n\n**Ghi nhớ:** difficult = khó, easy = dễ"
     },
     {
@@ -454,8 +489,13 @@
     {
       "id": 50,
       "type": "fill-blank",
-      "question": "Dad gave Mom a bun_ _ of flowers on Women’s Day.",
+      "question": "Dad gave Mom a bun_ _ of flowers on Women's Day.",
       "correctAnswer": "ch",
+      "vocabulary": {
+        "word": "bunch",
+        "translation": "bó, chùm",
+        "meaning": "a number of things of the same type fastened or grouped together"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ch**\n\n**Lý do:**\n- Từ cần điền: bun_ _\n- Khi thêm 'ch': bunch (bó, chùm)\n- 'a bunch of flowers' = một bó hoa\n\n**Dịch nghĩa:** Bố đã tặng mẹ một bó hoa vào ngày Phụ nữ.\n\n**Ghi nhớ:** a bunch of flowers = một bó hoa"
     },
     {
@@ -524,6 +564,11 @@
       "type": "fill-blank",
       "question": "Sometimes they go swimming in the swimming _ _ _ _ _ .",
       "correctAnswer": "pools",
+      "vocabulary": {
+        "word": "pool",
+        "translation": "hồ bơi",
+        "meaning": "a structure filled with water for swimming"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: pools**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'swimming pools' = hồ bơi (số nhiều)\n- Đi bơi ở hồ bơi\n\n**Dịch nghĩa:** Thỉnh thoảng họ đi bơi ở hồ bơi.\n\n**Ghi nhớ:** swimming pool = hồ bơi"
     },
     {
@@ -553,6 +598,11 @@
       "question": "Could you call again _ _ _ _ _ please?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636507022265563835_Audio.mp3",
       "correctAnswer": "later",
+      "vocabulary": {
+        "word": "later",
+        "translation": "sau này, lát nữa",
+        "meaning": "at a time in the future, after the present time"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: later**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'call again later' = gọi lại sau\n- 'later' = sau này, lát nữa\n\n**Dịch nghĩa:** Bạn có thể gọi lại sau được không?\n\n**Ghi nhớ:** later = sau này, call back = gọi lại"
     },
     {
@@ -581,6 +631,11 @@
         "hide-and-seek"
       ],
       "correctAnswer": "hide-and-seek",
+      "vocabulary": {
+        "word": "hide-and-seek",
+        "translation": "trò chơi trốn tìm",
+        "meaning": "a children's game where one player hides and others try to find them"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: hide-and-seek (Chọn ý: D)**\n\n**Lý do:**\n- 'hide-and-seek' = trò chơi trốn tìm\n- Trò chơi phổ biến của trẻ em\n- 'play hide-and-seek' = chơi trốn tìm\n\n**Các đáp án khác:**\n- find-and-seek: không đúng\n- find-and-sick: sai chính tả\n- hide-and-pick: không đúng\n\n**Dịch nghĩa:** Chúng tôi đã chơi trốn tìm.\n\n**Ghi nhớ:** hide = trốn, seek = tìm"
     },
     {
@@ -662,6 +717,11 @@
       "type": "fill-blank",
       "question": "BE_ IN",
       "correctAnswer": "G",
+      "vocabulary": {
+        "word": "begin",
+        "translation": "bắt đầu",
+        "meaning": "to start or commence"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: G**\n\n**Lý do:**\n- Từ cần điền: BE_IN\n- Khi thêm G: BEGIN (bắt đầu)\n- Begin là động từ phổ biến\n\n**Dịch nghĩa:** BEGIN = bắt đầu\n\n**Ghi nhớ:** begin - began - begun"
     },
     {
@@ -697,6 +757,11 @@
       "type": "fill-blank",
       "question": "_ OODLES",
       "correctAnswer": "N",
+      "vocabulary": {
+        "word": "noodles",
+        "translation": "mì, bún",
+        "meaning": "long thin strips of pasta or rice paste"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền: _OODLES\n- Khi thêm N: NOODLES (mì, bún)\n- Noodles là món ăn phổ biến\n\n**Dịch nghĩa:** NOODLES = mì, bún\n\n**Ghi nhớ:** noodles = mì (luôn ở số nhiều)"
     },
     {
@@ -712,6 +777,11 @@
       "question": "I want to have a _ _ _ _ _ , it can help me with housework.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205432610049119_566X320.jpg",
       "correctAnswer": "robot",
+      "vocabulary": {
+        "word": "robot",
+        "translation": "người máy, rô-bốt",
+        "meaning": "a machine that can do tasks automatically"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: robot**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'robot' = người máy\n- Người máy có thể giúp việc nhà\n\n**Dịch nghĩa:** Tôi muốn có một người máy, nó có thể giúp tôi làm việc nhà.\n\n**Ghi nhớ:** robot = người máy, rô-bốt"
     },
     {
@@ -731,7 +801,7 @@
     {
       "id": 82,
       "type": "fill-blank",
-      "question": "_ _ _ was you absent yesterday? - Because I was sick.",
+      "question": "_ _ _ were you absent yesterday? - Because I was sick.",
       "correctAnswer": "why",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: why**\n\n**Lý do:**\n- Câu trả lời: 'Because I was sick' = Vì tôi bị ốm\n- Câu hỏi phải dùng 'Why' = Tại sao\n\n**Dịch nghĩa:** Tại sao bạn vắng mặt hôm qua? - Vì tôi bị ốm.\n\n**Ghi nhớ:** Why...? - Because... = Tại sao? - Vì..."
     },
@@ -753,6 +823,11 @@
         "poisonous"
       ],
       "correctAnswer": "poisonous",
+      "vocabulary": {
+        "word": "poisonous",
+        "translation": "có độc",
+        "meaning": "containing poison; toxic"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: poisonous (Chọn ý: D)**\n\n**Lý do:**\n- Nhiều người sợ rắn vì chúng có độc\n- 'poisonous' = có độc, độc hại\n\n**Các đáp án khác:**\n- kind: tử tế\n- funny: buồn cười\n- beautiful: đẹp\n\n**Dịch nghĩa:** Nhiều người sợ rắn vì chúng có độc.\n\n**Ghi nhớ:** poisonous = có độc, poison = chất độc"
     },
     {
@@ -780,6 +855,11 @@
       "type": "fill-blank",
       "question": "How many _ _ _ dows are there? – There are two.",
       "correctAnswer": "win",
+      "vocabulary": {
+        "word": "window",
+        "translation": "cửa sổ",
+        "meaning": "an opening in a wall with glass to let in light and air"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: win**\n\n**Lý do:**\n- Từ cần điền: _ _ _dows\n- Khi thêm 'win': windows (cửa sổ - số nhiều)\n- Câu hỏi có 'two' nên dùng số nhiều\n\n**Dịch nghĩa:** Có bao nhiêu cửa sổ? - Có hai cái.\n\n**Ghi nhớ:** window = cửa sổ"
     },
     {
@@ -787,6 +867,11 @@
       "type": "fill-blank",
       "question": "P_ RTY",
       "correctAnswer": "A",
+      "vocabulary": {
+        "word": "party",
+        "translation": "bữa tiệc",
+        "meaning": "a social gathering for celebration or entertainment"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: A**\n\n**Lý do:**\n- Từ cần điền: P_RTY\n- Khi thêm A: PARTY (bữa tiệc)\n- Party là từ phổ biến\n\n**Dịch nghĩa:** PARTY = bữa tiệc\n\n**Ghi nhớ:** birthday party = tiệc sinh nhật"
     },
     {
@@ -821,6 +906,11 @@
       "question": "I have breakfast with bre_ _ and jam.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-dt-13.jpg",
       "correctAnswer": "ad",
+      "vocabulary": {
+        "word": "bread",
+        "translation": "bánh mì",
+        "meaning": "a food made from flour, water and yeast"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ad**\n\n**Lý do:**\n- Từ cần điền: bre_ _\n- Khi thêm 'ad': bread (bánh mì)\n- 'bread and jam' = bánh mì và mứt\n\n**Dịch nghĩa:** Tôi ăn sáng với bánh mì và mứt.\n\n**Ghi nhớ:** bread = bánh mì (không đếm được)"
     },
     {
@@ -1003,6 +1093,11 @@
       "question": "The chickens produce a lot of _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506647353035145_566X320.jpg",
       "correctAnswer": "eggs",
+      "vocabulary": {
+        "word": "egg",
+        "translation": "trứng",
+        "meaning": "an oval object laid by birds, especially chickens"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: eggs**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'The chickens produce eggs' = Gà đẻ trứng\n- 'eggs' = trứng (số nhiều)\n\n**Dịch nghĩa:** Những con gà đẻ rất nhiều trứng.\n\n**Ghi nhớ:** egg = trứng, chicken = gà"
     },
     {
@@ -1082,9 +1177,9 @@
     {
       "id": 117,
       "type": "fill-blank",
-      "question": "I am making some cakes when the electricity _ _ _ _ out yesterday.",
+      "question": "I was making some cakes when the electricity _ _ _ _ out yesterday.",
       "correctAnswer": "went",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: went**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'went out' = mất điện (quá khứ)\n- 'yesterday' = hôm qua (thì quá khứ)\n\n**Dịch nghĩa:** Tôi đang làm bánh thì mất điện hôm qua.\n\n**Ghi nhớ:** go out = mất (điện), went = quá khứ của go"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: went**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái: _ _ _ _\n- 'went out' = mất điện (quá khứ)\n- 'yesterday' = hôm qua (thì quá khứ)\n- Câu dùng thì quá khứ tiếp diễn 'was making' kết hợp quá khứ đơn 'went'\n\n**Dịch nghĩa:** Tôi đang làm bánh thì mất điện hôm qua.\n\n**Ghi nhớ:** go out = mất (điện), went = quá khứ của go"
     },
     {
       "id": 118,
@@ -1105,6 +1200,11 @@
       "type": "fill-blank",
       "question": "BE_ OW",
       "correctAnswer": "L",
+      "vocabulary": {
+        "word": "below",
+        "translation": "bên dưới, phía dưới",
+        "meaning": "at a lower position than something"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền: BE_OW\n- Khi thêm L: BELOW (bên dưới)\n- Below là giới từ chỉ vị trí\n\n**Dịch nghĩa:** BELOW = bên dưới, phía dưới\n\n**Ghi nhớ:** below = dưới, above = trên"
     },
     {
@@ -1112,6 +1212,11 @@
       "type": "fill-blank",
       "question": "D_ AR",
       "correctAnswer": "E",
+      "vocabulary": {
+        "word": "dear",
+        "translation": "thân mến, kính gửi",
+        "meaning": "used at the beginning of a letter before the name"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: E**\n\n**Lý do:**\n- Từ cần điền: D_AR\n- Khi thêm E: DEAR (thân mến)\n- Dear dùng trong thư tín\n\n**Dịch nghĩa:** DEAR = thân mến (dùng đầu thư)\n\n**Ghi nhớ:** Dear + tên = Kính gửi, Thân mến"
     },
     {
@@ -1145,6 +1250,11 @@
         "reading lamps"
       ],
       "correctAnswer": "reading lamp",
+      "vocabulary": {
+        "word": "reading lamp",
+        "translation": "đèn đọc sách",
+        "meaning": "a lamp used for reading"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: reading lamp**\n\n**Lý do:**\n- 'reading lamp' = đèn đọc sách\n- Danh từ ghép: tính từ + danh từ\n- 'a reading lamp' = một cái đèn đọc sách\n\n**Các đáp án sai:**\n- lamp reading: sai thứ tự\n- read lamp: sai từ loại\n- reading lamps: số nhiều (câu có 'a')\n\n**Dịch nghĩa:** Có một cái đèn đọc sách trên bàn.\n\n**Ghi nhớ:** reading lamp = đèn đọc sách"
     },
     {
@@ -1180,6 +1290,11 @@
         "football"
       ],
       "correctAnswer": "basketball",
+      "vocabulary": {
+        "word": "basketball",
+        "translation": "bóng rổ",
+        "meaning": "a game played by throwing a ball into a basket"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: basketball**\n\n**Lý do:**\n- Câu mô tả: ném bóng vào rổ\n- 'basketball' = bóng rổ\n- Môn thể thao ném bóng vào rổ\n\n**Các đáp án khác:**\n- volleyball: bóng chuyền\n- baseball: bóng chày\n- football: bóng đá\n\n**Dịch nghĩa:** Cậu bé cố gắng ném bóng vào rổ. Cậu ấy đang chơi bóng rổ.\n\n**Ghi nhớ:** basketball = bóng rổ, basket = rổ"
     },
     {
@@ -1220,6 +1335,11 @@
       "type": "fill-blank",
       "question": "Jim r_ _ _ ly play sports.",
       "correctAnswer": "are",
+      "vocabulary": {
+        "word": "rarely",
+        "translation": "hiếm khi",
+        "meaning": "not often; seldom"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: are**\n\n**Lý do:**\n- Từ cần điền: r_ _ _ly\n- Khi thêm 'are': rarely (hiếm khi)\n- 'rarely' là trạng từ tần suất\n\n**Dịch nghĩa:** Jim hiếm khi chơi thể thao.\n\n**Ghi nhớ:** rarely = hiếm khi, seldom = ít khi"
     },
     {
@@ -1239,9 +1359,14 @@
     {
       "id": 135,
       "type": "fill-blank",
-      "question": "We’ll go into some _ _ _ _ _ .",
+      "question": "We'll go into some _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/19/635204767752643398_Audio.mp3",
       "correctAnswer": "caves",
+      "vocabulary": {
+        "word": "cave",
+        "translation": "hang động",
+        "meaning": "a large hole in the side of a hill or under the ground"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: caves**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'caves' = hang động (số nhiều)\n- 'go into caves' = đi vào hang động\n\n**Dịch nghĩa:** Chúng ta sẽ đi vào một số hang động.\n\n**Ghi nhớ:** cave = hang động"
     },
     {
@@ -1263,6 +1388,11 @@
       "type": "fill-blank",
       "question": "PI_ ZA",
       "correctAnswer": "Z",
+      "vocabulary": {
+        "word": "pizza",
+        "translation": "bánh pizza",
+        "meaning": "a flat round bread with cheese, tomato sauce and other toppings"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Z**\n\n**Lý do:**\n- Từ cần điền: PI_ZA\n- Khi thêm Z: PIZZA (bánh pizza)\n- Pizza là món ăn phổ biến\n\n**Dịch nghĩa:** PIZZA = bánh pizza\n\n**Ghi nhớ:** pizza = bánh pizza (từ tiếng Ý)"
     },
     {
@@ -1493,6 +1623,11 @@
         "cave"
       ],
       "correctAnswer": "cave",
+      "vocabulary": {
+        "word": "cave",
+        "translation": "hang động",
+        "meaning": "a large hole in the side of a hill or under the ground"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cave (Chọn ý: D)**\n\n**Lý do:**\n- Gấu đang ngủ trong hang động\n- 'cave' = hang động\n- Gấu thường ngủ trong hang\n\n**Các đáp án khác:**\n- room: phòng\n- tree: cây\n- box: hộp\n\n**Dịch nghĩa:** Con gấu đang ngủ trong hang động.\n\n**Ghi nhớ:** cave = hang động"
     },
     {
@@ -1521,6 +1656,11 @@
       "question": "I often play _ _ _ _ _ _ _ _ _ _ with my friends after school.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205563164338425_566X320.jpg",
       "correctAnswer": "volleyball",
+      "vocabulary": {
+        "word": "volleyball",
+        "translation": "bóng chuyền",
+        "meaning": "a game where two teams hit a ball over a net"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: volleyball**\n\n**Lý do:**\n- Từ cần điền có 10 chữ cái: _ _ _ _ _ _ _ _ _ _\n- 'volleyball' = bóng chuyền\n- 'play volleyball' = chơi bóng chuyền\n\n**Dịch nghĩa:** Tôi thường chơi bóng chuyền với bạn bè sau giờ học.\n\n**Ghi nhớ:** play volleyball = chơi bóng chuyền"
     },
     {
@@ -1528,6 +1668,11 @@
       "type": "fill-blank",
       "question": "SEC_ ND",
       "correctAnswer": "O",
+      "vocabulary": {
+        "word": "second",
+        "translation": "thứ hai",
+        "meaning": "coming after the first in order or position"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền: SEC_ND\n- Khi thêm O: SECOND (thứ hai)\n- Second là số thứ tự\n\n**Dịch nghĩa:** SECOND = thứ hai\n\n**Ghi nhớ:** first = thứ nhất, second = thứ hai"
     },
     {
@@ -1549,6 +1694,11 @@
       "question": "They cruise around the _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160280138012341_Audio.mp3",
       "correctAnswer": "islands",
+      "vocabulary": {
+        "word": "island",
+        "translation": "hòn đảo",
+        "meaning": "a piece of land completely surrounded by water"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: islands**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- 'islands' = những hòn đảo\n- 'cruise around the islands' = đi thuyền quanh các đảo\n\n**Dịch nghĩa:** Họ đi thuyền quanh các hòn đảo.\n\n**Ghi nhớ:** island = đảo, cruise = đi thuyền du lịch"
     },
     {
@@ -1569,6 +1719,11 @@
       "type": "fill-blank",
       "question": "M_ UTH",
       "correctAnswer": "O",
+      "vocabulary": {
+        "word": "mouth",
+        "translation": "miệng",
+        "meaning": "the opening in the face used for eating and speaking"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền: M_UTH\n- Khi thêm O: MOUTH (miệng)\n- Mouth là bộ phận cơ thể\n\n**Dịch nghĩa:** MOUTH = miệng, cửa miệng\n\n**Ghi nhớ:** mouth = miệng"
     },
     {
@@ -1611,6 +1766,11 @@
       "type": "fill-blank",
       "question": "LANG_ AGE",
       "correctAnswer": "U",
+      "vocabulary": {
+        "word": "language",
+        "translation": "ngôn ngữ",
+        "meaning": "a system of communication used by people of a country"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền: LANG_AGE\n- Khi thêm U: LANGUAGE (ngôn ngữ)\n- Language là từ phổ biến\n\n**Dịch nghĩa:** LANGUAGE = ngôn ngữ\n\n**Ghi nhớ:** language = ngôn ngữ, tiếng"
     },
     {
@@ -1663,9 +1823,14 @@
     {
       "id": 179,
       "type": "fill-blank",
-      "question": "Tom likes watching _ _ _ _ _ _ _ _ on TV when he’s at home.",
+      "question": "Tom likes watching _ _ _ _ _ _ _ _ on TV when he's at home.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205559331099693_566X320.jpg",
       "correctAnswer": "cartoons",
+      "vocabulary": {
+        "word": "cartoon",
+        "translation": "phim hoạt hình",
+        "meaning": "an animated film or TV show, especially for children"
+      },
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cartoons**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái: _ _ _ _ _ _ _ _\n- 'cartoons' = phim hoạt hình\n- 'watch cartoons on TV' = xem phim hoạt hình trên tivi\n\n**Dịch nghĩa:** Tom thích xem phim hoạt hình trên TV khi ở nhà.\n\n**Ghi nhớ:** cartoon = phim hoạt hình"
     },
     {
