@@ -100,7 +100,7 @@
     {
       "id": 11,
       "type": "fill-blank",
-      "question": "Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
+      "question": "Rock ‘n roll music first became popular in the 1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529113589307_Audio.mp3",
       "correctAnswer": "singers",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: singers**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Câu nói về nhạc rock 'n roll và nhiều người nổi tiếng\n- 'many' + danh từ số nhiều\n- 'singers' = ca sĩ\n\n**Dịch nghĩa:** Nhạc rock 'n roll lần đầu trở nên phổ biến vào những năm 1950. Có nhiều ca sĩ rock 'n roll nổi tiếng trong thời gian đó.\n\n**Ghi nhớ:** singer = ca sĩ, sing = hát"
@@ -1827,7 +1827,7 @@
     {
       "id": 200,
       "type": "multiple-choice",
-      "question": "I usually go to bed at10.30 but last night I ... internet with my friends until11pm.",
+      "question": "I usually go to bed at 10.30 but last night I ... internet with my friends until 11pm.",
       "options": [
         "surfed",
         "surf",

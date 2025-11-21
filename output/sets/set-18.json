@@ -698,7 +698,7 @@
     {
       "id": 75,
       "type": "multiple-choice",
-      "question": "Mai often gets ... at6 every morning.",
+      "question": "Mai often gets ... at 6 every morning.",
       "options": [
         "clothes",
         "cloth",
@@ -1060,7 +1060,7 @@
     {
       "id": 113,
       "type": "word-arrangement",
-      "question": "in1873./ to play/ People started/ tennis inside/",
+      "question": "in 1873./ to play/ People started/ tennis inside/",
       "correctAnswer": "People started to play tennis inside in 1873.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: People started to play tennis inside in 1873.**\n\n**Phân tích:**\n- Chủ ngữ: People (mọi người)\n- Động từ: started to play (bắt đầu chơi)\n- Tân ngữ: tennis\n- Địa điểm: inside (trong nhà)\n- Thời gian: in 1873 (năm 1873)\n\n**Dịch nghĩa:** Mọi người bắt đầu chơi quần vợt trong nhà vào năm 1873.\n\n**Ghi nhớ:** inside = trong nhà, outside = ngoài trời"
     },

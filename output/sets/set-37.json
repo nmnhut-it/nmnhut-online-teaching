@@ -184,7 +184,7 @@
     {
       "id": 23,
       "type": "fill-blank",
-      "question": "Are you and Hoa in _ _ _ _ _6? - Yes. We are at class6A.",
+      "question": "Are you and Hoa in _ _ _ _ _6? - Yes. We are at class 6A.",
       "correctAnswer": "grade"
     },
     {
@@ -588,7 +588,7 @@
         "tree",
         "garden"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "garden"
     },
     {
       "id": 75,
@@ -827,7 +827,7 @@
         "tennis",
         "play"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "play"
     },
     {
       "id": 104,
@@ -978,7 +978,7 @@
     {
       "id": 122,
       "type": "word-arrangement",
-      "question": "minutes./ for30/ Her favorite/ TV program/ often lasts/",
+      "question": "minutes./ for 30/ Her favorite/ TV program/ often lasts/",
       "correctAnswer": "Her favorite TV program often lasts for 30 minutes."
     },
     {

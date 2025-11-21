@@ -169,7 +169,7 @@
         "writing",
         "evening"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "evening",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: evening**\n\n**Lý do:**\n- Các từ còn lại là động từ dạng V-ing: playing, learning, writing\n- Từ 'evening' là danh từ (buổi tối)\n\n**Phân loại:**\n- playing: động từ -ing (đang chơi)\n- learning: động từ -ing (đang học)\n- writing: động từ -ing (đang viết)\n- evening: danh từ (buổi tối)\n\n**Ghi nhớ:** Nhận biết từ loại để tìm từ khác biệt"
     },
     {
@@ -257,7 +257,7 @@
         "mooncake",
         "peach blossom"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "peach blossom",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: peach blossom**\n\n**Lý do:**\n- Các từ còn lại liên quan đến Tết Trung thu: Mid-Autumn (Tết Trung thu), lantern (đèn lồng), mooncake (bánh trung thu)\n- 'peach blossom' = hoa đào (liên quan đến Tết Nguyên đán)\n\n**Phân loại:**\n- Mid-Autumn, lantern, mooncake: Tết Trung thu\n- peach blossom: Tết Nguyên đán\n\n**Ghi nhớ:** Phân biệt các lễ hội và đồ vật liên quan"
     },
     {
@@ -434,7 +434,7 @@
         "engineer",
         "cooker"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "cooker",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cooker**\n\n**Lý do:**\n- Các từ còn lại là nghề nghiệp: architect (kiến trúc sư), doctor (bác sĩ), engineer (kỹ sư)\n- 'cooker' = nồi nấu, bếp (không phải nghề nghiệp)\n- Nghề nghiệp nấu ăn là 'cook' (đầu bếp)\n\n**Phân loại:**\n- architect, doctor, engineer: nghề nghiệp\n- cooker: đồ vật (bếp, nồi)\n\n**Ghi nhớ:** cook = đầu bếp (người), cooker = bếp (vật)"
     },
     {
@@ -980,7 +980,7 @@
         "long",
         "face"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "face",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: face**\n\n**Lý do:**\n- Các từ còn lại là tính từ chỉ hình dạng: round (tròn), oval (hình trứng), long (dài)\n- 'face' = khuôn mặt (danh từ)\n\n**Phân loại:**\n- round, oval, long: tính từ chỉ hình dạng\n- face: danh từ\n\n**Ghi nhớ:** round face = mặt tròn, oval face = mặt trái xoan"
     },
     {
@@ -1793,7 +1793,7 @@
     {
       "id": 197,
       "type": "multiple-choice",
-      "question": "This house is30 years ....",
+      "question": "This house is 30 years ....",
       "options": [
         "olds",
         "age",

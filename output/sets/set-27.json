@@ -1021,7 +1021,7 @@
     {
       "id": 111,
       "type": "multiple-choice",
-      "question": "I come ... home at11.30 in the morning.",
+      "question": "I come ... home at 11.30 in the morning.",
       "options": [
         "to",
         "at",
@@ -1507,7 +1507,7 @@
     {
       "id": 163,
       "type": "multiple-choice",
-      "question": "... your book to page27, please.",
+      "question": "... your book to page 27, please.",
       "options": [
         "Close",
         "Look",

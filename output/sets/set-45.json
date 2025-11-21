@@ -319,7 +319,7 @@
         "Reuse",
         "Pollute"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "Pollute"
     },
     {
       "id": 39,
@@ -392,7 +392,7 @@
     {
       "id": 46,
       "type": "fill-blank",
-      "question": "He is in class5E, Quang Trung _ _ _ _ _ _ _ School.",
+      "question": "He is in class 5E, Quang Trung _ _ _ _ _ _ _ School.",
       "correctAnswer": "primary"
     },
     {
@@ -502,7 +502,7 @@
         "father",
         "mate"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "mate"
     },
     {
       "id": 60,
@@ -1320,7 +1320,7 @@
     {
       "id": 161,
       "type": "fill-blank",
-      "question": "Nga is a student in class5A, Quynh Mai _ _ _ _ _ _ _ school.",
+      "question": "Nga is a student in class 5A, Quynh Mai _ _ _ _ _ _ _ school.",
       "correctAnswer": "primary"
     },
     {

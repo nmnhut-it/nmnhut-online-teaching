@@ -124,7 +124,7 @@
         "What",
         "The"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "The"
     },
     {
       "id": 16,
@@ -292,7 +292,7 @@
         "noon",
         "breakfast"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "breakfast"
     },
     {
       "id": 33,
@@ -997,7 +997,7 @@
     {
       "id": 121,
       "type": "word-arrangement",
-      "question": "The girl/ class5A./ in the red dress/ is a student/ of/",
+      "question": "The girl/ class 5A./ in the red dress/ is a student/ of/",
       "correctAnswer": "The girl in the red dress is a student of class 5A."
     },
     {
@@ -1530,7 +1530,7 @@
     {
       "id": 189,
       "type": "word-arrangement",
-      "question": "All students/ must/ school/ go to/ at7./",
+      "question": "All students/ must/ school/ go to/ at 7./",
       "correctAnswer": "All students must go to school at 7."
     },
     {
@@ -1608,7 +1608,7 @@
     {
       "id": 198,
       "type": "fill-blank",
-      "question": "And don’t forget - at3.00 you can come and watch the _ _ _ _ _ _ _ _ .",
+      "question": "And don't forget - at 3.00 you can come and watch the _ _ _ _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339715218404326_Audio.mp3",
       "correctAnswer": "penguins"
     },

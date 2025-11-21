@@ -147,7 +147,7 @@
     {
       "id": 16,
       "type": "multiple-choice",
-      "question": "There are ___ boys in class5A.",
+      "question": "There are ___ boys in class 5A.",
       "options": [
         "much",
         "no",
@@ -1295,12 +1295,12 @@
       "type": "multiple-choice",
       "question": "Where do you live?",
       "options": [
-        "I lived at180 Tran Hung Dao Street.",
+        "I lived at 180 Tran Hung Dao Street.",
         "I live in the fifth floor of Plaschem Tower.",
-        "My address is at180 Tran Hung Dao Street.",
-        "My address is180 Tran Hung Dao Street."
+        "My address is at 180 Tran Hung Dao Street.",
+        "My address is 180 Tran Hung Dao Street."
       ],
-      "correctAnswer": "My address is180 Tran Hung Dao Street."
+      "correctAnswer": "My address is 180 Tran Hung Dao Street."
     },
     {
       "id": 155,

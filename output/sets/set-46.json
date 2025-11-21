@@ -282,7 +282,7 @@
     {
       "id": 36,
       "type": "fill-blank",
-      "question": "My uncle arrives home _ _ _ _ work at5 p.m everyday.",
+      "question": "My uncle arrives home _ _ _ _ work at 5 p.m everyday.",
       "correctAnswer": "from"
     },
     {
@@ -754,7 +754,7 @@
     {
       "id": 95,
       "type": "fill-blank",
-      "question": "Does the film begin at7.30 _ _8.00?",
+      "question": "Does the film begin at 7.30 or 8.00?",
       "correctAnswer": "or"
     },
     {
@@ -1295,7 +1295,7 @@
         "father",
         "mate"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "mate"
     },
     {
       "id": 162,

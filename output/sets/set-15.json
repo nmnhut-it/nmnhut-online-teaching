@@ -192,7 +192,7 @@
     {
       "id": 20,
       "type": "fill-blank",
-      "question": "It takes him30 minutes to _ _ _ _ every morning.",
+      "question": "It takes him 30 minutes to _ _ _ _ every morning.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/11/21/635521680376367748_566X320.jpg",
       "correctAnswer": "swim",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: swim**\n\n**Lý do:**\n- Điền từ phù hợp với ngữ cảnh\n- Đáp án: swim\n\n**Dịch nghĩa:** (Câu hoàn chỉnh với từ đã điền)\n\n**Ghi nhớ:** swim - nghĩa và cách dùng"
@@ -274,7 +274,7 @@
     {
       "id": 28,
       "type": "multiple-choice",
-      "question": "I was born ... September20th1980.",
+      "question": "I was born ... September 20th 1980.",
       "options": [
         "from",
         "at",
@@ -337,7 +337,7 @@
     {
       "id": 34,
       "type": "fill-blank",
-      "question": "There are12 months in one _ _ _ _ .",
+      "question": "There are 12 months in one _ _ _ _ .",
       "correctAnswer": "year",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: year**\n\n**Lý do:**\n- Điền từ phù hợp với ngữ cảnh\n- Đáp án: year\n\n**Dịch nghĩa:** (Câu hoàn chỉnh với từ đã điền)\n\n**Ghi nhớ:** year - nghĩa và cách dùng"
     },
@@ -715,16 +715,16 @@
     {
       "id": 75,
       "type": "word-arrangement",
-      "question": "page36!/ book/ your/ to/ Open/",
+      "question": "page 36!/ book/ your/ to/ Open/",
       "correctAnswer": "Open your book to page 36!",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Open your book to page 36!**\n\n**Phân tích:**\n- Sắp xếp các từ theo đúng trật tự ngữ pháp\n- Câu hoàn chỉnh: Open your book to page 36!\n\n**Dịch nghĩa:** Open your book to page 36!\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
     {
       "id": 76,
       "type": "word-arrangement",
-      "question": "What do/ you/ fary tales or/ short stories?/ prefer,/",
-      "correctAnswer": "What do you prefer, fary tales or short stories?",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you prefer, fary tales or short stories?**\n\n**Phân tích:**\n- Sắp xếp các từ theo đúng trật tự ngữ pháp\n- Câu hoàn chỉnh: What do you prefer, fary tales or short stories?\n\n**Dịch nghĩa:** What do you prefer, fary tales or short stories?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "question": "What do/ you/ fairy tales or/ short stories?/ prefer,/",
+      "correctAnswer": "What do you prefer, fairy tales or short stories?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you prefer, fairy tales or short stories?**\n\n**Phân tích:**\n- Sắp xếp các từ theo đúng trật tự ngữ pháp\n- Câu hoàn chỉnh: What do you prefer, fairy tales or short stories?\n\n**Dịch nghĩa:** Bạn thích truyện cổ tích hay truyện ngắn hơn?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
     {
       "id": 77,
@@ -878,8 +878,8 @@
         "wash",
         "teeth"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Chọn ý: D là từ khác loại\n- Các từ còn lại thuộc cùng nhóm\n\n**Dịch nghĩa:** Chọn từ khác loại\n\n**Ghi nhớ:** Phân loại từ vựng theo chủ đề"
+      "correctAnswer": "teeth",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: teeth**\n\n**Lý do:**\n- teeth là từ khác loại (danh từ - răng)\n- Các từ còn lại là động từ: stand (đứng), go (đi), wash (rửa)\n\n**Dịch nghĩa:** Chọn từ khác loại\n\n**Ghi nhớ:** Phân loại từ vựng theo nhóm từ loại"
     },
     {
       "id": 92,
@@ -973,7 +973,7 @@
     {
       "id": 102,
       "type": "multiple-choice",
-      "question": "Petra was the _____ city for about500 years.",
+      "question": "Petra was the _____ city for about 500 years.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/tracnghiem/tn-67.mp3",
       "options": [
         "capital",
@@ -1015,7 +1015,7 @@
     {
       "id": 106,
       "type": "multiple-choice",
-      "question": "After school, I help my Mom with the housework then we have ____ dinner at7 p.m.",
+      "question": "After school, I help my Mom with the housework then we have ____ dinner at 7 p.m.",
       "options": [
         "a",
         "the",
@@ -1069,7 +1069,7 @@
     {
       "id": 112,
       "type": "word-arrangement",
-      "question": "number1./ Open/ your book/ exercise/ and do/",
+      "question": "number 1./ Open/ your book/ exercise/ and do/",
       "correctAnswer": "Open your book and do exercise number 1.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Open your book and do exercise number 1.**\n\n**Phân tích:**\n- Sắp xếp các từ theo đúng trật tự ngữ pháp\n- Câu hoàn chỉnh: Open your book and do exercise number 1.\n\n**Dịch nghĩa:** Open your book and do exercise number 1.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
@@ -1097,7 +1097,7 @@
     {
       "id": 115,
       "type": "word-arrangement",
-      "question": "at5:30 p.m./ The children/ went/ home/",
+      "question": "at 5:30 p.m./ The children/ went/ home/",
       "correctAnswer": "The children went home at 5:30 p.m.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: The children went home at 5:30 p.m.**\n\n**Phân tích:**\n- Sắp xếp các từ theo đúng trật tự ngữ pháp\n- Câu hoàn chỉnh: The children went home at 5:30 p.m.\n\n**Dịch nghĩa:** The children went home at 5:30 p.m.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
@@ -1111,7 +1111,7 @@
     {
       "id": 117,
       "type": "fill-blank",
-      "question": "_ _ _ _ do you get up? – I get up at6.",
+      "question": "_ _ _ _ do you get up? – I get up at 6.",
       "correctAnswer": "when",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: when**\n\n**Lý do:**\n- Điền từ phù hợp với ngữ cảnh\n- Đáp án: when\n\n**Dịch nghĩa:** (Câu hoàn chỉnh với từ đã điền)\n\n**Ghi nhớ:** when - nghĩa và cách dùng"
     },

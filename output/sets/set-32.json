@@ -372,7 +372,7 @@
     {
       "id": 41,
       "type": "fill-blank",
-      "question": "Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
+      "question": "Rock ‘n roll music first became popular in the 1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529113589307_Audio.mp3",
       "correctAnswer": "singers",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: singers**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Câu nói về nhạc rock 'n roll trong những năm 1950\n- 'singers' = ca sĩ (số nhiều)\n- Có nhiều ca sĩ rock 'n roll nổi tiếng thời đó\n\n**Dịch nghĩa:** Nhạc Rock 'n roll lần đầu trở nên phổ biến vào những năm 1950. Có nhiều ca sĩ rock 'n roll nổi tiếng trong thời gian đó.\n\n**Ghi nhớ:** singer = ca sĩ, popular = phổ biến"
@@ -829,7 +829,7 @@
     {
       "id": 91,
       "type": "multiple-choice",
-      "question": "I usually go to bed at10.30 but last night I ... internet with my friends until11pm.",
+      "question": "I usually go to bed at 10.30 but last night I ... internet with my friends until 11pm.",
       "options": [
         "surfed",
         "surf",
@@ -1470,7 +1470,7 @@
         "mooncake",
         "peach blossom"
       ],
-      "correctAnswer": "Chọn ý: D",
+      "correctAnswer": "peach blossom",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (peach blossom)**\n\n**Lý do:**\n- Các từ còn lại liên quan đến Tết Trung Thu: Mid-Autumn (Trung Thu), lantern (đèn lồng), mooncake (bánh trung thu)\n- 'peach blossom' = hoa đào (liên quan đến Tết Nguyên Đán)\n\n**Phân loại:**\n- Mid-Autumn, lantern, mooncake: Tết Trung Thu\n- peach blossom: Tết Nguyên Đán\n\n**Ghi nhớ:** Tìm từ không cùng chủ đề"
     },
     {
@@ -1697,7 +1697,7 @@
     {
       "id": 187,
       "type": "fill-blank",
-      "question": "Are you and Hoa in _ _ _ _ _6? - Yes. We are at class6A.",
+      "question": "Are you and Hoa in _ _ _ _ _ 6? - Yes. We are at class 6A.",
       "correctAnswer": "grade",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: grade**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Câu hỏi về khối lớp\n- 'in grade 6' = ở khối 6\n- Câu trả lời: class 6A (lớp 6A)\n\n**Dịch nghĩa:** Bạn và Hoa học khối 6 phải không? - Vâng. Chúng tôi học lớp 6A.\n\n**Ghi nhớ:** grade = khối (1-12), class = lớp (6A, 7B)"
     },
@@ -1731,9 +1731,9 @@
     {
       "id": 191,
       "type": "multiple-choice",
-      "question": "...? - She often has breakfast at6 am.",
+      "question": "...? - She often has breakfast at 6 am.",
       "options": [
-        "What does Sara often do at6 am",
+        "What does Sara often do at 6 am",
         "What time does Sara often have breakfast",
         "When does Sara often have breakfast",
         "All are correct"

@@ -39,7 +39,7 @@
     {
       "id": 4,
       "type": "fill-blank",
-      "question": "There are13 blue balls and27 green balls in the box. There are _ _ _ _ _ balls in total.",
+      "question": "There are 13 blue balls and 27 green balls in the box. There are _ _ _ _ _ balls in total.",
       "correctAnswer": "forty",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: forty**\n\n**Lý do:**\n- Tính tổng số bóng: 13 + 27 = 40\n- Số 40 viết bằng chữ là 'forty'\n- Câu hỏi yêu cầu viết bằng chữ, không phải số\n\n**Dịch nghĩa:** Có 13 quả bóng xanh dương và 27 quả bóng xanh lá trong hộp. Tổng cộng có bốn mươi quả bóng.\n\n**Ghi nhớ:** 40 = forty (không có chữ 'u')"
     },
@@ -68,10 +68,10 @@
     {
       "id": 8,
       "type": "fill-blank",
-      "question": "I like reading fairy tales, so my favourite ____ is \\\\\"Cinderella\\\\\"“Pána:”song\t\tB. programme\t\tC. subject\t\tD. story",
+      "question": "I like reading fairy tales, so my favourite ____ is \\\\\"Cinderella\\\\\"",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Capquanhuyen/De2/02-tng-44.jpg",
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (story)**\n\n**Lý do:**\n- Cinderella là một câu chuyện cổ tích\n- 'fairy tales' (truyện cổ tích) và 'story' (câu chuyện) đi cùng nhau\n\n**Các đáp án khác:**\n- song: bài hát\n- programme: chương trình\n- subject: môn học\n\n**Dịch nghĩa:** Tôi thích đọc truyện cổ tích, nên câu chuyện yêu thích của tôi là Cô Bé Lọ Lem.\n\n**Ghi nhớ:** favourite story = câu chuyện yêu thích"
+      "correctAnswer": "story",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: story**\n\n**Lý do:**\n- Cinderella là một câu chuyện cổ tích\n- 'fairy tales' (truyện cổ tích) và 'story' (câu chuyện) đi cùng nhau\n\n**Các đáp án khác:**\n- song: bài hát\n- programme: chương trình\n- subject: môn học\n\n**Dịch nghĩa:** Tôi thích đọc truyện cổ tích, nên câu chuyện yêu thích của tôi là Cô Bé Lọ Lem.\n\n**Ghi nhớ:** favourite story = câu chuyện yêu thích"
     },
     {
       "id": 9,
@@ -130,8 +130,8 @@
         "rainy",
         "heavy"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (heavy)**\n\n**Lý do:**\n- sunny (nắng), cloudy (nhiều mây), rainy (mưa) là tính từ chỉ thời tiết\n- heavy (nặng) không phải tính từ chỉ thời tiết\n\n**Phân loại:**\n- Thời tiết: sunny, cloudy, rainy\n- Khác: heavy (nặng)\n\n**Dịch nghĩa:** Chọn từ khác loại: heavy (nặng)\n\n**Ghi nhớ:** Các từ chỉ thời tiết thường kết thúc bằng -y"
+      "correctAnswer": "heavy",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: heavy**\n\n**Lý do:**\n- sunny (nắng), cloudy (nhiều mây), rainy (mưa) là tính từ chỉ thời tiết\n- heavy (nặng) không phải tính từ chỉ thời tiết\n\n**Phân loại:**\n- Thời tiết: sunny, cloudy, rainy\n- Khác: heavy (nặng)\n\n**Dịch nghĩa:** Chọn từ khác loại: heavy (nặng)\n\n**Ghi nhớ:** Các từ chỉ thời tiết thường kết thúc bằng -y"
     },
     {
       "id": 15,
@@ -150,7 +150,7 @@
     {
       "id": 17,
       "type": "word-arrangement",
-      "question": "was/ He/ in1995/ in Singapore./ born/",
+      "question": "was/ He/ in 1995/ in Singapore./ born/",
       "correctAnswer": "He was born in 1995 in Singapore.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: He was born in 1995 in Singapore.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'He was born' (anh ấy được sinh ra)\n- 'in 1995' = vào năm 1995 (năm đứng trước)\n- 'in Singapore' = ở Singapore (địa điểm đứng sau)\n\n**Dịch nghĩa:** Anh ấy sinh năm 1995 ở Singapore.\n\n**Ghi nhớ:** be born in + năm + in + địa điểm"
     },
@@ -872,8 +872,8 @@
         "Backache",
         "Dentist"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (Dentist)**\n\n**Lý do:**\n- Toothache (đau răng), Headache (đau đầu), Backache (đau lưng) là bệnh\n- Dentist (nha sĩ) là nghề nghiệp, không phải bệnh\n\n**Phân loại:**\n- Bệnh: toothache, headache, backache\n- Nghề nghiệp: dentist\n\n**Dịch nghĩa:** Chọn từ khác loại: Dentist (nha sĩ)\n\n**Ghi nhớ:** -ache = đau (toothache, headache), dentist = nha sĩ"
+      "correctAnswer": "Dentist",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Dentist**\n\n**Lý do:**\n- Toothache (đau răng), Headache (đau đầu), Backache (đau lưng) là bệnh\n- Dentist (nha sĩ) là nghề nghiệp, không phải bệnh\n\n**Phân loại:**\n- Bệnh: toothache, headache, backache\n- Nghề nghiệp: dentist\n\n**Dịch nghĩa:** Chọn từ khác loại: Dentist (nha sĩ)\n\n**Ghi nhớ:** -ache = đau (toothache, headache), dentist = nha sĩ"
     },
     {
       "id": 91,
@@ -1130,7 +1130,7 @@
     {
       "id": 121,
       "type": "multiple-choice",
-      "question": "Mr. Nam gets up at7.00 and eats ….",
+      "question": "Mr. Nam gets up at 7.00 and eats ….",
       "options": [
         "a big breakfast",
         "the big breakfast",
@@ -1345,8 +1345,8 @@
         "tea",
         "fruit"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (fruit)**\n\n**Lý do:**\n- milk (sữa), mineral water (nước khoáng), tea (trà) là đồ uống\n- fruit (trái cây) là đồ ăn, không phải đồ uống\n\n**Phân loại:**\n- Đồ uống: milk, mineral water, tea\n- Đồ ăn: fruit\n\n**Dịch nghĩa:** Chọn từ khác loại: fruit (trái cây)\n\n**Ghi nhớ:** fruit = trái cây, drink = đồ uống"
+      "correctAnswer": "fruit",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fruit**\n\n**Lý do:**\n- milk (sữa), mineral water (nước khoáng), tea (trà) là đồ uống\n- fruit (trái cây) là đồ ăn, không phải đồ uống\n\n**Phân loại:**\n- Đồ uống: milk, mineral water, tea\n- Đồ ăn: fruit\n\n**Dịch nghĩa:** Chọn từ khác loại: fruit (trái cây)\n\n**Ghi nhớ:** fruit = trái cây, drink = đồ uống"
     },
     {
       "id": 145,
