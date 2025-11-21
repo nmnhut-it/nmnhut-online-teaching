@@ -590,7 +590,7 @@
     {
       "id": 62,
       "type": "multiple-choice",
-      "question": "Mrs. Smith made100 ___ of bread every day.",
+      "question": "Mrs. Smith made 100 ___ of bread every day.",
       "options": [
         "bowls",
         "bowl",
@@ -899,7 +899,7 @@
     {
       "id": 96,
       "type": "multiple-choice",
-      "question": "Laura: What will be there in the library in the afternoon? - Hoa: Doctor Smith will give a ... .",
+      "question": "Laura: What will be there in the library in the afternoon? - Hoa: Doctor Smith will give a ...",
       "options": [
         "a lesson",
         "classes",
@@ -1321,7 +1321,7 @@
     {
       "id": 139,
       "type": "multiple-choice",
-      "question": "Our village has a ... of3,000.",
+      "question": "Our village has a ... of 3,000.",
       "options": [
         "pollution",
         "nation",
@@ -1614,11 +1614,11 @@
       "options": [
         "behind",
         "right",
-        "timeable",
+        "timetable",
         "opposite"
       ],
       "correctAnswer": "opposite",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: opposite**\n\n**Lý do:**\n- Tìm từ có phần gạch chân phát âm khác\n- \"behind\" /bɪˈhaɪnd/ - \"i\" phát âm /aɪ/\n- \"right\" /raɪt/ - \"i\" phát âm /aɪ/\n- \"timeable\" /ˈtaɪmteɪbl/ - \"i\" phát âm /aɪ/\n- \"opposite\" /ˈɒpəzɪt/ - \"i\" phát âm /ɪ/ (khác biệt)\n\n**Ghi nhớ:** Trong \"opposite\", chữ \"i\" phát âm /ɪ/ (i ngắn), còn các từ khác \"i\" phát âm /aɪ/ (ai).\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: opposite**\n\n**Lý do:**\n- Tìm từ có phần gạch chân phát âm khác\n- \"behind\" /bɪˈhaɪnd/ - \"i\" phát âm /aɪ/\n- \"right\" /raɪt/ - \"i\" phát âm /aɪ/\n- \"timetable\" /ˈtaɪmteɪbl/ - \"i\" phát âm /aɪ/\n- \"opposite\" /ˈɒpəzɪt/ - \"i\" phát âm /ɪ/ (khác biệt)\n\n**Ghi nhớ:** Trong \"opposite\", chữ \"i\" phát âm /ɪ/ (i ngắn), còn các từ khác \"i\" phát âm /aɪ/ (ai).\n\n**Dịch nghĩa:** (Đây là câu hỏi phát âm)"
     },
     {
       "id": 174,
@@ -1643,7 +1643,7 @@
     {
       "id": 176,
       "type": "word-arrangement",
-      "question": "on/ Is your/ May16th?/ little brother’s/ birthday/",
+      "question": "on/ Is your/ May 16th?/ little brother's/ birthday/",
       "correctAnswer": "Is your little brother’s birthday on May 16th?",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Is your little brother's birthday on May 16th?**\n\n**Lý do:**\n- Câu hỏi Yes/No về ngày sinh nhật\n- \"your little brother's birthday\" = sinh nhật em trai bạn\n- \"on May 16th\" = vào ngày 16 tháng 5\n- Dùng \"on\" với ngày tháng cụ thể\n\n**Ghi nhớ:** \"On + ngày tháng\" (on May 16th). \"In + tháng/năm\" (in May, in 2020). \"At + giờ\" (at 5 o'clock)."
     },
@@ -1663,7 +1663,7 @@
     {
       "id": 178,
       "type": "multiple-choice",
-      "question": "Choose the INCORRECT word or phrase in the following sentence: You getanewdress tomorrow.",
+      "question": "Choose the INCORRECT word or phrase in the following sentence: You get a new dress tomorrow.",
       "options": [
         "get",
         "a",
@@ -1773,7 +1773,7 @@
     {
       "id": 190,
       "type": "multiple-choice",
-      "question": "Whose book are you reading? – It’s … .",
+      "question": "Whose book are you reading? – It's …",
       "options": [
         "English book",
         "interesting",
@@ -1828,10 +1828,10 @@
     {
       "id": 196,
       "type": "fill-blank",
-      "question": "What is your date of _ _ _ _ _ ? - It's11st July.",
+      "question": "What is your date of _ _ _ _ _ ? - It's the 11th of July.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/Capquanhuyen/Images/dt-birth.jpg",
       "correctAnswer": "birth",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: birth**\n\n**Lý do:**\n- \"date of birth\" = ngày sinh\n- \"What is your date of birth?\" = Ngày sinh của bạn là gì?\n- Hình ảnh liên quan đến sinh nhật\n- Trả lời: \"It's 11st July\" (11 tháng 7)\n\n**Ghi nhớ:** \"Date of birth\" = ngày sinh (viết tắt: DOB). \"Birthday\" = sinh nhật (ngày kỷ niệm)."
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: birth**\n\n**Lý do:**\n- \"date of birth\" = ngày sinh\n- \"What is your date of birth?\" = Ngày sinh của bạn là gì?\n- Hình ảnh liên quan đến sinh nhật\n- Trả lời: \"It's the 11th of July\" (11 tháng 7)\n\n**Ghi nhớ:** \"Date of birth\" = ngày sinh (viết tắt: DOB). \"Birthday\" = sinh nhật (ngày kỷ niệm)."
     },
     {
       "id": 197,
