@@ -444,7 +444,7 @@
     {
       "id": 44,
       "type": "multiple-choice",
-      "question": "Vietnamese Women's Day is on20th _______.",
+      "question": "Vietnamese Women's Day is on 20th _______.",
       "options": [
         "September",
         "October",
@@ -623,7 +623,7 @@
     {
       "id": 62,
       "type": "fill-blank",
-      "question": "What class are you _ _ ? - I’m in class6A.",
+      "question": "What class are you _ _ ? - I’m in class 6A.",
       "correctAnswer": "in",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\nCụm \"be in class\" nghĩa là \"ở lớp\". Câu hoàn chỉnh: \"What class are you in? - I'm in class 6A\" (Bạn học lớp mấy? - Tôi học lớp 6A). Giới từ \"in\" dùng với lớp học.\n\n**Ghi nhớ:** \"Be in class + số\" = \"học lớp...\""
     },
@@ -691,7 +691,7 @@
     {
       "id": 69,
       "type": "multiple-choice",
-      "question": "… are you going to stay here? – Just2 days.",
+      "question": "… are you going to stay here? – Just 2 days.",
       "options": [
         "How often",
         "How days",
@@ -960,7 +960,7 @@
     {
       "id": 100,
       "type": "multiple-choice",
-      "question": "Tom: … - Mary: My school has2 floors.",
+      "question": "Tom: … - Mary: My school has 2 floors.",
       "options": [
         "How many floors is these in your school?",
         "How much floors is there in your school?",
@@ -1115,7 +1115,7 @@
     {
       "id": 118,
       "type": "multiple-choice",
-      "question": "The word for the number15 is ....",
+      "question": "The word for the number 15 is ....",
       "options": [
         "twenty",
         "eleven",
@@ -1148,7 +1148,7 @@
     {
       "id": 121,
       "type": "fill-blank",
-      "question": "Ha’s sister _ _ _ born in Hue in1995.",
+      "question": "Ha’s sister _ _ _ born in Hue in 1995.",
       "correctAnswer": "was",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: was**\n\n**Lý do:**\nĐộng từ \"be\" ở thì quá khứ với chủ ngữ số ít \"Ha's sister\" là \"was\". Câu hoàn chỉnh: \"Ha's sister was born in Hue in 1995\" (Chị gái của Hà sinh ra ở Huế năm 1995). \"Be born\" = \"được sinh ra\".\n\n**Ghi nhớ:** \"Be born\" = \"được sinh ra\", \"was\" (số ít), \"were\" (số nhiều)."
     },
@@ -1630,7 +1630,7 @@
     {
       "id": 176,
       "type": "multiple-choice",
-      "question": "The Smiths live … Room4001 on the fourth floor.",
+      "question": "The Smiths live … Room 4001 on the fourth floor.",
       "options": [
         "on",
         "in",

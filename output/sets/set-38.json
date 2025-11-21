@@ -169,7 +169,7 @@
         "city",
         "ocean"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "ocean"
     },
     {
       "id": 23,
@@ -486,7 +486,7 @@
     {
       "id": 59,
       "type": "word-arrangement",
-      "question": "return/ at9.30/ They always/ home/ in the evening./",
+      "question": "return/ at 9.30/ They always/ home/ in the evening./",
       "correctAnswer": "They always return home at 9.30 in the evening."
     },
     {
@@ -822,12 +822,12 @@
     {
       "id": 101,
       "type": "multiple-choice",
-      "question": "...? - He’s in grade12.",
+      "question": "...? - He’s in grade 12.",
       "options": [
         "Your brother grade12",
         "How old is your brother",
         "Which grade is your brother in",
-        "Is this room12"
+        "Is this room 12"
       ],
       "correctAnswer": "Which grade is your brother in"
     },
@@ -908,7 +908,7 @@
     {
       "id": 111,
       "type": "multiple-choice",
-      "question": "When you meet your friend at3 pm, you say:",
+      "question": "When you meet your friend at 3 pm, you say:",
       "options": [
         "Good morning",
         "Good afternoon",
@@ -1090,7 +1090,7 @@
     {
       "id": 132,
       "type": "fill-blank",
-      "question": "Could you tell me how to get to the bus stop? - Go straight _ _ _ _ _ for100 meters.",
+      "question": "Could you tell me how to get to the bus stop? - Go straight _ _ _ _ _ for 100 meters.",
       "correctAnswer": "ahead"
     },
     {
@@ -1170,7 +1170,7 @@
         "board",
         "street"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "street"
     },
     {
       "id": 144,
@@ -1538,9 +1538,9 @@
     {
       "id": 191,
       "type": "multiple-choice",
-      "question": "...? - She often has breakfast at6 am.",
+      "question": "...? - She often has breakfast at 6 am.",
       "options": [
-        "What does Sara often do at6 am",
+        "What does Sara often do at 6 am",
         "What time does Sara often have breakfast",
         "When does Sara often have breakfast",
         "All are correct"

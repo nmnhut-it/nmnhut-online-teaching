@@ -448,12 +448,12 @@
     {
       "id": 57,
       "type": "multiple-choice",
-      "question": "...? - He’s in grade12.",
+      "question": "...? - He’s in grade 12.",
       "options": [
         "Your brother grade12",
         "How old is your brother",
         "Which grade is your brother in",
-        "Is this room12"
+        "Is this room 12"
       ],
       "correctAnswer": "Which grade is your brother in"
     },
@@ -626,7 +626,7 @@
         "city",
         "ocean"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "ocean"
     },
     {
       "id": 78,
@@ -1285,7 +1285,7 @@
     {
       "id": 158,
       "type": "multiple-choice",
-      "question": "Does your class start at7 am? – No, it starts15 minutes ....",
+      "question": "Does your class start at 7 am? – No, it starts 15 minutes ....",
       "options": [
         "late",
         "early",

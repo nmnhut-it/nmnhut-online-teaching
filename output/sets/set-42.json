@@ -652,7 +652,7 @@
     {
       "id": 82,
       "type": "multiple-choice",
-      "question": "When you come home at6 p.m, your mother may say:",
+      "question": "When you come home at 6 p.m, your mother may say:",
       "options": [
         "Let’s have dinner!",
         "Have a nice day!",
@@ -1195,7 +1195,7 @@
     {
       "id": 147,
       "type": "word-arrangement",
-      "question": "of/ in the red dress/ class5A./ The girl/ is a student/",
+      "question": "of/ in the red dress/ class 5A./ The girl/ is a student/",
       "correctAnswer": "The girl in the red dress is a student of class 5A."
     },
     {

@@ -37,7 +37,7 @@
         "Reuse",
         "Pollute"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "Pollute"
     },
     {
       "id": 6,
@@ -418,7 +418,7 @@
     {
       "id": 46,
       "type": "word-arrangement",
-      "question": "and arrives/ at 8 a.m./ The plane/ leaves Noi Bai at6 a.m/ at Ho Chi Minh/",
+      "question": "and arrives/ at 8 a.m./ The plane/ leaves Noi Bai at 6 a.m/ at Ho Chi Minh/",
       "correctAnswer": "The plane leaves Noi Bai at 6 a.m and arrives at Ho Chi Minh at 8 a.m."
     },
     {
@@ -795,7 +795,7 @@
         "Saturday",
         "Yesterday"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "Yesterday"
     },
     {
       "id": 93,

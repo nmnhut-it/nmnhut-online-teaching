@@ -839,7 +839,7 @@
     {
       "id": 89,
       "type": "fill-blank",
-      "question": "Are you and Hoa in _ _ _ _ _6? - Yes. We are at class6A.",
+      "question": "Are you and Hoa in _ _ _ _ _ 6? - Yes. We are at class 6A.",
       "correctAnswer": "grade",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: grade**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- 'in grade 6' = ở khối 6\n- 'class 6A' = lớp 6A\n\n**Dịch nghĩa:** Bạn và Hoa ở khối 6 phải không? - Vâng. Chúng tôi ở lớp 6A.\n\n**Ghi nhớ:** grade = khối (1-12), class = lớp (6A, 7B)"
     },
@@ -1753,7 +1753,7 @@
     {
       "id": 191,
       "type": "word-arrangement",
-      "question": "home/ at9.30/ They always/ return/ in the evening./",
+      "question": "home/ at 9.30/ They always/ return/ in the evening./",
       "correctAnswer": "They always return home at 9.30 in the evening.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: They always return home at 9.30 in the evening.**\n\n**Phân tích:**\n- Câu bắt đầu bằng 'They always' (họ luôn)\n- 'return home' = về nhà\n- 'at 9.30' = lúc 9 giờ 30\n- 'in the evening' = vào buổi tối\n\n**Dịch nghĩa:** Họ luôn về nhà lúc 9 giờ 30 tối.\n\n**Ghi nhớ:** return home = về nhà, at + giờ cụ thể"
     },

@@ -62,7 +62,7 @@
         "board",
         "street"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "street"
     },
     {
       "id": 9,
@@ -363,9 +363,10 @@
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
         "watches",
-        "washeses",
+        "washes",
         "lives"
-      ]
+      ],
+      "correctAnswer": "lives"
     },
     {
       "id": 48,
@@ -480,7 +481,7 @@
         "factory",
         "family"
       ],
-      "correctAnswer": "Chọn ý: D"
+      "correctAnswer": "family"
     },
     {
       "id": 62,
@@ -1232,7 +1233,7 @@
     {
       "id": 155,
       "type": "multiple-choice",
-      "question": "She usually comes ... home at5 pm.",
+      "question": "She usually comes ... home at 5 pm.",
       "options": [
         "to",
         "at",

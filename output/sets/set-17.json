@@ -137,7 +137,7 @@
     {
       "id": 17,
       "type": "multiple-choice",
-      "question": "What meal do you eat between11 and2 in the afternoon?",
+      "question": "What meal do you eat between 11 and 2 in the afternoon?",
       "options": [
         "dinner",
         "supper",
@@ -407,7 +407,7 @@
     {
       "id": 50,
       "type": "fill-blank",
-      "question": "In the morning, I usually _ _ _ up at6 o’clock.",
+      "question": "In the morning, I usually _ _ _ up at 6 o’clock.",
       "correctAnswer": "get",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: get**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái: _ _ _\n- Câu nói về thói quen buổi sáng\n- 'get up' = thức dậy\n- 'at 6 o'clock' = lúc 6 giờ\n\n**Dịch nghĩa:** Vào buổi sáng, tôi thường thức dậy lúc 6 giờ.\n\n**Ghi nhớ:** get up = thức dậy ↔ go to bed = đi ngủ"
     },
@@ -1291,7 +1291,7 @@
     {
       "id": 136,
       "type": "multiple-choice",
-      "question": "Tom: … - Mary: My school has2 floors.",
+      "question": "Tom: … - Mary: My school has 2 floors.",
       "options": [
         "How many floors is these in your school?",
         "How much floors is there in your school?",
@@ -1784,7 +1784,7 @@
     {
       "id": 192,
       "type": "fill-blank",
-      "question": "My best friend _ _ _ _ _ at77 Hoang Quoc Viet Street.",
+      "question": "My best friend _ _ _ _ _ at 77 Hoang Quoc Viet Street.",
       "correctAnswer": "lives",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lives**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái: _ _ _ _ _\n- Chủ ngữ 'My best friend' (số ít) → động từ thêm 's'\n- 'lives at' = sống tại\n- live → lives\n\n**Dịch nghĩa:** Bạn thân nhất của tôi sống tại số 77 đường Hoàng Quốc Việt.\n\n**Ghi nhớ:** live at + địa chỉ = sống tại..."
     },

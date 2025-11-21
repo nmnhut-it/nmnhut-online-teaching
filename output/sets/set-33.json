@@ -788,7 +788,7 @@
     {
       "id": 88,
       "type": "word-arrangement",
-      "question": "home/ at9.30/ They always/ return/ in the evening./",
+      "question": "home/ at 9.30/ They always/ return/ in the evening./",
       "correctAnswer": "They always return home at 9.30 in the evening.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: They always return home at 9.30 in the evening.**\n\n**Lý do:**\n- \"Return home\" = về nhà\n- \"Always\" đứng trước động từ chính\n- \"At 9.30\" = lúc 9 giờ 30\n- \"In the evening\" = vào buổi tối\n- Thứ tự: S + always + V + địa điểm + giờ + buổi\n\n**Ghi nhớ:** Return home = về nhà. Always = luôn luôn. In the evening = buổi tối."
     },
@@ -1542,7 +1542,7 @@
       "type": "multiple-choice",
       "question": "What do you do? – I’m ....",
       "options": [
-        "in grade6",
+        "in grade 6",
         "at school",
         "a student",
         "learning"
@@ -1772,7 +1772,7 @@
     {
       "id": 194,
       "type": "multiple-choice",
-      "question": "She usually comes ... home at5 pm.",
+      "question": "She usually comes ... home at 5 pm.",
       "options": [
         "to",
         "at",

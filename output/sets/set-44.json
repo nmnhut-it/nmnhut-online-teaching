@@ -472,7 +472,7 @@
     {
       "id": 59,
       "type": "fill-blank",
-      "question": "He is in class5E, Quang Trung _ _ _ _ _ _ _ School.",
+      "question": "He is in class 5E, Quang Trung _ _ _ _ _ _ _ School.",
       "correctAnswer": "primary"
     },
     {
@@ -627,12 +627,12 @@
       "type": "multiple-choice",
       "question": "Where do you live?",
       "options": [
-        "I lived at180 Tran Hung Dao Street.",
+        "I lived at 180 Tran Hung Dao Street.",
         "I live in the fifth floor of Plaschem Tower.",
-        "My address is at180 Tran Hung Dao Street.",
-        "My address is180 Tran Hung Dao Street."
+        "My address is at 180 Tran Hung Dao Street.",
+        "My address is 180 Tran Hung Dao Street."
       ],
-      "correctAnswer": "My address is180 Tran Hung Dao Street."
+      "correctAnswer": "My address is 180 Tran Hung Dao Street."
     },
     {
       "id": 80,
