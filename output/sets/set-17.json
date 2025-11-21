@@ -1000,7 +1000,7 @@
     {
       "id": 105,
       "type": "fill-blank",
-      "question": "I like animals, so my favourite _______ is \\\\\"The World of Animals\\\\\"“Pána:”subject\t\tB. lesson\t\tC. programme\t\tD. programmes",
+      "question": "I like animals, so my favourite _______ is \"The World of Animals\".",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Capquanhuyen/De1/01-tng-44.jpg",
       "correctAnswer": "programme",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: programme**\n\n**Lý do:**\n- Câu nói về chương trình truyền hình yêu thích\n- 'my favourite programme' = chương trình yêu thích của tôi\n- 'programme' = chương trình (số ít)\n- Có hình ảnh kèm theo\n\n**Dịch nghĩa:** Tôi thích động vật, nên chương trình yêu thích của tôi là 'Thế giới động vật'.\n\n**Ghi nhớ:** programme = chương trình (TV programme), subject = môn học"
@@ -1146,9 +1146,9 @@
     {
       "id": 121,
       "type": "fill-blank",
-      "question": "Michel’s from England. He’s _ _ _ _ _ _ _ .",
-      "correctAnswer": "english",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: english**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Michel đến từ England (Anh)\n- 'He's English' = Anh ấy là người Anh\n- Quốc tịch viết hoa nhưng đáp án chấp nhận chữ thường\n\n**Dịch nghĩa:** Michel đến từ Anh. Anh ấy là người Anh.\n\n**Ghi nhớ:** England → English, France → French, America → American"
+      "question": "Michel's from England. He's _ _ _ _ _ _ _ .",
+      "correctAnswer": "English",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: English**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái: _ _ _ _ _ _ _\n- Michel đến từ England (Anh)\n- 'He's English' = Anh ấy là người Anh\n- Quốc tịch viết hoa\n\n**Dịch nghĩa:** Michel đến từ Anh. Anh ấy là người Anh.\n\n**Ghi nhớ:** England → English, France → French, America → American"
     },
     {
       "id": 122,
@@ -1356,7 +1356,7 @@
     },
     {
       "id": 142,
-      "type": "word-arrangement",
+      "type": "multiple-choice",
       "question": "Peter/not/play football/yesterday.",
       "options": [
         "Peter doesn't play football yesterday.",
@@ -1383,9 +1383,9 @@
     {
       "id": 144,
       "type": "word-arrangement",
-      "question": "when she goes to/ Linh will/ vist Melbourne/ Australia./",
-      "correctAnswer": "Linh will vist Melbourne when she goes to Australia.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Linh will vist Melbourne when she goes to Australia.**\n\n**Phân tích:**\n- Câu nói về kế hoạch tương lai\n- 'Linh will visit Melbourne' = Linh sẽ thăm Melbourne\n- 'when she goes to Australia' = khi cô ấy đến Úc\n\n**Dịch nghĩa:** Linh sẽ thăm Melbourne khi cô ấy đến Úc.\n\n**Ghi nhớ:** will + V = sẽ làm gì, when = khi"
+      "question": "when she goes to/ Linh will/ visit Melbourne/ Australia./",
+      "correctAnswer": "Linh will visit Melbourne when she goes to Australia.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Linh will visit Melbourne when she goes to Australia.**\n\n**Phân tích:**\n- Câu nói về kế hoạch tương lai\n- 'Linh will visit Melbourne' = Linh sẽ thăm Melbourne\n- 'when she goes to Australia' = khi cô ấy đến Úc\n\n**Dịch nghĩa:** Linh sẽ thăm Melbourne khi cô ấy đến Úc.\n\n**Ghi nhớ:** will + V = sẽ làm gì, when = khi"
     },
     {
       "id": 145,
