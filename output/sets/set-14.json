@@ -53,7 +53,7 @@
       "options": [
         "In the bedroom.",
         "In the living room.",
-        "In the classroom",
+        "In the classroom.",
         "In the kitchen."
       ],
       "correctAnswer": "In the kitchen.",
@@ -651,7 +651,7 @@
         "ø"
       ],
       "correctAnswer": "ø",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (Ø - không dùng giới từ)**\n\n**Lý do:**\n- Với địa chỉ cụ thể có số nhà và tên đường, không dùng giới từ\n- '201, Tran Hung Dao Street' = số 201, đường Trần Hưng Đạo\n- Nếu nói 'on Tran Hung Dao Street' thì được (chỉ đường)\n\n**Dịch nghĩa:** Địa chỉ của bạn là gì? - Số 201, đường Trần Hưng Đạo.\n\n**Ghi nhớ:** Địa chỉ số nhà + tên đường không dùng giới từ phía trước"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (Ø - không dùng giới từ)**\n\n**Lý do:**\n- Khi nói địa chỉ đầy đủ với số nhà, chúng ta không dùng giới từ\n- Ví dụ: It's 201, Tran Hung Dao Street (không có 'at', 'on', 'in')\n- Nhưng nếu chỉ nói về đường thì dùng 'on': I live on Tran Hung Dao Street\n- Và nếu nói về thành phố/quốc gia thì dùng 'in': I live in Hanoi\n\n**Dịch nghĩa:** Địa chỉ của bạn là gì? - Số 201, đường Trần Hưng Đạo.\n\n**Ghi nhớ:** Số nhà + đường = không giới từ; on + đường; in + thành phố"
     },
     {
       "id": 71,
@@ -770,7 +770,7 @@
     },
     {
       "id": 83,
-      "type": "odd-one-out",
+      "type": "multiple-choice",
       "question": "Choose the odd one out:",
       "options": [
         "Get dressed",
@@ -823,12 +823,12 @@
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/29/636160301159461519_Audio.mp3",
       "options": [
         "She raises a sheep.",
-        "She played Bingo.",
+        "She plays Bingo.",
         "She feeds an animal.",
         "She takes a selfie photo."
       ],
       "correctAnswer": "She feeds an animal.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She feeds an animal.**\n\n**Lý do:**\n- Câu hỏi: Cô ấy làm gì ở trang trại?\n- Cần nghe audio để biết\n- 'feeds an animal' = cho động vật ăn\n\n**Các đáp án khác:**\n- raises a sheep: nuôi cừu\n- played Bingo: chơi Bingo (quá khứ, không phù hợp)\n- takes a selfie: chụp ảnh tự sướng\n\n**Dịch nghĩa:** Cô ấy làm gì ở trang trại? - Cô ấy cho động vật ăn.\n\n**Ghi nhớ:** feed = cho ăn, feed an animal = cho động vật ăn"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She feeds an animal.**\n\n**Lý do:**\n- Câu hỏi: Cô ấy làm gì ở trang trại?\n- Cần nghe audio để biết\n- 'feeds an animal' = cho động vật ăn\n\n**Các đáp án khác:**\n- raises a sheep: nuôi cừu\n- plays Bingo: chơi Bingo (không phải việc làm trên trang trại)\n- takes a selfie: chụp ảnh tự sướng\n\n**Dịch nghĩa:** Cô ấy làm gì ở trang trại? - Cô ấy cho động vật ăn.\n\n**Ghi nhớ:** feed = cho ăn, feed an animal = cho động vật ăn"
     },
     {
       "id": 90,
@@ -964,17 +964,17 @@
         "my parents’ room"
       ],
       "correctAnswer": "my parents’ room",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (my parents' room)**\n\n**Lý do:**\n- Cấu trúc sở hữu cách với danh từ số nhiều: N số nhiều + '\n- 'my parents' room' = phòng của bố mẹ tôi\n- Parents đã có 's' rồi nên chỉ thêm '\n\n**Các đáp án khác:**\n- my room's parents: sai cấu trúc\n- my room' parents: sai cấu trúc\n- my parents's room: thừa 's'\n\n**Dịch nghĩa:** Phòng của bố mẹ tôi nhỏ.\n\n**Ghi nhớ:** N số nhiều (có s) + ' = sở hữu cách"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D (my parents' room)**\n\n**Lý do:**\n- Với danh từ số nhiều đã có 's' ở cuối (parents), chúng ta chỉ thêm dấu phẩy trên (') chứ không thêm 's nữa\n- Công thức: N số nhiều (có s) + ' = sở hữu cách\n- 'my parents' room' = phòng của bố mẹ tôi (đúng)\n- 'my parents's room' = sai vì thừa 's sau dấu phẩy trên\n\n**Các đáp án khác:**\n- my room's parents: sai cấu trúc (phòng không thể có bố mẹ)\n- my room' parents: sai cấu trúc\n- my parents's room: thừa 's' (sai quy tắc sở hữu cách)\n\n**Dịch nghĩa:** Phòng của bố mẹ tôi nhỏ.\n\n**Ghi nhớ:** Parents (có s) + ' = parents', Student (không có s) + 's = student's"
     },
     {
       "id": 103,
       "type": "multiple-choice",
       "question": "... my next birthday.",
       "options": [
-        "I am14 on",
-        "I will be14th",
-        "I will be14 on",
-        "I am going to be14 on"
+        "I am 14 on",
+        "I will be 14th",
+        "I will be 14 on",
+        "I am going to be 14 on"
       ],
       "correctAnswer": "I will be 14 on",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I will be 14 on**\n\n**Lý do:**\n- Nói về tuổi trong tương lai: will be + tuổi\n- Dùng 'on' trước ngày sinh nhật cụ thể\n- 'I will be 14 on my next birthday' = Tôi sẽ 14 tuổi vào sinh nhật tới\n\n**Các đáp án khác:**\n- I am 14 on: hiện tại (sai thời)\n- I will be 14th: sai (14th là số thứ tự)\n- I am going to be 14 on: dài dòng hơn\n\n**Dịch nghĩa:** Tôi sẽ 14 tuổi vào sinh nhật tới của tôi.\n\n**Ghi nhớ:** will be + tuổi, on + ngày cụ thể"
@@ -1093,7 +1093,7 @@
         "stand"
       ],
       "correctAnswer": "wash",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: wash**\n\n**Lý do:**\n- Các từ còn lại có 'a' phát âm là /æ/: have /hæv/, lamp /læmp/, stand /stænd/\n- Từ 'wash' có 'a' phát âm là /ɒ/ hoặc /ɑː/ (phụ thuộc giọng)\n\n**Dịch nghĩa:** Chọn từ có phần gạch chân phát âm khác.\n\n**Ghi nhớ:** wash /wɒʃ/ có âm 'a' đặc biệt"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: wash**\n\n**Lý do:**\n- Các từ còn lại có 'a' phát âm là /æ/: have /hæv/, lamp /læmp/, stand /stænd/\n- Từ 'wash' có 'a' phát âm là /ɒ/ (giọng Anh) hoặc /ɑː/ (giọng Mỹ): /wɒʃ/ hoặc /wɑːʃ/\n\n**Dịch nghĩa:** Chọn từ có phần gạch chân phát âm khác.\n\n**Ghi nhớ:** wash /wɒʃ/ có âm 'a' đặc biệt, khác với âm /æ/ thông thường"
     },
     {
       "id": 117,
@@ -1127,7 +1127,7 @@
     },
     {
       "id": 121,
-      "type": "odd-one-out",
+      "type": "multiple-choice",
       "question": "Choose the odd one out:",
       "options": [
         "A",
@@ -1216,7 +1216,7 @@
     },
     {
       "id": 130,
-      "type": "odd-one-out",
+      "type": "multiple-choice",
       "question": "Odd one out:",
       "options": [
         "strawberry",
@@ -1443,13 +1443,13 @@
       "type": "multiple-choice",
       "question": "That man works in a hospital. What does he do?",
       "options": [
-        "She is a patient.",
+        "He is a patient.",
         "He is a doctor.",
         "He is a teacher.",
-        "She is a nurse."
+        "He is a nurse."
       ],
       "correctAnswer": "He is a doctor.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: He is a doctor.**\n\n**Lý do:**\n- Câu nói: That man works in a hospital (người đàn ông đó làm việc ở bệnh viện)\n- Người làm việc ở bệnh viện là bác sĩ\n- 'He is a doctor' = Anh ấy là bác sĩ\n\n**Các đáp án khác:**\n- She is a patient: cô ấy là bệnh nhân (sai giới tính)\n- He is a teacher: anh ấy là giáo viên (sai nghề)\n- She is a nurse: cô ấy là y tá (sai giới tính)\n\n**Dịch nghĩa:** Người đàn ông đó làm việc ở bệnh viện. Anh ấy làm nghề gì? - Anh ấy là bác sĩ.\n\n**Ghi nhớ:** work in a hospital = làm việc ở bệnh viện"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: He is a doctor.**\n\n**Lý do:**\n- Câu nói: That man works in a hospital (người đàn ông đó làm việc ở bệnh viện)\n- Người làm việc ở bệnh viện là bác sĩ\n- 'He is a doctor' = Anh ấy là bác sĩ\n\n**Các đáp án khác:**\n- He is a patient: anh ấy là bệnh nhân (không đúng)\n- He is a teacher: anh ấy là giáo viên (sai nghề)\n- He is a nurse: anh ấy là y tá (có thể đúng nhưng không phổ biến bằng bác sĩ)\n\n**Dịch nghĩa:** Người đàn ông đó làm việc ở bệnh viện. Anh ấy làm nghề gì? - Anh ấy là bác sĩ.\n\n**Ghi nhớ:** work in a hospital = làm việc ở bệnh viện"
     },
     {
       "id": 158,
@@ -1596,7 +1596,7 @@
     {
       "id": 173,
       "type": "multiple-choice",
-      "question": "When is Women’s Day in Vietnam? – It’s …20th October.",
+      "question": "When is Vietnamese Women's Day? – It's …20th October.",
       "options": [
         "on",
         "in",

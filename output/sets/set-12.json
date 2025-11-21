@@ -14,7 +14,7 @@
         "walk"
       ],
       "correctAnswer": "teach",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: teach**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- eat: Không phù hợp với ngữ cảnh\n- listen: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: teach**\n\n**Lý do:**\n- Động từ kết thúc bằng -ch, -sh, -ss, -x, -o thêm \"-es\" ở ngôi thứ ba số ít\n- \"teach\" → \"teaches\" (thêm -es)\n- Các từ còn lại chỉ thêm \"-s\": eat → eats, listen → listens, walk → walks\n\n**Các đáp án khác:**\n- eat: Thêm \"-s\" (eats), không thêm \"-es\"\n- listen: Thêm \"-s\" (listens), không thêm \"-es\"\n- walk: Thêm \"-s\" (walks), không thêm \"-es\"\n\n**Dịch nghĩa:** Động từ nào thêm \"-es\" ở ngôi thứ ba?\n\n**Ghi nhớ:** Động từ kết thúc bằng -ch, -sh, -ss, -x, -o thêm \"-es\" (teach → teaches, wash → washes)"
     },
     {
       "id": 2,
@@ -36,14 +36,24 @@
       "question": "I learn English to sing English s_ _ _ s.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/2-dt-21.jpg",
       "correctAnswer": "ong",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ong**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ong = ong"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ong**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ong = ong",
+      "vocabulary": {
+        "word": "songs",
+        "translation": "những bài hát",
+        "meaning": "pieces of music with words that are sung"
+      }
     },
     {
       "id": 4,
       "type": "fill-blank",
       "question": "DEN_ IST",
       "correctAnswer": "T",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: T**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** T = T"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: T**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** T = T",
+      "vocabulary": {
+        "word": "dentist",
+        "translation": "nha sĩ",
+        "meaning": "a person who treats teeth and mouth problems"
+      }
     },
     {
       "id": 5,
@@ -57,7 +67,7 @@
         "They are going to buy a fountain pen next week."
       ],
       "correctAnswer": "They are going to the mountain next week.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are going to the mountain next week.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- They are going to tidy their garden next week.: Không phù hợp với ngữ cảnh\n- They are going to the mountain next week.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are going to the mountain next week.**\n\n**Lý do:**\n- Đáp án đúng dựa trên nội dung nghe\n- Cấu trúc \"be going to\" diễn tả kế hoạch tương lai\n\n**Các đáp án khác:**\n- They are going to tidy their garden next week.: Không đúng với nội dung nghe\n- They are going to climb to the mountain next week.: Không đúng với nội dung nghe\n- They are going to buy a fountain pen next week.: Không đúng với nội dung nghe\n\n**Dịch nghĩa:** Họ sẽ đi lên núi vào tuần tới.\n\n**Ghi nhớ:** \"be going to\" + động từ nguyên mẫu = dự định, kế hoạch"
     },
     {
       "id": 6,
@@ -83,7 +93,7 @@
         "for"
       ],
       "correctAnswer": "on",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: on**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- at: Không phù hợp với ngữ cảnh\n- in: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Khi nào is your birthday? - It is ... May10th.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: on**\n\n**Lý do:**\n- Dùng giới từ \"on\" với các ngày cụ thể (specific dates)\n- \"on May 10th\" = \"vào ngày 10 tháng 5\"\n- Cấu trúc: on + ngày tháng cụ thể\n\n**Các đáp án khác:**\n- at: Dùng với thời điểm cụ thể (at 3 o'clock)\n- in: Dùng với tháng, năm, mùa (in May, in 2023)\n- for: Dùng với khoảng thời gian (for 3 days)\n\n**Dịch nghĩa:** Sinh nhật của bạn là khi nào? - Vào ngày 10 tháng 5.\n\n**Ghi nhớ:** Dùng \"on\" với ngày cụ thể: on May 10th, on Monday, on Christmas Day"
     },
     {
       "id": 8,
@@ -111,49 +121,59 @@
       "type": "fill-blank",
       "question": "There _ _ a flower vase on the table.",
       "correctAnswer": "is",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** is = là"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành câu \"There is\" (có)\n- Dùng \"is\" với danh từ số ít \"a flower vase\" (một lọ hoa)\n\n**Dịch nghĩa:** Có một lọ hoa trên bàn.\n\n**Ghi nhớ:** is = là, \"There is\" + danh từ số ít"
     },
     {
       "id": 11,
       "type": "fill-blank",
       "question": "FI_ GER",
       "correctAnswer": "N",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** N = N"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** N = N",
+      "vocabulary": {
+        "word": "finger",
+        "translation": "ngón tay",
+        "meaning": "one of the five parts at the end of the hand"
+      }
     },
     {
       "id": 12,
       "type": "fill-blank",
       "question": "I’m thirsty. I’d _ _ _ _ some orange juice, please.",
       "correctAnswer": "like",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: like**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** like = thích"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: like**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành cụm \"I'd like\" = \"I would like\" (tôi muốn)\n- Cấu trúc lịch sự để yêu cầu hoặc nói muốn cái gì\n\n**Dịch nghĩa:** Tôi khát. Tôi muốn một ít nước cam, làm ơn.\n\n**Ghi nhớ:** I'd like = I would like = tôi muốn (cách nói lịch sự)"
     },
     {
       "id": 13,
       "type": "fill-blank",
       "question": "I go to school five da_ _ from Monday to Friday.",
       "correctAnswer": "ys",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ys**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ys = ys"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ys**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ \"days\" (ngày)\n- da + ys = days (những ngày)\n\n**Dịch nghĩa:** Tôi đi học năm ngày từ thứ Hai đến thứ Sáu.\n\n**Ghi nhớ:** ys → days = những ngày"
     },
     {
       "id": 14,
       "type": "fill-blank",
       "question": "How lo_ _ does it take? -30 minutes.",
       "correctAnswer": "ng",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ng**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Như thế nào long ng does it take? -30 minutes.\n\n**Ghi nhớ:** ng = ng"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ng**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ \"long\" (dài, lâu)\n- Cấu trúc \"How long does it take?\" hỏi về thời gian\n\n**Dịch nghĩa:** Mất bao lâu? - 30 phút.\n\n**Ghi nhớ:** ng → long = dài/lâu, \"How long\" = mất bao lâu"
     },
     {
       "id": 15,
       "type": "fill-blank",
       "question": "DIAL_ GUE",
       "correctAnswer": "O",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** O = O"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** O = O",
+      "vocabulary": {
+        "word": "dialogue",
+        "translation": "đoạn hội thoại",
+        "meaning": "a conversation between two or more people"
+      }
     },
     {
       "id": 16,
       "type": "fill-blank",
-      "question": "Don’t buy those shoes. They _ _ _ too expensive.",
+      "question": "Don't buy those shoes. They _ _ _ too expensive.",
       "correctAnswer": "are",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: are**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Don’t buy those shoes. Họ đang are are too expensive.\n\n**Ghi nhớ:** are = là (số nhiều)"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: are**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành động từ \"are\" (là) với chủ ngữ số nhiều \"they\"\n- \"They are too expensive\" = \"Chúng quá đắt\"\n\n**Dịch nghĩa:** Đừng mua đôi giày đó. Chúng quá đắt.\n\n**Ghi nhớ:** are = là (số nhiều), dùng với \"they, we, you\""
     },
     {
       "id": 17,
@@ -181,7 +201,7 @@
       "type": "fill-blank",
       "question": "The python is long and moves quietl_ .",
       "correctAnswer": "y",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: y**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** y = y"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: y**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ \"quietly\" (yên lặng, lặng lẽ)\n- quiet + ly = quietly (trạng từ)\n\n**Dịch nghĩa:** Con trăn dài và di chuyển lặng lẽ.\n\n**Ghi nhớ:** y → quietly = yên lặng, lặng lẽ"
     },
     {
       "id": 21,
@@ -194,7 +214,7 @@
         "ringing"
       ],
       "correctAnswer": "reading",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: reading**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- singing: Không phù hợp với ngữ cảnh\n- teaching: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì’s your sister doing? She’s ... a book.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: reading**\n\n**Lý do:**\n- \"reading a book\" = \"đọc sách\" là cụm từ đúng\n- Thì hiện tại tiếp diễn: What's = What is (đang làm gì)\n- She's = She is (cô ấy đang)\n\n**Các đáp án khác:**\n- singing: Hát (không đi với \"a book\")\n- teaching: Dạy (không phù hợp ngữ cảnh)\n- ringing: Rung chuông (không phù hợp)\n\n**Dịch nghĩa:** Chị/Em gái của bạn đang làm gì? - Cô ấy đang đọc sách.\n\n**Ghi nhớ:** read a book = đọc sách, thì hiện tại tiếp diễn diễn tả hành động đang xảy ra"
     },
     {
       "id": 22,
@@ -234,15 +254,15 @@
     {
       "id": 26,
       "type": "multiple-choice",
-      "question": "- I’ve got a toothache. - Let me have a ….",
+      "question": "- I've got a toothache. - Let me have a ….",
       "options": [
         "rest",
         "take",
         "see",
         "look"
       ],
-      "correctAnswer": "rest",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: rest**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- take: Không phù hợp với ngữ cảnh\n- see: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "correctAnswer": "look",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: look**\n\n**Lý do:**\n- Cụm từ \"Let me have a look\" = \"Hãy để tôi xem\" là cách nói phổ biến khi muốn kiểm tra vấn đề của ai đó\n- Phù hợp với ngữ cảnh khi ai đó bị đau răng\n\n**Các đáp án khác:**\n- rest: \"Let me have a rest\" nghĩa là \"để tôi nghỉ ngơi\" - không phù hợp\n- take: Không đi với \"have a\" trong ngữ cảnh này\n- see: Không tạo thành cụm từ đúng với \"have a\"\n\n**Dịch nghĩa:** - Tôi bị đau răng. - Hãy để tôi xem.\n\n**Ghi nhớ:** \"Let me have a look\" = \"Hãy để tôi xem\""
     },
     {
       "id": 27,
@@ -267,9 +287,9 @@
     {
       "id": 29,
       "type": "fill-blank",
-      "question": "What’s your _ _ _ _ of birth? – May6th.",
+      "question": "What's your _ _ _ _ of birth? – May6th.",
       "correctAnswer": "date",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: date**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì’s your date date date date of birth? – May6th.\n\n**Ghi nhớ:** date = ngày"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: date**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành cụm \"date of birth\" (ngày sinh)\n- What's = What is (cái gì là)\n\n**Dịch nghĩa:** Ngày sinh của bạn là ngày nào? - Ngày 6 tháng 5.\n\n**Ghi nhớ:** date = ngày, \"date of birth\" = ngày sinh"
     },
     {
       "id": 30,
@@ -297,7 +317,7 @@
       "type": "word-arrangement",
       "question": "is/ He/ school./ late/ for/",
       "correctAnswer": "He is late for school.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: He is late for school.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Anh ấy đang late for school.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: He is late for school.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n- \"be late for\" = \"đến muộn, trễ\"\n\n**Dịch nghĩa:** Anh ấy đến trường muộn.\n\n**Ghi nhớ:** \"be late for\" = đến muộn (He is late for school = Anh ấy đến trường muộn)"
     },
     {
       "id": 34,
@@ -315,9 +335,9 @@
     {
       "id": 35,
       "type": "fill-blank",
-      "question": "His brother always stays up late. It means ’’His brother _ _ _ _ _ goes to bed early.’’",
+      "question": "His brother always stays up late. It means ''His brother _ _ _ _ _ goes to bed early.''",
       "correctAnswer": "never",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: never**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** never = never"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: never**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- \"always stays up late\" (luôn thức khuya) nghĩa là \"never goes to bed early\" (không bao giờ đi ngủ sớm)\n- \"never\" là trạng từ phủ định, trái nghĩa với \"always\"\n\n**Dịch nghĩa:** Anh trai của anh ấy luôn thức khuya. Điều đó có nghĩa là \"Anh trai của anh ấy không bao giờ đi ngủ sớm.\"\n\n**Ghi nhớ:** never = không bao giờ, trái nghĩa với always (luôn luôn)"
     },
     {
       "id": 36,
@@ -348,16 +368,21 @@
     {
       "id": 38,
       "type": "fill-blank",
-      "question": "Where are you? – I’m upstairs. I’m _ _ _ _ _ _ a bath.",
+      "question": "Where are you? – I'm upstairs. I'm _ _ _ _ _ _ a bath.",
       "correctAnswer": "having",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: having**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Ở đâu are you? – I’m upstairs. I’m having having having having having having a bath.\n\n**Ghi nhớ:** having = having"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: having**\n\n**Lý do:**\n- Từ cần điền có 6 chữ cái\n- Cụm \"have a bath\" = \"tắm\"\n- Thì hiện tại tiếp diễn: I'm having = I am having (tôi đang tắm)\n\n**Dịch nghĩa:** Bạn ở đâu? - Tôi ở trên lầu. Tôi đang tắm.\n\n**Ghi nhớ:** have a bath = tắm, \"I'm having a bath\" = tôi đang tắm"
     },
     {
       "id": 39,
       "type": "fill-blank",
       "question": "NU_ BER",
       "correctAnswer": "M",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** M = M"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** M = M",
+      "vocabulary": {
+        "word": "number",
+        "translation": "số",
+        "meaning": "a word or symbol that represents an amount or position in a series"
+      }
     },
     {
       "id": 40,
@@ -383,7 +408,7 @@
         "dance"
       ],
       "correctAnswer": "dancer",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: dancer**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- dances: Không phù hợp với ngữ cảnh\n- dancing: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** She dances on the stage. Cô ấy đang a ....\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: dancer**\n\n**Lý do:**\n- \"dancer\" = \"vũ công\" (danh từ chỉ nghề nghiệp)\n- Cấu trúc: She is a + nghề nghiệp\n- \"dance\" (động từ) + \"-er\" = \"dancer\" (danh từ)\n\n**Các đáp án khác:**\n- dances: Động từ chia, không phải danh từ\n- dancing: V-ing, không đi với \"a\"\n- dance: Động từ hoặc danh từ \"điệu nhảy\", không đúng nghĩa\n\n**Dịch nghĩa:** Cô ấy nhảy trên sân khấu. Cô ấy là một vũ công.\n\n**Ghi nhớ:** dancer = vũ công, động từ + \"-er\" = người làm nghề đó"
     },
     {
       "id": 42,
@@ -398,14 +423,24 @@
       "question": "s_ _ aight",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/dientu/dt-32.mp3",
       "correctAnswer": "tr",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: tr**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** tr = tr"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: tr**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** tr = tr",
+      "vocabulary": {
+        "word": "straight",
+        "translation": "thẳng",
+        "meaning": "not curved or bent; extending in one direction"
+      }
     },
     {
       "id": 44,
       "type": "fill-blank",
       "question": "SCIE_ CE",
       "correctAnswer": "N",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** N = N"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: N**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** N = N",
+      "vocabulary": {
+        "word": "science",
+        "translation": "khoa học",
+        "meaning": "the study of the physical and natural world through observation and experiment"
+      }
     },
     {
       "id": 45,
@@ -418,14 +453,14 @@
         "many / have"
       ],
       "correctAnswer": "much / is",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: much / is**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- much / are: Không phù hợp với ngữ cảnh\n- many / are: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Như thế nào ... sugar ... there in the glass?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: much / is**\n\n**Lý do:**\n- \"much\" dùng với danh từ không đếm được như \"sugar\" (đường)\n- \"is\" dùng với danh từ số ít/không đếm được\n- \"How much\" hỏi về số lượng danh từ không đếm được\n\n**Các đáp án khác:**\n- much / are: \"are\" dùng cho số nhiều, không đúng với \"sugar\"\n- many / are: \"many\" dùng cho danh từ đếm được số nhiều\n- many / have: Sai cấu trúc\n\n**Dịch nghĩa:** Có bao nhiêu đường trong cốc?\n\n**Ghi nhớ:** \"How much\" + danh từ không đếm được + \"is\", \"How many\" + danh từ đếm được + \"are\""
     },
     {
       "id": 46,
       "type": "word-arrangement",
       "question": "They are/ playing/ the classroom./ in/ chess/",
       "correctAnswer": "They are playing chess in the classroom.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are playing chess in the classroom.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Họ đang playing chess in the classroom.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are playing chess in the classroom.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n- Thì hiện tại tiếp diễn: They are playing (họ đang chơi)\n\n**Dịch nghĩa:** Họ đang chơi cờ trong lớp học.\n\n**Ghi nhớ:** play chess = chơi cờ, in the classroom = trong lớp học"
     },
     {
       "id": 47,
@@ -471,14 +506,19 @@
         "library"
       ],
       "correctAnswer": "library",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- post office: Không phù hợp với ngữ cảnh\n- café: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- post office: Không phù hợp với ngữ cảnh\n- café: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu",
+      "vocabulary": {
+        "word": "library",
+        "translation": "thư viện",
+        "meaning": "a building or room containing books that can be read or borrowed"
+      }
     },
     {
       "id": 51,
       "type": "fill-blank",
       "question": "What’s your friend’s _ _ _ _ ? – He’s Henry.",
       "correctAnswer": "name",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: name**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì’s your friend’s name name name name ? – He’s Henry.\n\n**Ghi nhớ:** name = tên"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: name**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì’s your friend’s name name name name ? – He’s Henry.\n\n**Ghi nhớ:** name = tên, \"What's your friend's name?\" = \"Tên bạn của bạn là gì?\""
     },
     {
       "id": 52,
@@ -511,7 +551,12 @@
       "type": "fill-blank",
       "question": "LE_ ON",
       "correctAnswer": "M",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** M = M"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: M**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** M = M",
+      "vocabulary": {
+        "word": "lemon",
+        "translation": "quả chanh",
+        "meaning": "a yellow citrus fruit with sour juice"
+      }
     },
     {
       "id": 55,
@@ -519,14 +564,14 @@
       "question": "What are Tom and his uncle doing? – They are playing _ _ _ _ _ .",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/5/636507089827844948_Audio.mp3",
       "correctAnswer": "chess",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: chess**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** What are Tom and his uncle doing? – Họ đang playing chess chess chess chess chess .\n\n**Ghi nhớ:** chess = chess"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: chess**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Tom và chú của cậu ấy đang làm gì? - Họ đang chơi cờ.\n\n**Ghi nhớ:** chess = cờ (vua), \"play chess\" = \"chơi cờ\""
     },
     {
       "id": 56,
       "type": "word-arrangement",
       "question": "Nha Trang/ by airplane./ We often/ travel to/ on summer/",
-      "correctAnswer": "We often travel to Nha Trang on summer by airplane.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: We often travel to Nha Trang on summer by airplane.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "correctAnswer": "We often travel to Nha Trang in summer by airplane.",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: We often travel to Nha Trang in summer by airplane.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n- Dùng \"in summer\" (vào mùa hè) chứ không phải \"on summer\"\n- Dùng \"by airplane\" để chỉ phương tiện di chuyển\n\n**Dịch nghĩa:** Chúng tôi thường đi du lịch Nha Trang vào mùa hè bằng máy bay.\n\n**Ghi nhớ:** Dùng \"in\" với các mùa (in summer, in winter), dùng \"by\" với phương tiện (by airplane, by train)"
     },
     {
       "id": 57,
@@ -559,7 +604,12 @@
       "type": "fill-blank",
       "question": "S_ ADIUM",
       "correctAnswer": "T",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: T**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** T = T"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: T**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** T = T",
+      "vocabulary": {
+        "word": "stadium",
+        "translation": "sân vận động",
+        "meaning": "a large building where sports events are held"
+      }
     },
     {
       "id": 60,
@@ -579,7 +629,12 @@
         "speakers"
       ],
       "correctAnswer": "entertainers",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: entertainers**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- workers: Không phù hợp với ngữ cảnh\n- businessmen: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: entertainers**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- workers: Không phù hợp với ngữ cảnh\n- businessmen: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu",
+      "vocabulary": {
+        "word": "entertainer",
+        "translation": "người biểu diễn",
+        "meaning": "a person who performs to entertain others"
+      }
     },
     {
       "id": 62,
@@ -592,14 +647,14 @@
         "do"
       ],
       "correctAnswer": "do",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- make: Không phù hợp với ngữ cảnh\n- go: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Bạn có ... your homework in the afternoon?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- make: Không phù hợp với ngữ cảnh\n- go: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Bạn có làm bài tập về nhà vào buổi chiều không?\n\n**Ghi nhớ:** \"do homework\" = làm bài tập về nhà, \"Do you...?\" = câu hỏi Yes/No"
     },
     {
       "id": 63,
       "type": "fill-blank",
       "question": "When do you have Hi_ _ _ _ _ ? – On Tuesday.",
       "correctAnswer": "story",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: story**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Khi nào do you have History story story story story ? – On Tuesday.\n\n**Ghi nhớ:** story = story"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: story**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Khi nào bạn có môn Lịch sử? - Vào thứ Ba. – On Tuesday.\n\n**Ghi nhớ:** story → History = Lịch sử (môn học)"
     },
     {
       "id": 64,
@@ -620,7 +675,7 @@
       "type": "fill-blank",
       "question": "They always have Litera_ _ _ _ on Monday.",
       "correctAnswer": "ture",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ture**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ture = ture"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ture**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ture → Literature = Văn học (môn học)"
     },
     {
       "id": 67,
@@ -632,15 +687,15 @@
         "dog",
         "fan"
       ],
-      "correctAnswer": "Chọn ý: D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Từ này khác về nhóm từ hoặc ý nghĩa so với các từ còn lại\n- Các từ còn lại thuộc cùng một nhóm\n\n**Ghi nhớ:** Tìm điểm khác biệt giữa các từ"
+      "correctAnswer": "fan",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fan**\n\n**Lý do:**\n- \"fan\" (quạt) là đồ vật, vật dụng\n- Các từ còn lại đều là động vật: \"bird\" (chim), \"frog\" (ếch), \"dog\" (chó)\n- \"fan\" khác biệt về nhóm từ so với các từ còn lại\n\n**Ghi nhớ:** Tìm điểm khác biệt giữa các từ - 3 từ là động vật, 1 từ là đồ vật"
     },
     {
       "id": 68,
       "type": "fill-blank",
       "question": "Is her ruler red _ _ white?",
       "correctAnswer": "or",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: or**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** or = or"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: or**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** or = hoặc (liên từ chỉ sự lựa chọn)"
     },
     {
       "id": 69,
@@ -725,7 +780,7 @@
         "get in"
       ],
       "correctAnswer": "get to",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: get to**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- get from: Không phù hợp với ngữ cảnh\n- got at: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Như thế nào did your family … your hometown on Tet holiday? – We came back by train.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: get to**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- get from: Không phù hợp với ngữ cảnh\n- got at: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Gia đình bạn đã về quê như thế nào vào dịp Tết? - Chúng tôi đi tàu. – We came back by train.\n\n**Ghi nhớ:** \"get to\" = đến, \"by train\" = bằng tàu hỏa"
     },
     {
       "id": 76,
@@ -738,8 +793,8 @@
       "id": 77,
       "type": "word-arrangement",
       "question": "What do/ short stories?/ prefer,/ you/ fary tales or/",
-      "correctAnswer": "What do you prefer, fary tales or short stories?",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you prefer, fary tales or short stories?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Cái gì do you prefer, fary tales or short stories?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "correctAnswer": "What do you prefer, fairy tales or short stories?",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you prefer, fairy tales or short stories?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n- \"fairy tales\" (truyện cổ tích) viết đúng chính tả\n\n**Dịch nghĩa:** Bạn thích gì hơn, truyện cổ tích hay truyện ngắn?\n\n**Ghi nhớ:** \"prefer\" = thích hơn, \"fairy tales\" = truyện cổ tích, \"short stories\" = truyện ngắn"
     },
     {
       "id": 78,
@@ -747,14 +802,14 @@
       "question": "The Story of Thanh Giong is abou_ a little boy named Giong.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-dt-47.jpg",
       "correctAnswer": "t",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: t**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** t = t"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: t**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** t → about = về"
     },
     {
       "id": 79,
       "type": "fill-blank",
       "question": "My children _ _ skiing every winter.",
       "correctAnswer": "go",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: go**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** go = go"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: go**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** go → go skiing = đi trượt tuyết"
     },
     {
       "id": 80,
@@ -788,7 +843,12 @@
       "type": "fill-blank",
       "question": "NU_ SE",
       "correctAnswer": "R",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** R = R"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** R = R",
+      "vocabulary": {
+        "word": "nurse",
+        "translation": "y tá",
+        "meaning": "a person trained to care for sick or injured people"
+      }
     },
     {
       "id": 84,
@@ -829,7 +889,7 @@
         "some bread"
       ],
       "correctAnswer": "a drink",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a drink**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- some meat: Không phù hợp với ngữ cảnh\n- some potatoes: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cô ấy đang thirsty. It also means she wants ....\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a drink**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- some meat: Không phù hợp với ngữ cảnh\n- some potatoes: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cô ấy khát nước. Điều đó cũng có nghĩa là cô ấy muốn đồ uống. It also means she wants ....\n\n**Ghi nhớ:** thirsty = khát nước, a drink = đồ uống"
     },
     {
       "id": 88,
@@ -842,7 +902,7 @@
         "They are skip ropes."
       ],
       "correctAnswer": "They are skipping ropes.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are skipping ropes.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- They skip ropes.: Không phù hợp với ngữ cảnh\n- They are skipping ropes.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì are they doing?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are skipping ropes.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- They skip ropes.: Không phù hợp với ngữ cảnh\n\n\n**Dịch nghĩa:** Họ đang làm gì?\n\n**Ghi nhớ:** Thì hiện tại tiếp diễn: \"are + V-ing\" diễn tả hành động đang xảy ra"
     },
     {
       "id": 89,
@@ -869,14 +929,14 @@
       "type": "fill-blank",
       "question": "Tom plays football from5 to6 pm, but Mary r_ _ _ _ books.",
       "correctAnswer": "eads",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: eads**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** eads = eads"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: eads**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** eads → reads = đọc"
     },
     {
       "id": 92,
       "type": "fill-blank",
       "question": "Does he live at54 Tay Son Street _ _ _ _ his uncle and aunt?",
       "correctAnswer": "with",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: with**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** with = with"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: with**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** with = với, cùng với"
     },
     {
       "id": 93,
@@ -896,7 +956,7 @@
         "are"
       ],
       "correctAnswer": "does",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: does**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- do: Không phù hợp với ngữ cảnh\n- is: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Như thế nào ... Lan feel?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: does**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- do: Không phù hợp với ngữ cảnh\n- is: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Lan cảm thấy thế nào?\n\n**Ghi nhớ:** \"How does + chủ ngữ + feel?\" hỏi về cảm giác, cảm xúc"
     },
     {
       "id": 95,
@@ -916,21 +976,26 @@
       "type": "fill-blank",
       "question": "Don't pl_ y video games too much.",
       "correctAnswer": "a",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** a = a"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** a → play = chơi"
     },
     {
       "id": 97,
       "type": "fill-blank",
       "question": "During dinner, we often talk _ _ _ _ _ our everyday activities.",
       "correctAnswer": "about",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: about**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** about = về"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: about**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** about = về, talk about = nói về"
     },
     {
       "id": 98,
       "type": "fill-blank",
       "question": "BE_ IN",
       "correctAnswer": "G",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: G**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** G = G"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: G**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** G = G",
+      "vocabulary": {
+        "word": "begin",
+        "translation": "bắt đầu",
+        "meaning": "to start or commence something"
+      }
     },
     {
       "id": 99,
@@ -944,14 +1009,19 @@
         "There is a dog at the school gate."
       ],
       "correctAnswer": "There is a clock on the school wall.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: There is a clock on the school wall.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- There is a clock on the school wall.: Không phù hợp với ngữ cảnh\n- There is a knock on the school gate.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: There is a clock on the school wall.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n\n- There is a knock on the school gate.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 100,
       "type": "fill-blank",
       "question": "BE_ OW",
       "correctAnswer": "L",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** L = L"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** L = L",
+      "vocabulary": {
+        "word": "below",
+        "translation": "bên dưới",
+        "meaning": "at a lower position or level than something"
+      }
     },
     {
       "id": 101,
@@ -971,7 +1041,7 @@
       "type": "fill-blank",
       "question": "He _ _ a clever and brave boy.",
       "correctAnswer": "is",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Anh ấy đang is a clever and brave boy.\n\n**Ghi nhớ:** is = là"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cậu ấy là một cậu bé thông minh và dũng cảm.\n\n**Ghi nhớ:** is = là"
     },
     {
       "id": 103,
@@ -985,7 +1055,7 @@
       "type": "fill-blank",
       "question": "My grandparents li_ _ in a village.",
       "correctAnswer": "ve",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ve**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ve = ve"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ve**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ve → live = sống"
     },
     {
       "id": 105,
@@ -999,7 +1069,12 @@
       "type": "fill-blank",
       "question": "CLO_ D",
       "correctAnswer": "U",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** U = U"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: U**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** U = U",
+      "vocabulary": {
+        "word": "cloud",
+        "translation": "đám mây",
+        "meaning": "a white or gray mass of water drops or ice floating in the sky"
+      }
     },
     {
       "id": 107,
@@ -1033,7 +1108,7 @@
       "type": "fill-blank",
       "question": "It’s hot. _ _ _ _ the window, please.",
       "correctAnswer": "open",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: open**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** open = open"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: open**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** open → Open = mở"
     },
     {
       "id": 111,
@@ -1053,21 +1128,26 @@
       "type": "fill-blank",
       "question": "M_ NEY",
       "correctAnswer": "O",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** O = O"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: O**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** O = O",
+      "vocabulary": {
+        "word": "money",
+        "translation": "tiền",
+        "meaning": "coins or notes used to buy things"
+      }
     },
     {
       "id": 113,
       "type": "fill-blank",
       "question": "I want to see the animals. Let’s go to the _ _ _ .",
       "correctAnswer": "zoo",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: zoo**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** zoo = zoo"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: zoo**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** zoo → zoo = vườn thú"
     },
     {
       "id": 114,
       "type": "fill-blank",
       "question": "Your mother’s sister is your _ _ _ _ .",
       "correctAnswer": "aunt",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: aunt**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** aunt = aunt"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: aunt**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** aunt → aunt = dì, cô, bác gái"
     },
     {
       "id": 115,
@@ -1102,7 +1182,7 @@
       "type": "fill-blank",
       "question": "What’s _ _ _ _ _ to drink? - There is some orange juice.",
       "correctAnswer": "there",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: there**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì’s there there there there there to drink? - There is some orange juice.\n\n**Ghi nhớ:** there = there"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: there**\n\n**Lý do:**\n- Từ cần điền có 5 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì’s there there there there there to drink? - There is some orange juice.\n\n**Ghi nhớ:** there = có (ở đó), \"What's there to drink?\" = \"Có gì để uống?\""
     },
     {
       "id": 119,
@@ -1136,14 +1216,14 @@
         "America"
       ],
       "correctAnswer": "the UK",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: the UK**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- the US: Không phù hợp với ngữ cảnh\n- England: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Anh ấy đang from … .\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: the UK**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- the US: Không phù hợp với ngữ cảnh\n- England: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Anh ấy đến từ Vương quốc Anh.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 122,
       "type": "fill-blank",
       "question": "When is your bir_ _ day?",
       "correctAnswer": "th",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: th**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Khi nào is your birth th day?\n\n**Ghi nhớ:** th = th"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: th**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Sinh nhật của bạn là khi nào?\n\n**Ghi nhớ:** th → birthday = sinh nhật"
     },
     {
       "id": 123,
@@ -1170,7 +1250,12 @@
       "type": "fill-blank",
       "question": "COR_ ECT",
       "correctAnswer": "R",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** R = R"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: R**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** R = R",
+      "vocabulary": {
+        "word": "correct",
+        "translation": "đúng",
+        "meaning": "right or accurate; without mistakes"
+      }
     },
     {
       "id": 126,
@@ -1197,7 +1282,7 @@
         "in"
       ],
       "correctAnswer": "in",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- in front of: Không phù hợp với ngữ cảnh\n- under: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Ở đâu is my cup of tea? - It’s … the kitchen.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- in front of: Không phù hợp với ngữ cảnh\n- under: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Tách trà của tôi ở đâu? - Nó ở trong bếp. - It’s … the kitchen.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 129,
@@ -1211,7 +1296,7 @@
       "type": "fill-blank",
       "question": "During Vietnam_ _ _ lessons, we read short stories and write essays.",
       "correctAnswer": "ese",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ese**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ese = ese"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ese**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ese → Vietnamese = tiếng Việt"
     },
     {
       "id": 131,
@@ -1226,7 +1311,7 @@
       "question": "I went to the bake_ _ to buy some bread.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/2-dt-39.jpg",
       "correctAnswer": "ry",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ry**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ry = ry"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ry**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ry → bakery = tiệm bánh"
     },
     {
       "id": 133,
@@ -1239,7 +1324,7 @@
         "I also"
       ],
       "correctAnswer": "Me too",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Me too**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- For me the same: Không phù hợp với ngữ cảnh\n- Also me: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Tôi đang very tired. - ….\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Me too**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- For me the same: Không phù hợp với ngữ cảnh\n- Also me: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Tôi rất mệt. - Tôi cũng vậy. - ….\n\n**Ghi nhớ:** \"Me too\" = \"Tôi cũng vậy\" (đồng ý với câu khẳng định)"
     },
     {
       "id": 134,
@@ -1267,7 +1352,7 @@
       "type": "fill-blank",
       "question": "After dinner, Linda and Susan will go for a w_ lk together.",
       "correctAnswer": "a",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** a = a"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: a**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** a → walk = đi bộ"
     },
     {
       "id": 137,
@@ -1281,7 +1366,7 @@
         "She has blonde and black hair."
       ],
       "correctAnswer": "She has long and black hair.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She has long and black hair.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- She has long and black hair.: Không phù hợp với ngữ cảnh\n- She has strong and black hair.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: She has long and black hair.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n\n- She has strong and black hair.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 138,
@@ -1295,14 +1380,14 @@
       "type": "fill-blank",
       "question": "When _ _ _ _ you born?",
       "correctAnswer": "were",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: were**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Khi nào were were were were you born?\n\n**Ghi nhớ:** were = were"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: were**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Bạn sinh ra khi nào?\n\n**Ghi nhớ:** were = đã (quá khứ của \"are\"), \"were born\" = \"được sinh ra\""
     },
     {
       "id": 140,
       "type": "fill-blank",
       "question": "How _ _ _ _ is this pair of trousers? - It is290.000 dong.",
       "correctAnswer": "much",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: much**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Như thế nào much much much much is this pair of trousers? - It is290.000 dong.\n\n**Ghi nhớ:** much = nhiều"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: much**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Chiếc quần này giá bao nhiêu? - 290.000 đồng. - It is290.000 dong.\n\n**Ghi nhớ:** \"How much\" hỏi về giá tiền, \"pair of trousers\" = cái quần"
     },
     {
       "id": 141,
@@ -1316,7 +1401,7 @@
         "They are playing volleyball."
       ],
       "correctAnswer": "They are playing football.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are playing football.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- They are playing football.: Không phù hợp với ngữ cảnh\n- They are playing baseball.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì are they doing?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are playing football.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n\n- They are playing baseball.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Họ đang làm gì?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 142,
@@ -1336,14 +1421,14 @@
         "last night"
       ],
       "correctAnswer": "in the morning",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in the morning**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- in the future: Không phù hợp với ngữ cảnh\n- at the moment: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì do you often do …?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in the morning**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- in the future: Không phù hợp với ngữ cảnh\n- at the moment: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Bạn thường làm gì vào buổi sáng?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 144,
       "type": "word-arrangement",
       "question": "you do/ do/ in/ What/ the evening?/",
       "correctAnswer": "What do you do in the evening?",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you do in the evening?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Cái gì do you do in the evening?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What do you do in the evening?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Bạn làm gì vào buổi tối?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
     {
       "id": 145,
@@ -1356,14 +1441,19 @@
         "on"
       ],
       "correctAnswer": "in",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- at: Không phù hợp với ngữ cảnh\n- from: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Ở đâu … Korea do they come from?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- at: Không phù hợp với ngữ cảnh\n- from: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Họ đến từ đâu ở Hàn Quốc?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 146,
       "type": "fill-blank",
       "question": "TO_ AY",
       "correctAnswer": "D",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: D**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** D = D"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: D**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** D = D",
+      "vocabulary": {
+        "word": "today",
+        "translation": "hôm nay",
+        "meaning": "this present day"
+      }
     },
     {
       "id": 147,
@@ -1417,7 +1507,12 @@
         "favorite"
       ],
       "correctAnswer": "favorite",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- hate: Không phù hợp với ngữ cảnh\n- love: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- hate: Không phù hợp với ngữ cảnh\n- love: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu",
+      "vocabulary": {
+        "word": "favorite",
+        "translation": "yêu thích",
+        "meaning": "preferred or liked more than others"
+      }
     },
     {
       "id": 152,
@@ -1457,7 +1552,7 @@
         "There are on the shelf"
       ],
       "correctAnswer": "They are on the shelf",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are on the shelf**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- We are on the shelf: Không phù hợp với ngữ cảnh\n- It is on the shelf: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Ở đâu are the books? - ....\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: They are on the shelf**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- We are on the shelf: Không phù hợp với ngữ cảnh\n- It is on the shelf: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Những quyển sách ở đâu? - Chúng ở trên giá. - ....\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 155,
@@ -1465,21 +1560,26 @@
       "question": "Lisa is playing the guit_ _ at the moment.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Captruong/Images/04-dt-15.jpg",
       "correctAnswer": "ar",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ar**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ar = ar"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ar**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ar → guitar = đàn guitar"
     },
     {
       "id": 156,
       "type": "fill-blank",
       "question": "_ OUNG",
       "correctAnswer": "Y",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Y**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Y = Y"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Y**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Y = Y",
+      "vocabulary": {
+        "word": "young",
+        "translation": "trẻ",
+        "meaning": "having lived for only a short time; not old"
+      }
     },
     {
       "id": 157,
       "type": "fill-blank",
       "question": "_ _ _ _ is your mother’s name? - Her name is Hanh.",
       "correctAnswer": "What",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì What What What is your mother’s name? - Her name is Hanh.\n\n**Ghi nhớ:** What = What"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Cái gì What What What is your mother’s name? - Her name is Hanh.\n\n**Ghi nhớ:** What = cái gì, \"What is...?\" hỏi về thông tin"
     },
     {
       "id": 158,
@@ -1500,7 +1600,7 @@
       "type": "fill-blank",
       "question": "Thank you _ _ _ your letter. I’m glad to hear you’re well.",
       "correctAnswer": "for",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** for = cho, vì"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: for**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** for = cho, vì, \"thank you for\" = cảm ơn vì"
     },
     {
       "id": 160,
@@ -1508,7 +1608,7 @@
       "question": "How many _ _ _ _ do you have?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636507022046345063_Audio.mp3",
       "correctAnswer": "kids",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: kids**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Như thế nào many kids kids kids kids do you have?\n\n**Ghi nhớ:** kids = kids"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: kids**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Bạn có bao nhiêu con?\n\n**Ghi nhớ:** kids = trẻ em, con cái, \"How many\" hỏi về số lượng"
     },
     {
       "id": 161,
@@ -1522,7 +1622,7 @@
       "type": "fill-blank",
       "question": "I can speak two _ _ _ _ _ _ _ _ _ - Vietnamese and English.",
       "correctAnswer": "languages",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: languages**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** languages = languages"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: languages**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** languages → languages = ngôn ngữ"
     },
     {
       "id": 163,
@@ -1530,14 +1630,19 @@
       "question": "Could you bring me a bar of _ _ _ _ _ _ _ _ _ tomorrow?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506656377554366_566X320.jpg",
       "correctAnswer": "chocolate",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: chocolate**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** chocolate = chocolate"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: chocolate**\n\n**Lý do:**\n- Từ cần điền có 9 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** chocolate → chocolate = sô-cô-la"
     },
     {
       "id": 164,
       "type": "fill-blank",
       "question": "PO_ ICE",
       "correctAnswer": "L",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** L = L"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: L**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** L = L",
+      "vocabulary": {
+        "word": "police",
+        "translation": "cảnh sát",
+        "meaning": "the civil force responsible for maintaining public order and safety"
+      }
     },
     {
       "id": 165,
@@ -1557,14 +1662,14 @@
       "type": "fill-blank",
       "question": "They are l_ _ _ _ _ _ _ _ to music.",
       "correctAnswer": "istening",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: istening**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Họ đang listening istening istening istening istening istening istening istening to music.\n\n**Ghi nhớ:** istening = istening"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: istening**\n\n**Lý do:**\n- Từ cần điền có 8 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Họ đang nghe nhạc.\n\n**Ghi nhớ:** istening → listening = nghe, \"listen to music\" = nghe nhạc"
     },
     {
       "id": 167,
       "type": "word-arrangement",
       "question": "I am/ in/ this letter/ my bedroom./ writing/",
       "correctAnswer": "I am writing this letter in my bedroom.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I am writing this letter in my bedroom.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Tôi đang writing this letter in my bedroom.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: I am writing this letter in my bedroom.**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Tôi đang viết lá thư này trong phòng ngủ của tôi.\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
     {
       "id": 168,
@@ -1578,7 +1683,7 @@
         "On Sunday afternoon."
       ],
       "correctAnswer": "On Saturday morning.",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: On Saturday morning.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- On Saturday morning.: Không phù hợp với ngữ cảnh\n- On Saturday afternoon.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Khi nào does he often play football?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: On Saturday morning.**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n\n- On Saturday afternoon.: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Anh ấy thường chơi bóng đá khi nào?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 169,
@@ -1598,7 +1703,7 @@
         "play"
       ],
       "correctAnswer": "playing",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: playing**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- plays: Không phù hợp với ngữ cảnh\n- play: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Where are your daughters? – Họ đang ... in their room.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: playing**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- plays: Không phù hợp với ngữ cảnh\n- play: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Where are your daughters? – Các con gái của bạn đâu? - Chúng đang chơi trong phòng.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 171,
@@ -1612,14 +1717,14 @@
         "go off"
       ],
       "correctAnswer": "get up",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: get up**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- go up: Không phù hợp với ngữ cảnh\n- get off: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì time do you …?\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: get up**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- go up: Không phù hợp với ngữ cảnh\n- get off: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Bạn thức dậy lúc mấy giờ?\n\n**Ghi nhớ:** \"get up\" = thức dậy, \"What time\" hỏi về giờ"
     },
     {
       "id": 172,
       "type": "fill-blank",
       "question": "She doesn’t do _ _ _ exercises. She is very lazy.",
       "correctAnswer": "any",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: any**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** She doesn’t do any any any exercises. Cô ấy đang very lazy.\n\n**Ghi nhớ:** any = any"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: any**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** She doesn’t do any any any exercises. Cô ấy đang very lazy.\n\n**Ghi nhớ:** any = bất kỳ, \"doesn't...any\" = không...gì cả"
     },
     {
       "id": 173,
@@ -1633,7 +1738,7 @@
       "type": "fill-blank",
       "question": "My father is an engineer. - My sister is an engineer, _ _ _ .",
       "correctAnswer": "too",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: too**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** too = cũng vậy"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: too**\n\n**Lý do:**\n- Từ cần điền có 3 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** too = cũng vậy, \"too\" đứng cuối câu"
     },
     {
       "id": 175,
@@ -1680,14 +1785,14 @@
       "type": "fill-blank",
       "question": "Why _ _ she happy?",
       "correctAnswer": "is",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** is = là"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** is → is = là (động từ tobe số ít)"
     },
     {
       "id": 179,
       "type": "fill-blank",
       "question": "You were absent _ _ _ _ school this morning. What’s the trouble?",
       "correctAnswer": "from",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: from**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** You were absent from from from from school this morning. Cái gì’s the trouble?\n\n**Ghi nhớ:** from = từ"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: from**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** You were absent from from from from school this morning. Cái gì’s the trouble?\n\n**Ghi nhớ:** \"absent from\" = vắng mặt khỏi, \"What's the trouble?\" = Có vấn đề gì?"
     },
     {
       "id": 180,
@@ -1741,14 +1846,19 @@
         "How old"
       ],
       "correctAnswer": "How old",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- How many: Không phù hợp với ngữ cảnh\n- How much: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** ... is your grandfather? - Anh ấy đang over80 years old.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Chọn ý: D**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- How many: Không phù hợp với ngữ cảnh\n- How much: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** ... is your grandfather? - Ông của bạn bao nhiêu tuổi? - Ông ấy hơn 80 tuổi.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 185,
       "type": "fill-blank",
       "question": "The teacher is telling a s_ _ _ _ to the pupils.",
       "correctAnswer": "tory",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: tory**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** tory = tory"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: tory**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** tory = tory",
+      "vocabulary": {
+        "word": "story",
+        "translation": "câu chuyện",
+        "meaning": "an account of imaginary or real events told for entertainment"
+      }
     },
     {
       "id": 186,
@@ -1788,7 +1898,7 @@
       "type": "fill-blank",
       "question": "Where were you _ orn?",
       "correctAnswer": "b",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: b**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Ở đâu were you b orn?\n\n**Ghi nhớ:** b = b"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: b**\n\n**Lý do:**\n- Từ cần điền có 1 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Ở đâu were you b orn?\n\n**Ghi nhớ:** b → born = sinh ra"
     },
     {
       "id": 190,
@@ -1802,28 +1912,28 @@
       "type": "word-arrangement",
       "question": "Nam/ like?/ What/ animals/ does/",
       "correctAnswer": "What animals does Nam like?",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What animals does Nam like?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Cái gì animals does Nam like?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: What animals does Nam like?**\n\n**Phân tích:**\n- Câu được sắp xếp từ các từ cho sẵn\n- Cấu trúc câu hợp lý về ngữ pháp và ý nghĩa\n\n**Dịch nghĩa:** Nam thích những con vật nào?\n\n**Ghi nhớ:** Chú ý trật tự từ trong câu tiếng Anh"
     },
     {
       "id": 192,
       "type": "fill-blank",
       "question": "This is _ _ ink-pot.",
       "correctAnswer": "an",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: an**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** an = an"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: an**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** an = một (mạo từ trước nguyên âm)"
     },
     {
       "id": 193,
       "type": "fill-blank",
       "question": "Jack often fishes for hours _ _ _ _ _ _ _ catching any fish.",
       "correctAnswer": "without",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: without**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** without = without"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: without**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** without → without = không có, không"
     },
     {
       "id": 194,
       "type": "fill-blank",
       "question": "I don’t like pork. - _ _ _ _ _ _ _ do I.",
       "correctAnswer": "Neither",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Neither**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Neither = Neither"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: Neither**\n\n**Lý do:**\n- Từ cần điền có 7 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** Neither → Neither = cũng không (dùng với câu phủ định)"
     },
     {
       "id": 195,
@@ -1844,7 +1954,7 @@
       "question": "Be sure to put out the _ _ _ _ before you leave.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106374518019116_Audio.mp3",
       "correctAnswer": "fire",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fire**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** fire = fire"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: fire**\n\n**Lý do:**\n- Từ cần điền có 4 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** fire → fire = lửa, đám cháy"
     },
     {
       "id": 197,
@@ -1864,7 +1974,7 @@
         "was Sandra like"
       ],
       "correctAnswer": "is Sandra like",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is Sandra like**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- did Sandra like: Không phù hợp với ngữ cảnh\n- does Sandra like: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Cái gì …? – She is very nice.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: is Sandra like**\n\n**Lý do:**\n- Đáp án phù hợp nhất với ngữ cảnh câu hỏi\n\n**Các đáp án khác:**\n- did Sandra like: Không phù hợp với ngữ cảnh\n- does Sandra like: Không phù hợp với ngữ cảnh\n\n**Dịch nghĩa:** Sandra như thế nào? - Cô ấy rất tốt bụng. – She is very nice.\n\n**Ghi nhớ:** Chú ý ngữ cảnh và cấu trúc câu"
     },
     {
       "id": 199,
@@ -1878,7 +1988,7 @@
       "type": "fill-blank",
       "question": "We’re studying in the classroom n_ _ .",
       "correctAnswer": "ow",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ow**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ow = ow"
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: ow**\n\n**Lý do:**\n- Từ cần điền có 2 chữ cái\n- Hoàn thành từ theo ngữ cảnh câu\n\n**Dịch nghĩa:** Xem bản dịch câu\n\n**Ghi nhớ:** ow → now = bây giờ"
     }
   ]
 }

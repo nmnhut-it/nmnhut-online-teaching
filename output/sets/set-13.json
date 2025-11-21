@@ -117,8 +117,8 @@
     {
       "id": 10,
       "type": "word-arrangement",
-      "question": "in the city center./ new buiding/ is a/ Green Tower/",
-      "correctAnswer": "Green Tower is a new buiding in the city center.",
+      "question": "in the city center./ new building/ is a/ Green Tower/",
+      "correctAnswer": "Green Tower is a new building in the city center.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: Green Tower is a new building in the city center.**\n\n**Lý do:**\n- Green Tower (tên riêng) + is + a new building\n- \"in the city center\" = ở trung tâm thành phố\n- Câu mô tả vị trí của một tòa nhà\n\n**Dịch nghĩa:** Tháp Green là một tòa nhà mới ở trung tâm thành phố.\n\n**Ghi nhớ:** Chú ý trật tự: Tên + is + a/an + tính từ + danh từ + địa điểm"
     },
     {
@@ -222,7 +222,7 @@
     {
       "id": 23,
       "type": "fill-blank",
-      "question": "I am making some cakes when the electricity _ _ _ _ out yesterday.",
+      "question": "I was making some cakes when the electricity _ _ _ _ out yesterday.",
       "correctAnswer": "went",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: went**\n\n**Lý do:**\n- \"went out\" = mất điện\n- Câu quá khứ: \"yesterday\" → dùng \"went\"\n- \"the electricity went out\" = điện bị cắt\n\n**Dịch nghĩa:** Tôi đang làm bánh thì điện bị cắt hôm qua.\n\n**Ghi nhớ:** went out = mất điện, cắt điện"
     },
@@ -317,7 +317,7 @@
     {
       "id": 32,
       "type": "fill-blank",
-      "question": "Is your little son’s birthday _ _ September25th?",
+      "question": "Is your little son's birthday _ _ September 25th?",
       "correctAnswer": "on",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: on**\n\n**Lý do:**\n- \"on + ngày tháng cụ thể\"\n- \"on September 25th\" = vào ngày 25 tháng 9\n- Dùng \"on\" với ngày trong tháng\n\n**Dịch nghĩa:** Sinh nhật con trai nhỏ của bạn có phải vào ngày 25 tháng 9 không?\n\n**Ghi nhớ:** on + ngày cụ thể"
     },
@@ -413,7 +413,7 @@
     {
       "id": 43,
       "type": "fill-blank",
-      "question": "My brother is17 years old and he is in _ _ _ _ _12.",
+      "question": "My brother is 17 years old and he is in _ _ _ _ _12.",
       "correctAnswer": "grade",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: grade**\n\n**Lý do:**\n- \"in grade 12\" = ở lớp 12\n- 17 tuổi thường học lớp 12\n- Từ có 5 chữ cái\n\n**Dịch nghĩa:** Anh trai tôi 17 tuổi và học lớp 12.\n\n**Ghi nhớ:** in grade = ở lớp"
     },
@@ -743,8 +743,8 @@
     {
       "id": 78,
       "type": "word-arrangement",
-      "question": "the evening./ and / in/ my teeth/ in the morning/ I brush/",
-      "correctAnswer": "I brush my teeth in the morning and / in the evening.",
+      "question": "the evening./ and/ in/ my teeth/ in the morning/ I brush/",
+      "correctAnswer": "I brush my teeth in the morning and in the evening.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: I brush my teeth in the morning and in the evening.**\n\n**Lý do:**\n- \"brush my teeth\" = đánh răng\n- \"in the morning and in the evening\" = buổi sáng và buổi tối\n- Thói quen hàng ngày\n\n**Dịch nghĩa:** Tôi đánh răng vào buổi sáng và buổi tối.\n\n**Ghi nhớ:** brush teeth = đánh răng"
     },
     {
@@ -845,7 +845,7 @@
     {
       "id": 89,
       "type": "fill-blank",
-      "question": "Our family went si_ _ tseeing last weekend.",
+      "question": "Our family went si_ _tseeing last weekend.",
       "correctAnswer": "gh",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: gh**\n\n**Lý do:**\n- \"sightseeing\" = tham quan, ngắm cảnh\n- \"went sightseeing\" = đi tham quan\n- si_htseeing → sightseeing\n\n**Dịch nghĩa:** Gia đình chúng tôi đã đi tham quan cuối tuần trước.\n\n**Ghi nhớ:** sightseeing = tham quan"
     },
@@ -1125,13 +1125,13 @@
       "type": "multiple-choice",
       "question": "I have a … today, it’s very bad.",
       "options": [
-        "sore-throat",
+        "sore throat",
         "sore",
         "throatsore",
         "throat"
       ],
-      "correctAnswer": "sore-throat",
-      "explanation": "**Giải thích:**\n\n**Đáp án đúng: sore-throat**\n\n**Lý do:**\n- \"sore throat\" = đau họng\n- \"have a sore throat\" = bị đau họng\n- Viết có dấu gạch ngang\n\n**Dịch nghĩa:** Hôm nay tôi bị đau họng, rất tệ.\n\n**Ghi nhớ:** sore throat = đau họng"
+      "correctAnswer": "sore throat",
+      "explanation": "**Giải thích:**\n\n**Đáp án đúng: sore throat**\n\n**Lý do:**\n- \"sore throat\" = đau họng\n- \"have a sore throat\" = bị đau họng\n- Viết không có dấu gạch ngang\n\n**Dịch nghĩa:** Hôm nay tôi bị đau họng, rất tệ.\n\n**Ghi nhớ:** sore throat = đau họng"
     },
     {
       "id": 120,
@@ -1453,7 +1453,7 @@
     {
       "id": 153,
       "type": "multiple-choice",
-      "question": "Can he speak …? – Yes, he is.",
+      "question": "Can he speak …? – Yes, he can.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/5/636507088927061846_Audio.mp3",
       "options": [
         "Japanese",
@@ -1672,7 +1672,7 @@
         "on Fridays in the afternoon",
         "on Friday afternoons"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "on Friday afternoons",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: on Friday afternoons**\n\n**Lý do:**\n- \"on Friday afternoons\" = vào các chiều thứ Sáu\n- Cách nói ngắn gọn và đúng nhất\n- Thời gian cụ thể: ngày + buổi\n\n**Dịch nghĩa:** Bạn có ra ngoài vào các chiều thứ Sáu không?\n\n**Ghi nhớ:** on Friday afternoons = chiều thứ Sáu"
     },
     {
@@ -1774,7 +1774,7 @@
     {
       "id": 188,
       "type": "fill-blank",
-      "question": "The air polution is bad _ _ the city.",
+      "question": "The air pollution is bad _ _ the city.",
       "correctAnswer": "in",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\n- \"in the city\" = trong thành phố\n- \"air pollution\" = ô nhiễm không khí\n- Từ có 2 chữ cái\n\n**Dịch nghĩa:** Ô nhiễm không khí trong thành phố rất tệ.\n\n**Ghi nhớ:** in the city = trong thành phố"
     },
