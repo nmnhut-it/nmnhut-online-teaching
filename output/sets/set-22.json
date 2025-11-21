@@ -168,7 +168,7 @@
     {
       "id": 19,
       "type": "multiple-choice",
-      "question": "Choose the incorrect word or phrase in the following sentence: Is there manygirlsin your class?",
+      "question": "Choose the incorrect word or phrase in the following sentence: Is there many girls in your class?",
       "options": [
         "Is",
         "many",
@@ -215,7 +215,7 @@
     {
       "id": 23,
       "type": "multiple-choice",
-      "question": "… class are you in? - I’m in class7D.",
+      "question": "… class are you in? - I'm in class 7D.",
       "options": [
         "What",
         "Which",
@@ -599,7 +599,7 @@
     {
       "id": 61,
       "type": "multiple-choice",
-      "question": "When ... you start school? - When I was6 years old.",
+      "question": "When ... you start school? - When I was 6 years old.",
       "options": [
         "do",
         "did",
@@ -1200,10 +1200,10 @@
       "question": "Listen and choose the CORRECT sentence.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Capquanhuyen/De3/de%203-03.mp3",
       "options": [
-        "There are more than500 types of mangoes.",
-        "There are more than50 types of mangoes.",
-        "There are more than5000 types of mangoes.",
-        "There are more than15 types of mangoes."
+        "There are more than 500 types of mangoes.",
+        "There are more than 50 types of mangoes.",
+        "There are more than 5000 types of mangoes.",
+        "There are more than 15 types of mangoes."
       ],
       "correctAnswer": "There are more than 500 types of mangoes.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: There are more than 500 types of mangoes.**\n\n**Lý do:**\nCâu hỏi: \"Listen and choose the CORRECT sentence.\" (Nghe và chọn câu ĐÚNG.) với audio.\n\nTheo audio, có hơn 500 loại xoài. Đây là thông tin về sự đa dạng của trái xoài.\n\n**Các đáp án khác:**\n- 50 types: 50 loại (ít hơn)\n- 5000 types: 5000 loại (nhiều hơn)\n- 15 types: 15 loại (quá ít)\n\n**Ghi nhớ:** More than 500 = hơn 500"
