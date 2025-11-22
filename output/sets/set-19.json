@@ -13,7 +13,7 @@
     {
       "id": 2,
       "type": "multiple-choice",
-      "question": "What is the young girl riding? - ....",
+      "question": "What is the young girl riding?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/1/2/635242529123516273_Audio.mp3",
       "options": [
         "The bigger horse",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "type": "multiple-choice",
-      "question": "What is ... to drink? - Soda and Coke.",
+      "question": "What is there to drink? - Soda and Coke.",
       "options": [
         "this",
         "that",
@@ -40,7 +40,7 @@
     {
       "id": 4,
       "type": "multiple-choice",
-      "question": "Is her school … the park?",
+      "question": "Is her school in front of the park?",
       "options": [
         "in front of",
         "next",
@@ -82,7 +82,7 @@
     {
       "id": 8,
       "type": "multiple-choice",
-      "question": "My father has a letter ... his friend in Singapore.",
+      "question": "My father has a letter from his friend in Singapore.",
       "options": [
         "of",
         "from",
@@ -95,7 +95,7 @@
     {
       "id": 9,
       "type": "fill-blank",
-      "question": "Hung’s brother dreams of being an astronaut because he wants to visit other p_ _ _ _ _ _ .",
+      "question": "Hung’s brother dreams of being an astronaut because he wants to visit other p_ _ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/7/635562280708519768_566X320.jpg",
       "correctAnswer": "lanets",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: lanets**\n\n**Lý do:**\nTừ cần điền là \"planets\" (các hành tinh). Câu hoàn chỉnh: \"Hung's brother dreams of being an astronaut because he wants to visit other planets\" (Anh trai của Hùng mơ ước trở thành phi hành gia vì anh ấy muốn đến thăm các hành tinh khác). Từ \"planet\" là danh từ đếm được, dùng số nhiều với \"other planets\".\n\n**Ghi nhớ:** \"Astronaut\" = \"phi hành gia\", \"planet\" = \"hành tinh\"."
@@ -110,7 +110,7 @@
     {
       "id": 11,
       "type": "fill-blank",
-      "question": "My mother isn’t _ _ _ . She is thin.",
+      "question": "My mother isn’t _ _ _. She is thin.",
       "correctAnswer": "fat",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: fat**\n\n**Lý do:**\nTừ cần điền là \"fat\" (béo). Câu hoàn chỉnh: \"My mother isn't fat. She is thin\" (Mẹ tôi không béo. Bà ấy gầy). \"Fat\" và \"thin\" là hai tính từ trái nghĩa nhau, dùng để miêu tả thể hình.\n\n**Ghi nhớ:** \"Fat\" (béo) trái nghĩa với \"thin\" (gầy)."
     },
@@ -120,7 +120,7 @@
       "question": "May I ask you some questions for my _______ about activities in the free time?",
       "options": [
         "survey",
-        "survay",
+        "survey",
         "map",
         "studying"
       ],
@@ -144,7 +144,7 @@
     {
       "id": 15,
       "type": "multiple-choice",
-      "question": "Don’t make a fire here. It’s ....",
+      "question": "Don't make a fire here. It's dangerous.",
       "options": [
         "safe",
         "natural",
@@ -164,7 +164,7 @@
     {
       "id": 17,
       "type": "fill-blank",
-      "question": "He's seeing the _ _ _ _ _ _ .",
+      "question": "He's seeing the _ _ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Capquanhuyen/De3/de%203-16.mp3",
       "correctAnswer": "doctor",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: doctor**\n\n**Lý do:**\nTừ cần điền là \"doctor\" (bác sĩ). Cụm từ \"see the doctor\" nghĩa là \"đi khám bác sĩ\". Câu hoàn chỉnh: \"He's seeing the doctor\" (Anh ấy đang đi khám bác sĩ). Thì hiện tại tiếp diễn \"is seeing\" chỉ hành động đang diễn ra.\n\n**Ghi nhớ:** \"See the doctor\" = \"đi khám bác sĩ\" (cụm từ cố định)."
@@ -172,7 +172,7 @@
     {
       "id": 18,
       "type": "multiple-choice",
-      "question": "I have … books than she does.",
+      "question": "I have fewer books than she does.",
       "options": [
         "little",
         "few",
@@ -185,7 +185,7 @@
     {
       "id": 19,
       "type": "multiple-choice",
-      "question": "The sign says ’’No smoking'. You … smoke .",
+      "question": "The sign says ''No smoking'. You must not smoke.",
       "options": [
         "can",
         "are not",
@@ -227,10 +227,10 @@
     {
       "id": 24,
       "type": "multiple-choice",
-      "question": "I … eat ice-creams because I don’t like it very much.",
+      "question": "I rarely eat ice-creams because I don't like it very much.",
       "options": [
         "always",
-        "sometime",
+        "sometimes",
         "rarely",
         "do"
       ],
@@ -261,7 +261,7 @@
     {
       "id": 27,
       "type": "multiple-choice",
-      "question": "We use a tent when we go ….",
+      "question": "We use a tent when we go camping.",
       "options": [
         "sailing",
         "camping",
@@ -288,7 +288,7 @@
     {
       "id": 30,
       "type": "multiple-choice",
-      "question": "Farmers … to work hard on the farm.",
+      "question": "Farmers ought to work hard on the farm.",
       "options": [
         "should",
         "ought",
@@ -323,7 +323,7 @@
     {
       "id": 33,
       "type": "multiple-choice",
-      "question": "There is a lake ... front ... my school.",
+      "question": "There is a lake in front of my school.",
       "options": [
         "on/of",
         "in of",
@@ -343,7 +343,7 @@
     {
       "id": 35,
       "type": "multiple-choice",
-      "question": "Mr. Baker … breakfast at the moment.",
+      "question": "Mr. Baker is having breakfast at the moment.",
       "options": [
         "is having",
         "are having",
@@ -369,7 +369,7 @@
         "The fifteenth.",
         "The nineteenth.",
         "The sixteenth.",
-        "The seventeeth."
+        "The seventeenth."
       ],
       "correctAnswer": "The fifteenth.",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: The fifteenth.**\n\n**Lý do:**\nDựa vào audio, ngày sinh nhật của Tony là ngày 15 tháng 10. \"The fifteenth\" nghĩa là \"ngày mười lăm\". Đây là cách đọc ngày tháng trong tiếng Anh sử dụng số thứ tự.\n\n**Các đáp án khác:**\n- The nineteenth, sixteenth, seventeeth: Không đúng theo audio.\n\n**Ghi nhớ:** Ngày tháng dùng số thứ tự: fifteenth (15th), sixteenth (16th), nineteenth (19th)."
@@ -457,7 +457,7 @@
     {
       "id": 45,
       "type": "multiple-choice",
-      "question": "What has the woman got? - ....",
+      "question": "What has the woman got?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563297405439780_Audio.mp3",
       "options": [
         "A bowl of pineapples",
@@ -471,7 +471,7 @@
     {
       "id": 46,
       "type": "fill-blank",
-      "question": "Hoang likes playing the _ _ _ _ _ , too.",
+      "question": "Hoang likes playing the _ _ _ _ _, too.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/2/26/636552410809589360_566X320.jpg",
       "correctAnswer": "piano",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: piano**\n\n**Lý do:**\nTừ cần điền là \"piano\" (đàn dương cầm). Câu hoàn chỉnh: \"Hoang likes playing the piano, too\" (Hoàng cũng thích chơi đàn dương cầm). Với nhạc cụ phải dùng \"the\" trước tên nhạc cụ: \"play the piano\".\n\n**Ghi nhớ:** \"Play the + nhạc cụ\" (play the piano, play the guitar)."
@@ -556,7 +556,7 @@
     {
       "id": 55,
       "type": "multiple-choice",
-      "question": "...? – It’s aerobics.",
+      "question": "What do you often do in your free time? – It's aerobics.",
       "options": [
         "Does Paula like aerobics or not?",
         "Does Paula do aerobics?",
@@ -583,7 +583,7 @@
     {
       "id": 58,
       "type": "multiple-choice",
-      "question": "Do you often … the art gallery?",
+      "question": "Do you often visit the art gallery?",
       "options": [
         "visit",
         "come",
@@ -596,21 +596,21 @@
     {
       "id": 59,
       "type": "fill-blank",
-      "question": "I like bears, but my little sister likes ele_ _ _ _ _ _ .",
+      "question": "I like bears, but my little sister likes ele_ _ _ _ _ _.",
       "correctAnswer": "phants",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: phants**\n\n**Lý do:**\nTừ cần điền là \"elephants\" (những con voi). Câu hoàn chỉnh: \"I like bears, but my little sister likes elephants\" (Tôi thích gấu, nhưng em gái tôi thích voi). \"Elephant\" là danh từ đếm được, dùng số nhiều.\n\n**Ghi nhớ:** \"Elephant\" = \"con voi\", \"bear\" = \"con gấu\"."
     },
     {
       "id": 60,
       "type": "fill-blank",
-      "question": "Yoko comes from Tokyo. She is Japan_ _ _ .",
+      "question": "Yoko comes from Tokyo. She is Japan_ _ _.",
       "correctAnswer": "ese",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: ese**\n\n**Lý do:**\nTừ cần điền là \"Japanese\" (người Nhật). Câu hoàn chỉnh: \"Yoko comes from Tokyo. She is Japanese\" (Yoko đến từ Tokyo. Cô ấy là người Nhật). Quốc tịch của người từ Nhật Bản là \"Japanese\".\n\n**Ghi nhớ:** \"Japan\" (nước Nhật) → \"Japanese\" (người/tiếng Nhật)."
     },
     {
       "id": 61,
       "type": "multiple-choice",
-      "question": "They visit their parents every month. ’’Visit’’ here also means ….",
+      "question": "They visit their parents every month. ''Visit'' here also means see.",
       "options": [
         "watch",
         "look at",
@@ -623,14 +623,14 @@
     {
       "id": 62,
       "type": "fill-blank",
-      "question": "What class are you _ _ ? - I’m in class 6A.",
+      "question": "What class are you _ _? - I’m in class 6A.",
       "correctAnswer": "in",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: in**\n\n**Lý do:**\nCụm \"be in class\" nghĩa là \"ở lớp\". Câu hoàn chỉnh: \"What class are you in? - I'm in class 6A\" (Bạn học lớp mấy? - Tôi học lớp 6A). Giới từ \"in\" dùng với lớp học.\n\n**Ghi nhớ:** \"Be in class + số\" = \"học lớp...\""
     },
     {
       "id": 63,
       "type": "multiple-choice",
-      "question": "… homework do you get?",
+      "question": "How much homework do you get?",
       "options": [
         "How many",
         "How long",
@@ -643,7 +643,7 @@
     {
       "id": 64,
       "type": "multiple-choice",
-      "question": "My sister is interested … cooking.",
+      "question": "My sister is interested in cooking.",
       "options": [
         "at",
         "on",
@@ -656,7 +656,7 @@
     {
       "id": 65,
       "type": "multiple-choice",
-      "question": "Many people lost their home and didn't have any _____ to eat .",
+      "question": "Many people lost their home and didn't have any _____ to eat.",
       "options": [
         "drink",
         "food",
@@ -691,7 +691,7 @@
     {
       "id": 69,
       "type": "multiple-choice",
-      "question": "… are you going to stay here? – Just 2 days.",
+      "question": "How long are you going to stay here? – Just 2 days.",
       "options": [
         "How often",
         "How days",
@@ -704,7 +704,7 @@
     {
       "id": 70,
       "type": "multiple-choice",
-      "question": "John likes sports very much. He usually plays … after school.",
+      "question": "John likes sports very much. He usually plays sports after school.",
       "options": [
         "games and Math",
         "soccer and Literature",
@@ -717,7 +717,7 @@
     {
       "id": 71,
       "type": "multiple-choice",
-      "question": "Who does he often help? - ....",
+      "question": "Who does he often help?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/30/635240154222118128_Audio.mp3",
       "options": [
         "The Japanese police",
@@ -752,7 +752,7 @@
     {
       "id": 75,
       "type": "multiple-choice",
-      "question": "...? – It’s aerobics.",
+      "question": "What does Linda often do in her free time? – It's aerobics.",
       "options": [
         "Does Paula like aerobics or not",
         "Does Paula do aerobics",
@@ -821,7 +821,7 @@
     {
       "id": 83,
       "type": "multiple-choice",
-      "question": "It is often ... in June.",
+      "question": "It is often rainy in June.",
       "options": [
         "summer",
         "autumn",
@@ -876,7 +876,7 @@
     {
       "id": 89,
       "type": "fill-blank",
-      "question": "Jane wants to be a singer because she loves _ _ _ _ _ _ _ .",
+      "question": "Jane wants to be a singer because she loves _ _ _ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/7/635562277281414970_566X320.jpg",
       "correctAnswer": "singing",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: singing**\n\n**Lý do:**\nTừ cần điền là \"singing\" (ca hát). Câu hoàn chỉnh: \"Jane wants to be a singer because she loves singing\" (Jane muốn trở thành ca sĩ vì cô ấy yêu ca hát). \"Love + V-ing\" = \"yêu thích làm gì\".\n\n**Ghi nhớ:** \"Singer\" = \"ca sĩ\", \"singing\" = \"ca hát\", \"love + V-ing\"."
@@ -912,7 +912,7 @@
     {
       "id": 93,
       "type": "multiple-choice",
-      "question": "Is that your teacher? - Yes, ... my teacher.",
+      "question": "Is that your teacher? - Yes, he's my teacher.",
       "options": [
         "this’s",
         "that isn’t",
@@ -960,7 +960,7 @@
     {
       "id": 100,
       "type": "multiple-choice",
-      "question": "Tom: … - Mary: My school has 2 floors.",
+      "question": "Tom: How many floors does your school have? - Mary: My school has 2 floors.",
       "options": [
         "How many floors is these in your school?",
         "How much floors is there in your school?",
@@ -973,7 +973,7 @@
     {
       "id": 101,
       "type": "fill-blank",
-      "question": "Yesterday she visited her _ _ _ _ _ _ _ .",
+      "question": "Yesterday she visited her _ _ _ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199033910815061_Audio.mp3",
       "correctAnswer": "grandma",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: grandma**\n\n**Lý do:**\nDựa vào audio, từ cần điền là \"grandma\" (bà). Câu hoàn chỉnh: \"Yesterday she visited her grandma\" (Hôm qua cô ấy đã thăm bà). \"Visit\" ở thì quá khứ là \"visited\", \"yesterday\" là dấu hiệu thì quá khứ.\n\n**Ghi nhớ:** \"Grandma\" = \"bà\" (grandmother), \"grandpa\" = \"ông\" (grandfather)."
@@ -1016,7 +1016,7 @@
     {
       "id": 107,
       "type": "multiple-choice",
-      "question": "How is hide-and-seek? - ....",
+      "question": "How is hide-and-seek?",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/30/635240152759771559_Audio.mp3",
       "options": [
         "Exciting",
@@ -1044,7 +1044,7 @@
     {
       "id": 109,
       "type": "fill-blank",
-      "question": "This is my grandm_ _ _ _ _ .",
+      "question": "This is my grandm_ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop5/Capquanhuyen/De3/03-dt-15.jpg",
       "correctAnswer": "other",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: other**\n\n**Lý do:**\nTừ cần điền là \"grandmother\" (bà). Dựa vào hình ảnh, đây là người bà. Câu hoàn chỉnh: \"This is my grandmother\" (Đây là bà của tôi).\n\n**Ghi nhớ:** \"Grandmother\" = \"bà\" (viết đầy đủ của \"grandma\")."
@@ -1059,14 +1059,14 @@
     {
       "id": 111,
       "type": "fill-blank",
-      "question": "Are you having an English lesson? - No, I’m _ _ _ .",
+      "question": "Are you having an English lesson? - No, I’m _ _ _.",
       "correctAnswer": "not",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: not**\n\n**Lý do:**\nCâu trả lời ngắn phủ định với \"No, I'm not\". Câu hoàn chỉnh: \"Are you having an English lesson? - No, I'm not\" (Bạn có đang học tiếng Anh không? - Không, tôi không). \"I'm not\" = \"I am not\".\n\n**Ghi nhớ:** \"Are you...?\" → \"Yes, I am\" / \"No, I'm not\"."
     },
     {
       "id": 112,
       "type": "multiple-choice",
-      "question": "A student uses … to write the lesson.",
+      "question": "A student uses a pen to write the lesson.",
       "options": [
         "a pen",
         "a ruler",
@@ -1100,7 +1100,7 @@
     {
       "id": 116,
       "type": "fill-blank",
-      "question": "We are loading the truck with _ _ _ _ _ _ _ _ .",
+      "question": "We are loading the truck with _ _ _ _ _ _ _ _.",
       "mediaUrl": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/9/636826318942911784_566X320.jpg",
       "correctAnswer": "cabbages",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: cabbages**\n\n**Lý do:**\nDựa vào hình ảnh, từ cần điền là \"cabbages\" (bắp cải). Câu hoàn chỉnh: \"We are loading the truck with cabbages\" (Chúng tôi đang chất bắp cải lên xe tải). \"Load with\" = \"chất lên\".\n\n**Ghi nhớ:** \"Cabbage\" = \"bắp cải\", \"load\" = \"chất, chở\"."
@@ -1115,7 +1115,7 @@
     {
       "id": 118,
       "type": "multiple-choice",
-      "question": "The word for the number 15 is ....",
+      "question": "The word for the number 15 is fifteenth.",
       "options": [
         "twenty",
         "eleven",
@@ -1128,7 +1128,7 @@
     {
       "id": 119,
       "type": "multiple-choice",
-      "question": "Reading and writing in Japanese is … for Lam.",
+      "question": "Reading and writing in Japanese is difficult for Lam.",
       "options": [
         "same",
         "difficult",
@@ -1190,7 +1190,7 @@
     {
       "id": 127,
       "type": "multiple-choice",
-      "question": "Look … that strange girl. She is looking … Tuan but he isn’t here",
+      "question": "Look at that strange girl. She is looking for Tuan but he isn't here.",
       "options": [
         "at/at",
         "at / on",
@@ -1327,7 +1327,7 @@
     {
       "id": 142,
       "type": "multiple-choice",
-      "question": "We were delighted … your letter last week.",
+      "question": "We were delighted by your letter last week.",
       "options": [
         "getting",
         "to get",
@@ -1416,7 +1416,7 @@
     {
       "id": 152,
       "type": "fill-blank",
-      "question": "Where do these new workers come _ _ _ _ ?",
+      "question": "Where do these new workers come _ _ _ _?",
       "correctAnswer": "from",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: from**\n\n**Lý do:**\nCụm \"come from\" nghĩa là \"đến từ\". Câu hoàn chỉnh: \"Where do these new workers come from?\" (Những công nhân mới này đến từ đâu?). \"Come from\" chỉ nguồn gốc, quê quán.\n\n**Ghi nhớ:** \"Come from\" = \"đến từ\" (chỉ nguồn gốc)."
     },
@@ -1465,7 +1465,7 @@
     {
       "id": 158,
       "type": "multiple-choice",
-      "question": "Peter and I are staying ...15 Newton Road.",
+      "question": "Peter and I are staying at 15 Newton Road.",
       "options": [
         "at",
         "on",
@@ -1501,21 +1501,21 @@
     {
       "id": 162,
       "type": "fill-blank",
-      "question": "July comes after _ _ _ _ .",
+      "question": "July comes after _ _ _ _.",
       "correctAnswer": "June",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: June**\n\n**Lý do:**\nTháng sau tháng 6 (June) là tháng 7 (July). Câu hoàn chỉnh: \"July comes after June\" (Tháng 7 đến sau tháng 6). \"Come after\" = \"đến sau\".\n\n**Ghi nhớ:** Thứ tự tháng: May (5) → June (6) → July (7)."
     },
     {
       "id": 163,
       "type": "fill-blank",
-      "question": "You must brush your teeth regu_ _ _ _ _ .",
+      "question": "You must brush your teeth regu_ _ _ _ _.",
       "correctAnswer": "larly",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: larly**\n\n**Lý do:**\nTừ cần điền là \"regularly\" (đều đặn). Câu hoàn chỉnh: \"You must brush your teeth regularly\" (Bạn phải đánh răng đều đặn). \"Regularly\" là trạng từ chỉ tần suất.\n\n**Ghi nhớ:** \"Regularly\" = \"đều đặn\", \"regular\" (tính từ) → \"regularly\" (trạng từ)."
     },
     {
       "id": 164,
       "type": "multiple-choice",
-      "question": "How does your brother often go to work? - … motorbike.",
+      "question": "How does your brother often go to work? - By motorbike.",
       "options": [
         "At",
         "On",
@@ -1535,7 +1535,7 @@
     {
       "id": 166,
       "type": "multiple-choice",
-      "question": "John was happy because his club … the last game.",
+      "question": "John was happy because his club won the last game.",
       "options": [
         "won",
         "celebrated",
@@ -1556,7 +1556,7 @@
     {
       "id": 168,
       "type": "multiple-choice",
-      "question": "Would you like to play basketball? - .... Good idea!",
+      "question": "Would you like to play basketball? Good idea!",
       "options": [
         "I like",
         "I love it",
@@ -1569,7 +1569,7 @@
     {
       "id": 169,
       "type": "multiple-choice",
-      "question": "There ... much beer in the glass.",
+      "question": "There... much beer in the glass.",
       "options": [
         "isn’t",
         "aren’t",
@@ -1589,7 +1589,7 @@
     {
       "id": 171,
       "type": "multiple-choice",
-      "question": "… a nice trip and drive carefully!",
+      "question": "Have a nice trip and drive carefully!",
       "options": [
         "Do",
         "Has",
@@ -1630,7 +1630,7 @@
     {
       "id": 176,
       "type": "multiple-choice",
-      "question": "The Smiths live … Room 4001 on the fourth floor.",
+      "question": "The Smiths live in Room 4001 on the fourth floor.",
       "options": [
         "on",
         "in",
@@ -1664,7 +1664,7 @@
     {
       "id": 179,
       "type": "multiple-choice",
-      "question": "Your mother’s sister is your … .",
+      "question": "Your mother's sister is your aunt.",
       "options": [
         "grandmother",
         "aunt",
@@ -1698,14 +1698,14 @@
     {
       "id": 182,
       "type": "fill-blank",
-      "question": "Thanks for your help. – You are wel_ _ _ _ .",
+      "question": "Thanks for your help. – You are wel_ _ _ _.",
       "correctAnswer": "come",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: come**\n\n**Lý do:**\nCụm \"You are welcome\" nghĩa là \"Không có gì/Không sao\" - cách đáp lại lời cảm ơn. Câu hoàn chỉnh: \"Thanks for your help. - You are welcome\" (Cảm ơn sự giúp đỡ của bạn. - Không có gì).\n\n**Ghi nhớ:** \"You are welcome\" = \"Không có gì\" (đáp lại \"Thank you\")."
     },
     {
       "id": 183,
       "type": "multiple-choice",
-      "question": "Yesterday I … a bad accident at the traffic lights.",
+      "question": "Yesterday I saw a bad accident at the traffic lights.",
       "options": [
         "made",
         "saw",
@@ -1718,7 +1718,7 @@
     {
       "id": 184,
       "type": "multiple-choice",
-      "question": "Do you often listen … music?",
+      "question": "Do you often listen to music?",
       "options": [
         "to the",
         "to",
@@ -1731,7 +1731,7 @@
     {
       "id": 185,
       "type": "fill-blank",
-      "question": "Tommy: What’s your car _ _ _ _ ? – Daisy: It’s a nice black car.",
+      "question": "Tommy: What’s your car _ _ _ _? – Daisy: It’s a nice black car.",
       "correctAnswer": "like",
       "explanation": "**Giải thích:**\n\n**Đáp án đúng: like**\n\n**Lý do:**\nCụm \"What's...like?\" hỏi về đặc điểm. Câu hoàn chỉnh: \"What's your car like? - It's a nice black car\" (Xe của bạn như thế nào? - Đó là một chiếc xe đen đẹp). \"What's...like?\" = \"...như thế nào?\".\n\n**Ghi nhớ:** \"What's + N + like?\" = \"...như thế nào?\" (hỏi mô tả)."
     },
@@ -1745,7 +1745,7 @@
     {
       "id": 187,
       "type": "multiple-choice",
-      "question": "Ann and her brother ... at home yesterday.",
+      "question": "Ann and her brother were at home yesterday.",
       "options": [
         "didn’t are",
         "wasn’t",
@@ -1806,7 +1806,7 @@
     {
       "id": 194,
       "type": "multiple-choice",
-      "question": "At my birthday party, someone … the lights, so I couldn’t see anything.",
+      "question": "At my birthday party, someone turned off the lights, so I couldn't see anything.",
       "options": [
         "turned on",
         "turned off",
@@ -1819,7 +1819,7 @@
     {
       "id": 195,
       "type": "multiple-choice",
-      "question": "I’m in ...5A.",
+      "question": "I'm in class 5A.",
       "options": [
         "Ø",
         "class",
@@ -1832,7 +1832,7 @@
     {
       "id": 196,
       "type": "multiple-choice",
-      "question": "Will your sister ... the Internet for her homework?",
+      "question": "Will your sister use the Internet for her homework?",
       "options": [
         "do",
         "take",
@@ -1860,7 +1860,7 @@
     {
       "id": 199,
       "type": "multiple-choice",
-      "question": "She goes to the movies twice ... a year.",
+      "question": "She goes to the movies twice a year.",
       "options": [
         "time",
         "times",
@@ -1873,7 +1873,7 @@
     {
       "id": 200,
       "type": "multiple-choice",
-      "question": "You ... try your best to win the competition.",
+      "question": "You must try your best to win the competition.",
       "options": [
         "can",
         "may",
